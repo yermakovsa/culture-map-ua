@@ -1,0 +1,151 @@
+.mainDiv {
+  background-image: url("../../res/img/teamBack.webp");
+  background-position: 0 0;
+  background-size: 100%;
+}
+
+.title {
+  margin-top: 230px;
+  margin-bottom: 90px;
+  font-size: 76px;
+  font-family: "Kyiv";
+  font-weight: 700;
+  color: white;
+}
+
+.profileContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 40px;
+  transition: all 0.2s ease-out;
+}
+
+.department {
+  font-size: 52px;
+  font-weight: 700;
+  color: white;
+  margin-bottom: 50px;
+  font-family: "Kyiv";
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 110px;
+  font-size: 20px;
+  font-weight: 400;
+  color: #b8b8b8;
+  font-family: "KyivSans";
+  /* align-items: center; */
+}
+
+.card > .photo {
+  margin-bottom: 30px;
+  width: 192px;
+  height: 192px;
+}
+
+.card > .name {
+  font-size: 31px;
+  font-weight: 700;
+  font-family: "KyivSans";
+  color: white;
+  white-space: nowrap;
+  margin-bottom: 10px;
+}
+
+.role {
+  margin-bottom: 30px;
+}
+
+.contacts {
+  margin-bottom: 20px;
+  /* text-align: center; */
+}
+
+.contacts > a {
+  color: #b8b8b8;
+  text-decoration: none;
+}
+
+.contactLine {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.contactLine > .icon {
+  margin-right: 30px;
+}
+
+@media (max-width: 1100px) {
+  .profileContainer {
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 25px;
+  }
+}
+
+@media (max-width: 690px) {
+  .mainDiv {
+    background-image: url("../../res/img/smallTeamBack.webp");
+    background-position: 0 0;
+  }
+
+  /* .title {
+    margin-top: 90px;
+    font-size: 28px;
+    line-height: 34px;
+    font-weight: 700;
+    margin-bottom: 80px;
+    color: white !important;
+    font-family: "Kyiv";
+    margin-left: 20px;
+    text-align: center;
+  } */
+
+  .card {
+    margin-bottom: 40px;
+    font-size: 16px;
+    font-weight: 400;
+    /* margin-left: 20px; */
+    max-width: 250px;
+  }
+
+  .card > .photo {
+    margin-bottom: 10px;
+    width: 130px;
+    height: 130px;
+  }
+
+  .card > .name {
+    font-size: 20px;
+    font-weight: 700;
+    font-family: "KyivSans";
+    color: white;
+    white-space: nowrap;
+    margin-bottom: 5px;
+  }
+
+  .role {
+    margin-bottom: 12px;
+  }
+
+  .profileContainer {
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+  }
+
+  .department {
+    font-size: 24px;
+    margin-bottom: 35px;
+    /* margin-left: 10px; */
+  }
+
+  .title {
+    /* margin-left: 10px; */
+    margin-top: 105px;
+    margin-bottom: 60px;
+    font-size: 32px;
+  }
+}

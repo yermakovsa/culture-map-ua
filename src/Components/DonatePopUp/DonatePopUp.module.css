@@ -1,0 +1,263 @@
+.blurDiv, .blurDivHide {
+  position: fixed;
+  z-index: 1000;
+  left: 0px;
+  top: 0px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background: rgba(12, 12, 12, 0.6);
+  backdrop-filter: blur(7px);
+  height: 100vh;
+  width: 100vw;
+  animation-name: appear;
+  animation-duration: 0.2s;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+}
+
+.blurDivHide{
+  animation-name: hide;
+}
+
+@keyframes appear {
+  0%{
+    opacity: 0;
+  }
+  100%{
+    opacity: 1;
+  }
+}
+
+@keyframes hide {
+  0%{
+    opacity: 1;
+  }
+  100%{
+    opacity: 0;
+  }
+}
+
+.form {
+  width: 1020px;
+  max-width: 90vw;
+  height: fit-content;
+  max-height: 90vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  padding: 54px 58px 78px;
+  box-sizing: border-box;
+  background: linear-gradient(253.29deg, #020102 0%, #2e0000 100%);
+  border-radius: 35px;
+  color: white;
+}
+
+.close {
+  position: absolute;
+  top: 40px;
+  right: 40px;
+  width: fit-content;
+  height: fit-content;
+  cursor: pointer;
+}
+
+.title {
+  font-weight: 500;
+  font-family: "KyivSans";
+  margin-bottom: 50px;
+  text-align: center;
+  font-size: 50px;
+}
+
+.text {
+  text-align: center;
+  margin-bottom: 70px;
+  font-weight: 400;
+  font-family: "KyivSans";
+  font-size: 30px;
+}
+
+.line {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.input {
+  width: 550px;
+  font-size: 25px;
+  height: fit-content;
+  padding: 17px 50px 23px;
+  box-sizing: border-box;
+  color: white;
+  outline: none;
+  border: 2px solid #b8b8b8;
+  border-radius: 40px;
+  font-weight: 400;
+  font-family: "KyivSans";
+  margin-right: 30px;
+  background: #0d0102;
+}
+
+.sendInvalid {
+  border-radius: 40px;
+  font-weight: 400;
+  font-family: "KyivSans";
+  padding: 17px 50px 23px;
+  box-sizing: border-box;
+  color: white;
+  font-size: 25px;
+  height: fit-content;
+  background: #302626;
+}
+
+.send {
+  cursor: pointer;
+  border-radius: 40px;
+  font-weight: 400;
+  font-family: "KyivSans";
+  padding: 17px 50px 23px;
+  box-sizing: border-box;
+  color: white;
+  font-size: 25px;
+  height: fit-content;
+  background: #db0000;
+}
+
+@media (max-width: 1100px) {
+  .form {
+    width: 650px;
+    max-width: 90vw;
+    height: fit-content;
+    max-height: 90vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    padding: 32px 25px 50px;
+    box-sizing: border-box;
+    background: linear-gradient(253.29deg, #020102 0%, #2e0000 100%);
+    border-radius: 35px;
+    color: white;
+  }
+
+  .close {
+    position: absolute;
+    top: 25px;
+    right: 25px;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+  }
+
+  .close > img{
+    width: 25px;
+    height: 25px;
+  }
+
+  .title {
+    font-weight: 500;
+    font-family: "KyivSans";
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 36px;
+  }
+
+  .text {
+    text-align: center;
+    margin-bottom: 45px;
+    font-weight: 400;
+    font-family: "KyivSans";
+    font-size: 24px;
+  }
+
+  .line {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .input {
+    width: 450px;
+    font-size: 20px;
+    height: fit-content;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    padding: 13px 32px 18px;
+  }
+
+  .send, .sendInvalid{
+    font-size: 20px;
+    padding: 13px 32px 18px;
+  }
+}
+
+@media (max-width: 690px) {
+  .form {
+    width: 90vw;
+    max-width: 90vw;
+    height: fit-content;
+    max-height: 90vh;
+    padding: 20px 15px 30px;
+    border-radius: 20px;
+  }
+
+  .close {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+  }
+
+  .close > img{
+    width: 20px;
+    height: 20px;
+  }
+
+  .title {
+    font-weight: 500;
+    font-family: "KyivSans";
+    margin-bottom: 25px;
+    text-align: center;
+    font-size: 24px;
+  }
+
+  .text {
+    text-align: center;
+    margin-bottom: 25px;
+    font-weight: 400;
+    font-family: "KyivSans";
+    font-size: 16px;
+  }
+
+  .line {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .input {
+    width: 75vw;
+    font-size: 16px;
+    height: fit-content;
+    margin-right: 0px;
+    margin-bottom: 15px;
+    padding: 11px 15px 13px;
+  }
+
+  .send, .sendInvalid{
+    font-size: 16px;
+    padding: 11px 25px 13px;
+  }
+}

@@ -1,0 +1,101 @@
+.mainDiv {
+  background-image: url("../../res/img/teamBack.webp");
+  background-size: 100%;
+}
+
+.title {
+  margin-top: 230px;
+  margin-bottom: 175px;
+  font-size: 76px;
+  font-family: "Kyiv";
+  font-weight: 700;
+  color: white;
+}
+
+.partnerCard {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 145px;
+}
+
+.info {
+  width: 475px;
+  text-align: right;
+  color: white;
+}
+
+.info > h1 {
+  line-height: 47px;
+  font-size: 34px;
+  margin-top: 0;
+  margin-bottom: 40px;
+  font-weight: 800;
+}
+
+.info > p {
+  margin: 0;
+  line-height: 28px;
+  font-size: 20px;
+  font-weight: 450;
+}
+
+.image {
+  width: 400px;
+  height: auto;
+}
+
+@media (max-width: 1100px) {
+  .image {
+    width: 300px;
+    margin-right: 20px;
+  }
+}
+
+@media (max-width: 690px) {
+  .mainDiv {
+    background-image: url("../../res/img/smallTeamBack.webp");
+  }
+
+  .title {
+    /* margin-left: 10px; */
+    margin-top: 105px;
+    margin-bottom: 120px;
+    font-size: 32px;
+  }
+
+  .partnerCard {
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    margin-bottom: 80px;
+    box-sizing: border-box;
+    max-width: 450px;
+    /* padding: 0px 10px; */
+  }
+
+  .info {
+    margin-top: 40px;
+    width: 100%;
+    text-align: left;
+  }
+
+  .info > h1 {
+    line-height: 30px;
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+
+  .info > p {
+    line-height: 22px;
+    font-size: 16px;
+  }
+
+  .image {
+    width: inherit;
+    max-width: 400px;
+    height: auto;
+  }
+}

@@ -1,0 +1,91 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 145px);
+  grid-template-rows: repeat(3, 145px);
+  margin: 0 -13px -13px 0;
+}
+
+.photoDiv {
+  position: relative;
+  width: 132px;
+  height: 132px;
+  margin: 0 13px 13px 0;
+}
+
+.photoDiv > img {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 132px;
+  height: 132px;
+  animation-fill-mode: forwards;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-out;
+  animation-duration: 0.8s;
+  /* animation-delay: 1s; */
+}
+
+.image1 {
+  opacity: 1;
+  z-index: 2;
+  animation-name: disappear;
+}
+
+.image2 {
+  opacity: 0;
+  z-index: 1;
+  animation-name: appear;
+}
+
+@keyframes appear {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes disappear {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@media (max-width: 690px) {
+  .container {
+    display: grid;
+    width: 100%;
+    max-width: 480px;
+    aspect-ratio: 1/1;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-column-gap: 8.5px;
+    grid-row-gap: 8.5px;
+    margin: 0;
+  }
+
+  .photoDiv {
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+
+  .photoDiv > img {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    /* width: 132px;
+    height: 132px; */
+    width: inherit;
+    height: inherit;
+    animation-fill-mode: forwards;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-out;
+    animation-duration: 0.8s;
+    /* animation-delay: 1s; */
+  }
+}

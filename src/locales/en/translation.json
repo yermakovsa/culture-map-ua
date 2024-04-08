@@ -1,0 +1,207 @@
+{
+    "donate": "donate",
+    "send": "send",
+    "titles": {
+        "main": "Make your contribution to Ukrainian culture",
+        "team": "Team",
+        "donation": "Donation",
+        "partners": "Partners",
+        "report": "Report for destruction",
+        "help": "Help Ukrainian culture",
+        "map": "Map of destructions",
+        "privacy": "Privacy policy",
+        "offer": "Public offer"
+    },
+    "header": {
+        "menu": "menu",
+        "home": "home",
+        "team": "team",
+        "map": "map",
+        "goals": "goals",
+        "partners": "partners",
+        "help": "I want to help"
+    },
+    "main": {
+        "title": "Make your contribution to Ukrainian culture",
+        "ogTitle": "Make your contribution to Ukrainian culture",
+        "ogDescription": "A project to get acquainted with the destroyed cultural monuments of Ukraine and raise funds for their reconstruction.",
+        "russia": "Russia",
+        "destroy": "is destroying",
+        "culture": "Ukrainian Culture",
+        "maintext": "The russians have already destroyed 400 architectural sights, but they cannot demolish Ukrainian Culture!",
+        "openMap": "open map",
+        "show": {
+            "1": "I have shown you only 2 out of more than",
+            "2": " 400 ",
+            "3": "destroyed cultural sights of Ukraine"
+        },
+        "mapText": "Check our map to see them all",
+        "donateText": "Please, donate any sum for their renewal",
+        "otherHelp": "how to help in other ways?",
+        "ourGoals": "Project goals"
+    },
+    "map":{
+        "built": "Built",
+        "destroyed": "Attacked",
+        "status": "state",
+        "open": "open",
+        "church": "religious buildings",
+        "museum": "museums",
+        "monument": "monuments",
+        "costel": "catholic curches",
+        "library": "libraries",
+        "university": "educational institutions",
+        "old": "old buildings",
+        "admin": "administrative buildings",
+        "theatre": "theatres",
+        "list": "list",
+        "search": "Search for destroyed sights"
+    },
+    "footer": {
+        "foundation": "Charity Foundation 'SaveArtUA'",
+        "code": "USREOU code",
+        "place": "Lviv",
+        "privacy": "Privacy policy",
+        "offer": "Public offer"
+    },
+    "team": {
+        "title": "our team",
+        "founders": "founders",
+        "technical": "technical department",
+        "expert": "expert council",
+        "smm": "SMM department",
+        "communications": "communications",
+        "PR": "PR department",
+        "fundraising": "fundraising",
+        "content": "content management",
+        "HR": "HR department"
+    },
+    "form": {
+        "title": {
+            "1": "form for reporting",
+            "2": "the destroyed cultural sight"
+        },
+        "photo": "add photos (optional)",
+        "name": "destroyed sight's name",
+        "address": "locality",
+        "date": "date of attack",
+        "info": "your contacts (instagram/facebook/phone/email)"
+    },
+    "help": {
+        "title": "I want to help",
+        "volunteer": "volunteer",
+        "member": "non-profit member",
+        "architect": "architect",
+        "name": "Name and Surname",
+        "address": "place of residence",
+        "contacts": "your contacts (instagram/facebook/phone/email)",
+        "comment": "comment (optional)",
+        "report": "report for destruction"
+    },
+    "popup": {
+        "text": "We are very grateful for your desire to help rebuild Ukraine's cultural heritage.",
+        "good": "Great",
+        "error": {
+            "1": "Oops, something went wrong.",
+            "2": "Please, try again"
+        },
+        "back": "Back",
+        "thanks": "Thank you!"
+    },
+    "goals": {
+        "already": "already raised",
+        "date": "as at ",
+        "raise1": "Every donation will help save Ukrainian culture during the war and restore it once we win!",
+        "raise2": "We will generate a report of income and expenses on our site every month.",
+        "raise3": "We are prepared to conduct personal meetings with benefactors who donate more than $100.",
+        "raise4": "The donation made by the benefactor is non-refundable. In case of non-implementation of the project or availability of balances, the funds will be transferred to the official account of the Ministry of Culture of Ukraine.",
+        "want": "I want to donate",
+        "our": "Our goals",
+        "text1": "Our Foundation is called upon to finance the restoration of destroyed architectural sites.",
+        "text2": "Yet, it is still dangerous to conduct such work until the end of the active phase of this war because of possible missile strikes.",
+        "text3": "During the war, our Foundation is focused on financing the following goals:",
+        "goals": {
+            "1": "Information coverage of russia's crimes against the Ukrainian cultural heritage",
+            "2": "Support of Ukrainian museums in deoccupied regions",
+            "3": "Transportation or conservation of museum artifacts"
+        },
+        "card": "card",
+        "crypt": "crypto",
+        "details": "bank details",
+        "paypal": "paypal",
+        "copy": "copy",
+        "copied": "copied",
+        "notready": {
+            "1": "A little more and the possibility of paying by card will be added!",
+            "2": "You can now donate with PayPal or cryptocurrency."
+        },
+        "noCurr": "Currently, it's not possible to make a donation to this foreign currency account. But this option will be available soon.",
+        "goalCard": {
+            "name": "Galagan Art Museum",
+            "address": "6 Muzeina Street, Chernihiv, 14000",
+            "link": "Facebook of Galagan Museum",
+            "text": {
+                "1": "Charity Foundation “SaveArtUA” announces the fundraiser of UAH 60,000 for the needs of the Galagan Art Museum (Chernihiv) to ensure the safe storage of museum exhibits.",
+                "2": "You can read more about the museum and see the budget below."
+            },
+            "open": "more",
+            "close": "less"
+        }
+    },
+    "error": {
+        "text1": "Page not found",
+        "text2": "Probably, URL-address is wrong",
+        "back": "Back home"
+    },
+    "cookie": {
+        "ok": "Got it",
+        "text": "We use cookies to personalize your experience. By continuing to visit this website you agree to our use of cookies"
+    },
+    "donatePopup": {
+        "help": "Help us to save Ukrainian culture",
+        "other": "other",
+        "title": {
+            "1": "Every",
+            "2": " 4 hours ",
+            "3": "russia is destroying",
+            "4": " 1 site ",
+            "5": "of culture"
+        },
+        "dialog": {
+            "1": "I am tired of russians",
+            "2": "destroying",
+            "3": "my monuments"
+        }
+    },
+    "home": {
+        "title": "Ukraine Interactive Map",
+        "titleMob": "Ukraine<br/>Interactive Map",
+        "subtitle": "SaveArtUA is covering war crimes against cultural heritage in Ukraine on live map",
+        "monumentsTitle": "Destroyed monuments",
+        "500": "Monuments damaged",
+        "100": "Monuments are in critical conditions right now",
+        "50": "Museums damaged",
+        "goalsTitle": "Our goals",
+        "goal": {
+            "1": "Spreading information about war crimes against culture",
+            "2": "Helping museums in liberated lands",
+            "3": "Evacuating artifacts from dangerous area"
+        },
+        "help": "Help us",
+        "teamTitle": "Team",
+        "teamText": "Our team consists of proactive people from different parts of Ukraine. They are saving Ukrainian culture.",
+        "about": "About us",
+        "partnersTitle": "Our partners",
+        "partner": {
+            "1": "Ministry of Culture and Information Policy of Ukraine",
+            "2": "Ukrinian Cultural Foundation",
+            "3": "British Council",
+            "4": "The Architectural Chamber of NSAU"
+        },
+        "mapTriger": "Check our map to<br/>see the destroyed sights",
+        "mapTrigerMob": "Check our<br/>map to see the<br/>destroyed sights",
+        "helpTriger": "Donate any sum<br/>for their restoration",
+        "helpTrigerMob": "Donate any sum<br/>for their restoration",
+        "otherHelp": "how to help in other ways?"
+    }
+}

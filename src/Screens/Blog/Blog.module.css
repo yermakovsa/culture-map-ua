@@ -1,0 +1,51 @@
+.mainDiv {
+  background-color: white;
+}
+
+.title {
+  margin-top: 230px;
+  font-weight: 700;
+  font-size: 100px;
+  color: #171717;
+  margin-bottom: 120px;
+  font-family: 'Kyiv';
+}
+
+.articleContainer{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 70px;
+}
+
+.article{
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  margin-bottom: 80px;
+  width: 295px;
+  cursor: pointer;
+  text-decoration: none !important;
+}
+
+.article > img{
+  width: 295px;
+  height: 295px;
+}
+
+.article > .name{
+  font-weight: 700;
+  font-size: 30px;
+  margin-bottom: 20px;
+  margin-top: 40px;
+  color: black;
+}
+
+.article > .info{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 14px;
+  font-weight: 500;
+  color: rgba(23, 23, 23, 0.6);
+}

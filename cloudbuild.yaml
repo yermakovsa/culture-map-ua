@@ -1,0 +1,16 @@
+steps:
+# Install
+- name: 'gcr.io/cloud-builders/yarn'
+  args: ['install']
+# Test
+#- name: 'gcr.io/cloud-builders/yarn'
+#  args: ['test']
+# Build
+- name: 'gcr.io/cloud-builders/yarn'
+  args: ['build']
+- name: 'gcr.io/cloud-builders/docker'
+  args: ["build", "-t", "europe-central2-docker.pkg.dev/cultureua/culture-ua/culture-ua-ui:0.0.1", "."]
+images: ["europe-central2-docker.pkg.dev/cultureua/culture-ua/culture-ua-ui:0.0.1"]
+timeout: 1200s
+options:
+ machineType: 'E2_HIGHCPU_8'

@@ -1,0 +1,83 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  padding: 50px 0px;
+  box-sizing: border-box;
+  width: 100vw;
+  height: fit-content;
+  min-height: 100%;
+  background-image: url("../../res/img/404.webp");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  text-align: center;
+  font-family: "KyivSans";
+}
+
+.err {
+  font-size: 180px;
+  font-weight: 800;
+  color: #5c0000;
+  margin-bottom: 60px;
+}
+
+.text1 {
+  font-weight: 500;
+  font-size: 30px;
+  color: white;
+  margin-bottom: 15px;
+}
+
+.text2 {
+  font-weight: 300;
+  font-size: 22px;
+  color: white;
+  margin-bottom: 70px;
+}
+
+.main {
+  text-decoration: none;
+  box-sizing: border-box;
+  padding: 17px 39px 22px;
+  border-radius: 40px;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  color: #ffffff;
+  text-align: center;
+  background-color: rgba(189, 0, 0, 1);
+  cursor: pointer;
+  transition: background-color 0.1s ease-out;
+}
+
+.main:active {
+  background-color: #5c0000;
+}
+
+@media (max-width: 690px) {
+  .container {
+    padding: 40px 20px;
+  }
+
+  .err {
+    font-size: 100px;
+    margin-bottom: 30px;
+  }
+
+  .text1 {
+    font-size: 24px;
+  }
+
+  .text2 {
+    font-size: 16px;
+  }
+
+  .main {
+    font-size: 20px;
+    padding: 13px 30px 16px;
+  }
+}

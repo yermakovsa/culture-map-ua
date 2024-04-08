@@ -1,0 +1,64 @@
+.main {
+  background-image: url("../../res/img/teamBack.webp");
+  background-size: 100%;
+}
+
+.title {
+  margin-top: 230px;
+  font-weight: 500;
+  font-family: "Kyiv";
+  color: white;
+  font-size: 50px;
+  line-height: 70px;
+  margin-bottom: 120px;
+}
+
+.text {
+  font-weight: 450;
+  margin-bottom: 60px;
+  color: white;
+}
+
+.text > p {
+  font-size: 25px;
+}
+
+.text > h1 {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.text > ul > li {
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+@media (max-width: 1100px) {
+  .main {
+    background-image: url("../../res/img/smallTeamBack.webp");
+  }
+}
+
+@media (max-width: 690px) {
+  .title {
+    font-size: 25px;
+    line-height: 30px;
+    margin-top: 105px;
+    margin-bottom: 54px;
+    /* margin-left: 40px; */
+  }
+
+  .text > p {
+    font-size: 16px;
+  }
+
+  .text > h1 {
+    font-size: 16px;
+    font-weight: 600;
+  }
+
+  .text > ul > li {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+}

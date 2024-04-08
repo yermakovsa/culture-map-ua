@@ -1,0 +1,226 @@
+.App {
+  font-family: Inter;
+}
+
+.container {
+  width: 1050px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.mainDiv {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: rgba(12, 12, 12, 1);
+  font-family: 'KyivSans';
+}
+
+.mainTitle {
+  font-family: 'Kyiv';
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 86px;
+  color: white;
+  margin: 0;
+}
+
+.title {
+  font-size: 54px;
+  line-height: 140%;
+  font-weight: 800;
+  color: white;
+  margin: 0;
+}
+
+.subtitle {
+  font-weight: 450;
+  color: #b3b3b3;
+  font-size: 32px;
+  line-height: 1.4;
+}
+
+.caption2 {
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 450;
+  color: #e0e0e0;
+}
+
+.mainText {
+  font-size: 22px;
+  line-height: 140%;
+  font-weight: 450;
+}
+
+.redBtn {
+  margin-top: 100px;
+  width: fit-content;
+  box-sizing: border-box;
+  padding: 12px 80px 14px;
+  color: white;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 700;
+  background-color: #bd0000;
+  border-radius: 30px;
+  transition: all 0.15s ease-out;
+  text-decoration: none;
+}
+
+.redBtn:hover {
+  box-shadow: 1px 1px 10px #bd0000, -1px -1px 10px #bd0000;
+}
+
+.redBtn:active {
+  background-color: #790000;
+}
+
+@media (max-width: 1100px) {
+  .container {
+    width: 660px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
+@media (max-width: 690px) {
+  .container {
+    box-sizing: border-box;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100vw;
+  }
+
+  .mainTitle {
+    font-size: 28px;
+    line-height: 34px;
+  }
+
+  .title {
+    font-size: 28px;
+    font-family: 'KyivSans';
+    font-weight: 700;
+  }
+
+  .subtitle {
+    font-size: 14px;
+  }
+
+  .caption2 {
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 450;
+    color: #e0e0e0;
+  }
+
+  .mainText {
+    font-size: 22px;
+    line-height: 140%;
+    font-weight: 450;
+  }
+
+  .redBtn {
+    margin-top: 0px;
+    padding: 10px 50px 12px;
+    font-size: 14px;
+    line-height: 16.8px;
+  }
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('./res/fonts/Inter-VariableFont_slnt\,wght.ttf');
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('./res/fonts/Inter-Bold.ttf');
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('./res/fonts/Inter-Medium.ttf');
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('./res/fonts/Inter-Regular.ttf');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Kyiv';
+  src: url('./res/fonts/KyivTypeTitling-Bold2.ttf');
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Kyiv';
+  src: url('./res/fonts/KyivTypeTitling-Medium.ttf');
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'KyivSans';
+  src: url('./res/fonts/KyivTypeSans-Bold2.ttf');
+  font-style: bold;
+  font-weight: 750;
+}
+
+@font-face {
+  font-family: 'KyivSans';
+  src: url('./res/fonts/KyivTypeSans-Bold.ttf');
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'KyivSans';
+  src: url('./res/fonts/KyivTypeSans-Heavy.ttf');
+  font-style: bold;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'KyivSans';
+  src: url('./res/fonts/KyivTypeSans-Medium.ttf');
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'KyivSans';
+  src: url('./res/fonts/KyivTypeSans-Light.ttf');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'KyivSans';
+  src: url('./res/fonts/KyivTypeSans-Regular.ttf');
+  font-style: normal;
+  font-weight: 450;
+}
+
+@font-face {
+  font-family: 'KyivSans';
+  src: url('./res/fonts/KyivTypeSans-Bold3.ttf');
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: 'KyivSans';
+  src: url('./res/fonts/KyivTypeSans-Light.ttf');
+  font-style: normal;
+  font-weight: 200;
+}

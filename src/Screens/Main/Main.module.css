@@ -1,0 +1,494 @@
+.mainDiv {
+  background-image: url('../../res/img/backLanding.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: 0 0;
+}
+
+.video {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: auto;
+  z-index: 0;
+  background: black;
+  mask: linear-gradient(to top, transparent 20%, black 30%, black 80%, transparent 100%);
+  mask-size: 100% 150%;
+  mask-position: center;
+  mask-repeat: no-repeat;
+  mask-composite: intersect;
+}
+
+.video > video {
+  width: 100%;
+  height: auto;
+  opacity: 0.3;
+}
+
+/* Head */
+.headContainer {
+  margin-top: 230px;
+  display: flex;
+  flex-direction: column;
+  z-index: 2;
+}
+
+.subtitle {
+  margin-top: 20px;
+}
+
+.openMap {
+  margin-top: 100px;
+}
+
+/* Monuments */
+
+.monumentContainer {
+  margin-top: 130px;
+  z-index: 2;
+}
+
+.statsLine {
+  margin-top: 210px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.statsLine > .stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 220px;
+}
+
+.statsLine > .stat > h2 {
+  margin: 0 0 55px;
+  color: #ffffff;
+}
+
+.statsLine > .stat > p {
+  color: #b3b3b3;
+  text-align: center;
+}
+
+/* Goals */
+
+.goalsContainer {
+  margin-top: 215px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.goalLine {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 100px;
+  width: 100%;
+}
+
+.goalCard {
+  width: 221px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.goalCard > .imageDiv {
+  width: 221px;
+  height: 201px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  margin-bottom: 55px;
+}
+
+.goalCard > .imageDiv > .icon1 {
+  height: auto;
+  width: 201px;
+}
+
+.goalCard > .imageDiv > .icon2 {
+  height: auto;
+  width: 157px;
+}
+
+.goalCard > .imageDiv > .icon3 {
+  height: auto;
+  width: 212px;
+}
+
+.goalCard > .text {
+  text-align: center;
+  color: #b3b3b3;
+  font-size: 22px;
+}
+
+.goalsContainer > .btn {
+  margin-top: 70px;
+}
+
+/* Team */
+
+.teamContainer {
+  margin-top: 143px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.teamLine {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 100px;
+}
+
+.teamText {
+  margin-left: 105px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  color: #cccccc;
+}
+
+.teamText > .btn {
+  margin-top: 63px;
+}
+
+/* Partenrs */
+
+.partnersContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: 190px;
+}
+
+.partnersContent {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 100px;
+  width: 100%;
+}
+
+.partnersCard {
+  width: 205px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.partnersCard > .imageDiv {
+  width: 205px;
+  height: 140px;
+  max-width: 205px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 60px;
+}
+
+.partnersCard > .imageDiv > img {
+  height: 140px;
+  width: auto;
+  max-width: inherit;
+}
+
+.partnersCard > .text {
+  text-align: center;
+  color: #b3b3b3;
+}
+
+/* Map trigger */
+
+.mapContainer {
+  margin-top: 218px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  color: white;
+}
+
+.mapContainer > .btn {
+  margin-top: 95px;
+}
+
+/* Donate trigger */
+
+.donateContainer {
+  margin: 267px 0 210px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  color: white;
+  text-align: end;
+}
+
+.linkBlock {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  margin-top: 90px;
+}
+
+.donateButton {
+  background: #7aad1b;
+  border-radius: 35px;
+  color: white;
+  padding: 12px 100px 14px;
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+}
+
+.donateButton > .dollar {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  margin-top: 2px;
+}
+
+.donateButton > h3 {
+  margin: 0 0 0 6.5px;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.help {
+  margin-top: 22px;
+  text-decoration: underline;
+  color: #bfbfbf;
+}
+
+@media (max-width: 690px) {
+  .mainDiv {
+    background-image: url('../../res/img/backLandingMob.png');
+  }
+  /* Head */
+
+  .headContainer {
+    margin-top: 102px;
+  }
+
+  .subtitle {
+    margin-top: 20px;
+  }
+
+  .openMap {
+    margin-top: 39px;
+  }
+
+  /* Monuments */
+
+  .monumentContainer {
+    margin-top: 90px;
+  }
+
+  .statsLine {
+    margin-top: 50px;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .statsLine > .stat {
+    display: grid;
+    grid-template-columns: 120px auto;
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .statsLine > .stat > h2 {
+    margin: 0 19px 0 0;
+    font-weight: 700;
+    font-size: 37.8637px;
+    line-height: 45px;
+  }
+
+  .statsLine > .stat > p {
+    text-align: start;
+    margin: 0;
+  }
+
+  /* Goals */
+
+  .goalsContainer {
+    margin-top: 30px;
+  }
+
+  .goalLine {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 50px;
+    width: 100%;
+  }
+
+  .goalCard {
+    width: 125px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  .goalCard > .imageDiv {
+    width: 125px;
+    height: 100px;
+    margin-bottom: 25px;
+  }
+
+  .goalCard > .imageDiv > .icon1 {
+    width: 100px;
+  }
+
+  .goalCard > .imageDiv > .icon2 {
+    width: 77px;
+  }
+
+  .goalCard > .imageDiv > .icon3 {
+    width: 105px;
+  }
+
+  .goalCard > .text {
+    font-size: inherit;
+  }
+
+  .goalsContainer > .btn {
+    margin: 50px auto 0;
+  }
+
+  /* Team */
+
+  .teamContainer {
+    margin-top: 100px;
+  }
+
+  .teamLine {
+    flex-direction: column;
+    width: 100%;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-top: 50px;
+  }
+
+  .teamText {
+    margin-left: 0;
+    margin-top: 30px;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .teamText > .btn {
+    margin-top: 30px;
+  }
+
+  /* Partenrs */
+
+  .partnersContainer {
+    margin-top: 70px;
+  }
+
+  .partnersContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-top: 50px;
+    width: 100%;
+  }
+
+  .partnersCard {
+    width: 205px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 70px;
+  }
+
+  .partnersCard > .imageDiv {
+    width: 205px;
+    height: fit-content;
+    max-width: 205px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 30px;
+  }
+
+  .partnersCard > .imageDiv > img {
+    height: auto;
+    width: 205px;
+    max-width: inherit;
+  }
+
+  .partnersCard > .text {
+    text-align: start;
+    color: #b3b3b3;
+    width: 100%;
+  }
+
+  /* Map trigger */
+
+  .mapContainer {
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    color: white;
+  }
+
+  .mapContainer > .btn {
+    margin-top: 30px;
+  }
+
+  /* Donate trigger */
+
+  .donateContainer {
+    margin: 150px 0 110px;
+  }
+
+  .linkBlock {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    margin-top: 25px;
+  }
+
+  .donateButton {
+    border-radius: 30px;
+    padding: 10px 50px 12px;
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+  }
+
+  .donateButton > .dollar {
+    display: none;
+  }
+
+  .donateButton > h3 {
+    margin: 0;
+    font-size: 14px;
+    line-height: 16.8px;
+  }
+
+  .help {
+    display: none;
+  }
+}
