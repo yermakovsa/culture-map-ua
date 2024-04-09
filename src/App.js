@@ -34,50 +34,6 @@ function App() {
   const [popup, setPopup] = useState(false);
   const [currency, setCurrency] = useState("UAH");
 
-  useEffect(() => {
-    const path = window.location.pathname;
-    const part = path.slice(1, path.slice(1).indexOf("/") + 1);
-    let lang;
-    const search = window.location.search;
-    // console.log(search)
-    if (path !== "/.well-known/apple-developer-merchantid-domain-association") {
-      if (part.includes("en")) {
-        lang = "en";
-        i18n.changeLanguage("en");
-      } else {
-        lang = "ua";
-        i18n.changeLanguage("ua");
-      }
-      history(
-        "/" +
-          lang +
-          path.slice(path.slice(1).indexOf("/") + 1) +
-          (search ? search : "")
-      );
-    }
-  }, []);
-
-  useEffect(() => {
-    if (i18n.language !== "ua") {
-      axios
-        .get("https://ipapi.co/json/")
-        .then((response) => {
-          let data = response.data;
-          console.log(data.currency)
-          if(data.currency === 'USD' || data.currency === 'EUR' || data.currency === 'UAH'){
-            setCurrency(data.currency)
-          }else{
-            setCurrency('USD')
-          }
-        })
-        .catch((error) => {
-          setCurrency('USD')
-          console.log(error);
-        });
-    }else{
-      setCurrency('UAH')
-    }
-  }, [i18n.language]);
 
   // console.log(currency)
 
@@ -143,31 +99,10 @@ function App() {
         />
       ) : null}
       <Routes>
-        <Route path={`/${i18n.language}/`} element={<Main />} />
-        <Route path={`/${i18n.language}/map`} element={<MapBox />} />
-        <Route path={`/${i18n.language}/team`} element={<Team />} />
-        <Route path={`/${i18n.language}/form`} element={<Form />} />
-        <Route path={`/${i18n.language}/help`} element={<HelpForm />} />
-        <Route
-          path={`/${i18n.language}/goals`}
-          element={<Goals open={() => setDonated(1)} shouldOpen={donated} />}
-        />
+        <Route path={`/${i18n.language}/`} element={<MapBox />} />
         {/* <Route path={`/${i18n.language}/partners`} element={<Partners />} /> */}
         {/* <Route path={`/${i18n.language}/blog`} element={<Blog />} />
         <Route path={`/${i18n.language}/blog/:id/`} element={<Article />} /> */}
-        <Route
-          path={`/${i18n.language}/privacy-policy`}
-          element={<PrivacyPolicy />}
-        />
-        <Route
-          path={`/${i18n.language}/public-offer`}
-          element={<PublicOffer />}
-        />
-        <Route path={`/ua/info`} element={<Info />} />
-        <Route
-          path={`/.well-known/apple-developer-merchantid-domain-association`}
-          element={<ApplePayDownloader />}
-        />
         <Route path="*" element={<ErrorPage />}></Route>
       </Routes>
       {/* <Main /> */}

@@ -378,13 +378,6 @@ export default function Sidemenu(props) {
                 </div>
                 <hr />
                 <div className={s.info}>{discription.description}</div>
-                <HashLink
-                  smooth
-                  className={s.donateInfo}
-                  to={`/${i18n.language}/goals#donate`}
-                >
-                  {i18n.t("donate")}
-                </HashLink>
               </div>
             </div>
           ) : (
@@ -427,14 +420,14 @@ export default function Sidemenu(props) {
                     </div>
                     <div
                       onClick={(e) => {
-                        if (filter !== "MUSEUM") {
-                          setFilter("MUSEUM");
+                        if (filter !== "WRITER") {
+                          setFilter("WRITER");
                         } else {
                           setFilter(null);
                         }
                       }}
                       className={
-                        filter === "MUSEUM"
+                        filter === "WRITER"
                           ? s.filterItemSelected
                           : s.filterItem
                       }
@@ -651,13 +644,6 @@ export default function Sidemenu(props) {
               </div>
               <hr />
               <div className={s.info}>{discription.description}</div>
-              <HashLink
-                smooth
-                className={s.donateInfo}
-                to={`/${i18n.language}/goals#donate`}
-              >
-                {i18n.t("donate")}
-              </HashLink>
             </div>
           </div>
         ) : (
@@ -688,14 +674,14 @@ export default function Sidemenu(props) {
               </div>
               <div
                 onClick={(e) => {
-                  if (filter !== "MUSEUM") {
-                    setFilter("MUSEUM");
+                  if (filter !== "WRITER") {
+                    setFilter("WRITER");
                   } else {
                     setFilter(null);
                   }
                 }}
                 className={
-                  filter === "MUSEUM" ? s.filterItemSelected : s.filterItem
+                  filter === "WRITER" ? s.filterItemSelected : s.filterItem
                 }
               >
                 {i18n.t("map.museum")}

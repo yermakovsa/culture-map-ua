@@ -208,7 +208,7 @@ export default function MapBox(props) {
 
   const getMarker = (type) => {
     switch (type) {
-      case 'MUSEUM':
+      case 'WRITER':
         return Museum
       case 'CHURCH':
         return Church
@@ -233,7 +233,7 @@ export default function MapBox(props) {
 
   const getSelectedMarker = (type) => {
     switch (type) {
-      case 'MUSEUM':
+      case 'WRITER':
         return MuseumSelected
       case 'CHURCH':
         return ChurchSelected
@@ -291,7 +291,7 @@ export default function MapBox(props) {
         count: 0,
       },
       {
-        type: 'MUSEUM',
+        type: 'WRITER',
         count: 0,
       },
       {
