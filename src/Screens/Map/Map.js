@@ -19,8 +19,6 @@ import Actor from '../../res/img/actor.svg'
 import Filmmaker from '../../res/img/filmmaker.svg'
 import Historical from '../../res/img/historical.svg'
 import Fashion from '../../res/img/fashion.svg'
-import UniversitySelected from '../../res/img/universitySelected.svg'
-import University from '../../res/img/university.svg'
 import OldSelected from '../../res/img/oldSelected.svg'
 import Old from '../../res/img/old.svg'
 import './map.css'
@@ -214,12 +212,8 @@ export default function MapBox(props) {
         return Historical
       case 'FASHION':
         return Fashion
-      case 'UNIVERSITY':
-        return University
-      case 'OLD_BUILDING':
-        return Old
       default:
-        return Old
+        return Writer
     }
   }
 
@@ -237,12 +231,8 @@ export default function MapBox(props) {
         return Historical
       case 'FASHION':
         return Fashion
-      case 'UNIVERSITY':
-        return UniversitySelected
-      case 'OLD_BUILDING':
-        return OldSelected
       default:
-        return OldSelected
+        return Writer
     }
   }
 
@@ -277,15 +267,7 @@ export default function MapBox(props) {
         count: 0,
       },
       {
-        type: 'UNIVERSITY',
-        count: 0,
-      },
-      {
         type: 'WRITER',
-        count: 0,
-      },
-      {
-        type: 'OLD_BUILDING',
         count: 0,
       },
       {

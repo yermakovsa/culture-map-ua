@@ -484,38 +484,6 @@ export default function Sidemenu(props) {
                     </div>
                     <div
                       onClick={(e) => {
-                        if (filter !== "UNIVERSITY") {
-                          setFilter("UNIVERSITY");
-                        } else {
-                          setFilter(null);
-                        }
-                      }}
-                      className={
-                        filter === "UNIVERSITY"
-                          ? s.filterItemSelected
-                          : s.filterItem
-                      }
-                    >
-                      {i18n.t("map.university")}
-                    </div>
-                    <div
-                      onClick={(e) => {
-                        if (filter !== "OLD_BUILDING") {
-                          setFilter("OLD_BUILDING");
-                        } else {
-                          setFilter(null);
-                        }
-                      }}
-                      className={
-                        filter === "OLD_BUILDING"
-                          ? s.filterItemSelected
-                          : s.filterItem
-                      }
-                    >
-                      {i18n.t("map.old")}
-                    </div>
-                    <div
-                      onClick={(e) => {
                         if (filter !== "FILMMAKER") {
                           setFilter("FILMMAKER");
                         } else {
@@ -727,36 +695,6 @@ export default function Sidemenu(props) {
                 }
               >
                 {i18n.t("map.library")}
-              </div>
-              <div
-                onClick={(e) => {
-                  if (filter !== "UNIVERSITY") {
-                    setFilter("UNIVERSITY");
-                  } else {
-                    setFilter(null);
-                  }
-                }}
-                className={
-                  filter === "UNIVERSITY" ? s.filterItemSelected : s.filterItem
-                }
-              >
-                {i18n.t("map.university")}
-              </div>
-              <div
-                onClick={(e) => {
-                  if (filter !== "OLD_BUILDING") {
-                    setFilter("OLD_BUILDING");
-                  } else {
-                    setFilter(null);
-                  }
-                }}
-                className={
-                  filter === "OLD_BUILDING"
-                    ? s.filterItemSelected
-                    : s.filterItem
-                }
-              >
-                {i18n.t("map.old")}
               </div>
               <div
                 onClick={(e) => {
