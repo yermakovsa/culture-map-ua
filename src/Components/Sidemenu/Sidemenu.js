@@ -145,7 +145,7 @@ export default function Sidemenu(props) {
     ? props.monuments
         .filter((monument) => {
           if (filter) {
-            if (filter === "CHURCH") {
+            if (filter === "MUSICIAN") {
               if (filter === monument.type || monument.type === "COSTEL") {
                 return monument;
               }
@@ -404,14 +404,14 @@ export default function Sidemenu(props) {
                   <div className={s.filters}>
                     <div
                       onClick={(e) => {
-                        if (filter !== "CHURCH") {
-                          setFilter("CHURCH");
+                        if (filter !== "MUSICIAN") {
+                          setFilter("MUSICIAN");
                         } else {
                           setFilter(null);
                         }
                       }}
                       className={
-                        filter === "CHURCH"
+                        filter === "MUSICIAN"
                           ? s.filterItemSelected
                           : s.filterItem
                       }
@@ -436,14 +436,14 @@ export default function Sidemenu(props) {
                     </div>
                     <div
                       onClick={(e) => {
-                        if (filter !== "MONUMENT") {
-                          setFilter("MONUMENT");
+                        if (filter !== "ACTOR") {
+                          setFilter("ACTOR");
                         } else {
                           setFilter(null);
                         }
                       }}
                       className={
-                        filter === "MONUMENT"
+                        filter === "ACTOR"
                           ? s.filterItemSelected
                           : s.filterItem
                       }
@@ -468,14 +468,14 @@ export default function Sidemenu(props) {
                     </div> */}
                     <div
                       onClick={(e) => {
-                        if (filter !== "LIBRARY") {
-                          setFilter("LIBRARY");
+                        if (filter !== "FASHION") {
+                          setFilter("FASHION");
                         } else {
                           setFilter(null);
                         }
                       }}
                       className={
-                        filter === "LIBRARY"
+                        filter === "FASHION"
                           ? s.filterItemSelected
                           : s.filterItem
                       }
@@ -516,14 +516,14 @@ export default function Sidemenu(props) {
                     </div>
                     <div
                       onClick={(e) => {
-                        if (filter !== "ADMINISTRATIVE_BUILDING") {
-                          setFilter("ADMINISTRATIVE_BUILDING");
+                        if (filter !== "FILMMAKER") {
+                          setFilter("FILMMAKER");
                         } else {
                           setFilter(null);
                         }
                       }}
                       className={
-                        filter === "ADMINISTRATIVE_BUILDING"
+                        filter === "FILMMAKER"
                           ? s.filterItemSelected
                           : s.filterItem
                       }
@@ -532,14 +532,14 @@ export default function Sidemenu(props) {
                     </div>
                     <div
                       onClick={(e) => {
-                        if (filter !== "THEATRE") {
-                          setFilter("THEATRE");
+                        if (filter !== "HISTORICAL") {
+                          setFilter("HISTORICAL");
                         } else {
                           setFilter(null);
                         }
                       }}
                       className={
-                        filter === "THEATRE"
+                        filter === "HISTORICAL"
                           ? s.filterItemSelected
                           : s.filterItem
                       }
@@ -660,14 +660,14 @@ export default function Sidemenu(props) {
             <div className={s.filters}>
               <div
                 onClick={(e) => {
-                  if (filter !== "CHURCH") {
-                    setFilter("CHURCH");
+                  if (filter !== "MUSICIAN") {
+                    setFilter("MUSICIAN");
                   } else {
                     setFilter(null);
                   }
                 }}
                 className={
-                  filter === "CHURCH" ? s.filterItemSelected : s.filterItem
+                  filter === "MUSICIAN" ? s.filterItemSelected : s.filterItem
                 }
               >
                 {i18n.t("map.church")}
@@ -688,14 +688,14 @@ export default function Sidemenu(props) {
               </div>
               <div
                 onClick={(e) => {
-                  if (filter !== "MONUMENT") {
-                    setFilter("MONUMENT");
+                  if (filter !== "ACTOR") {
+                    setFilter("ACTOR");
                   } else {
                     setFilter(null);
                   }
                 }}
                 className={
-                  filter === "MONUMENT" ? s.filterItemSelected : s.filterItem
+                  filter === "ACTOR" ? s.filterItemSelected : s.filterItem
                 }
               >
                 {i18n.t("map.monument")}
@@ -716,14 +716,14 @@ export default function Sidemenu(props) {
               </div> */}
               <div
                 onClick={(e) => {
-                  if (filter !== "LIBRARY") {
-                    setFilter("LIBRARY");
+                  if (filter !== "FASHION") {
+                    setFilter("FASHION");
                   } else {
                     setFilter(null);
                   }
                 }}
                 className={
-                  filter === "LIBRARY" ? s.filterItemSelected : s.filterItem
+                  filter === "FASHION" ? s.filterItemSelected : s.filterItem
                 }
               >
                 {i18n.t("map.library")}
@@ -760,14 +760,14 @@ export default function Sidemenu(props) {
               </div>
               <div
                 onClick={(e) => {
-                  if (filter !== "ADMINISTRATIVE_BUILDING") {
-                    setFilter("ADMINISTRATIVE_BUILDING");
+                  if (filter !== "FILMMAKER") {
+                    setFilter("FILMMAKER");
                   } else {
                     setFilter(null);
                   }
                 }}
                 className={
-                  filter === "ADMINISTRATIVE_BUILDING"
+                  filter === "FILMMAKER"
                     ? s.filterItemSelected
                     : s.filterItem
                 }
@@ -776,14 +776,14 @@ export default function Sidemenu(props) {
               </div>
               <div
                 onClick={(e) => {
-                  if (filter !== "THEATRE") {
-                    setFilter("THEATRE");
+                  if (filter !== "HISTORICAL") {
+                    setFilter("HISTORICAL");
                   } else {
                     setFilter(null);
                   }
                 }}
                 className={
-                  filter === "THEATRE" ? s.filterItemSelected : s.filterItem
+                  filter === "HISTORICAL" ? s.filterItemSelected : s.filterItem
                 }
               >
                 {i18n.t("map.theatre")}

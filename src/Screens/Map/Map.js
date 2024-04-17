@@ -13,22 +13,16 @@ import i18n from '../../i18n'
 import uaFlag from '../../res/img/ua.svg'
 import mapboxgl from 'mapbox-gl'
 import Sidemenu from '../../Components/Sidemenu/Sidemenu'
-import Church from '../../res/img/church.svg'
-import Museum from '../../res/img/museum.svg'
-import MuseumSelected from '../../res/img/museumSelected.svg'
-import ChurchSelected from '../../res/img/churchSelected.svg'
-import Memorial from '../../res/img/memorial.svg'
-import MemorialSelected from '../../res/img/memorialSelected.svg'
-import AdminSelected from '../../res/img/adminSelected.svg'
-import Admin from '../../res/img/admin.svg'
-import TheatreSelected from '../../res/img/theatreSelected.svg'
-import Theatre from '../../res/img/theatre.svg'
+import Music from '../../res/img/music.svg'
+import Writer from '../../res/img/writer.svg'
+import Actor from '../../res/img/actor.svg'
+import Filmmaker from '../../res/img/filmmaker.svg'
+import Historical from '../../res/img/historical.svg'
+import Fashion from '../../res/img/fashion.svg'
 import UniversitySelected from '../../res/img/universitySelected.svg'
 import University from '../../res/img/university.svg'
 import OldSelected from '../../res/img/oldSelected.svg'
 import Old from '../../res/img/old.svg'
-import LibrarySelected from '../../res/img/librarySelected.svg'
-import Library from '../../res/img/library.svg'
 import './map.css'
 import Plus from '../../res/img/plus.svg'
 import Minus from '../../res/img/minus.svg'
@@ -209,19 +203,17 @@ export default function MapBox(props) {
   const getMarker = (type) => {
     switch (type) {
       case 'WRITER':
-        return Museum
-      case 'CHURCH':
-        return Church
-      case 'MONUMENT':
-        return Memorial
-      case 'ADMINISTRATIVE_BUILDING':
-        return Admin
-      case 'THEATRE':
-        return Theatre
-      case 'LIBRARY':
-        return Library
-      case 'COSTEL':
-        return Church
+        return Writer
+      case 'MUSICIAN':
+        return Music
+      case 'ACTOR':
+        return Actor
+      case 'FILMMAKER':
+        return Filmmaker
+      case 'HISTORICAL':
+        return Historical
+      case 'FASHION':
+        return Fashion
       case 'UNIVERSITY':
         return University
       case 'OLD_BUILDING':
@@ -234,19 +226,17 @@ export default function MapBox(props) {
   const getSelectedMarker = (type) => {
     switch (type) {
       case 'WRITER':
-        return MuseumSelected
-      case 'CHURCH':
-        return ChurchSelected
-      case 'MONUMENT':
-        return MemorialSelected
-      case 'ADMINISTRATIVE_BUILDING':
-        return AdminSelected
-      case 'THEATRE':
-        return TheatreSelected
-      case 'LIBRARY':
-        return LibrarySelected
-      case 'COSTEL':
-        return ChurchSelected
+        return Writer
+      case 'MUSICIAN':
+        return Music
+      case 'ACTOR':
+        return Actor
+      case 'FILMMAKER':
+        return Filmmaker
+      case 'HISTORICAL':
+        return Historical
+      case 'FASHION':
+        return Fashion
       case 'UNIVERSITY':
         return UniversitySelected
       case 'OLD_BUILDING':
@@ -275,15 +265,15 @@ export default function MapBox(props) {
   const getClusterType = (arr) => {
     let typeCount = [
       {
-        type: 'CHURCH',
+        type: 'MUSICIAN',
         count: 0,
       },
       {
-        type: 'ADMINISTRATIVE_BUILDING',
+        type: 'FILMMAKER',
         count: 0,
       },
       {
-        type: 'LIBRARY',
+        type: 'FASHION',
         count: 0,
       },
       {
@@ -299,17 +289,13 @@ export default function MapBox(props) {
         count: 0,
       },
       {
-        type: 'MONUMENT',
+        type: 'ACTOR',
         count: 0,
       },
       {
-        type: 'THEATRE',
+        type: 'HISTORICAL',
         count: 0,
-      },
-      {
-        type: 'COSTEL',
-        count: 0,
-      },
+      }
     ]
     arr.forEach((type) => {
       // console.log(type)
