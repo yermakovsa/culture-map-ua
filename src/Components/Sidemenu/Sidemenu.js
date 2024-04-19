@@ -416,7 +416,7 @@ export default function Sidemenu(props) {
                           : s.filterItem
                       }
                     >
-                      {i18n.t("map.church")}
+                      {i18n.t("map.musician")}
                     </div>
                     <div
                       onClick={(e) => {
@@ -432,7 +432,7 @@ export default function Sidemenu(props) {
                           : s.filterItem
                       }
                     >
-                      {i18n.t("map.museum")}
+                      {i18n.t("map.writer")}
                     </div>
                     <div
                       onClick={(e) => {
@@ -448,7 +448,7 @@ export default function Sidemenu(props) {
                           : s.filterItem
                       }
                     >
-                      {i18n.t("map.monument")}
+                      {i18n.t("map.actor")}
                     </div>
                     {/* <div
                       onClick={(e) => {
@@ -480,7 +480,7 @@ export default function Sidemenu(props) {
                           : s.filterItem
                       }
                     >
-                      {i18n.t("map.library")}
+                      {i18n.t("map.fashion")}
                     </div>
                     <div
                       onClick={(e) => {
@@ -496,7 +496,7 @@ export default function Sidemenu(props) {
                           : s.filterItem
                       }
                     >
-                      {i18n.t("map.admin")}
+                      {i18n.t("map.filmmaker")}
                     </div>
                     <div
                       onClick={(e) => {
@@ -512,7 +512,7 @@ export default function Sidemenu(props) {
                           : s.filterItem
                       }
                     >
-                      {i18n.t("map.theatre")}
+                      {i18n.t("map.historical")}
                     </div>
                   </div>
                 </div>
@@ -638,7 +638,7 @@ export default function Sidemenu(props) {
                   filter === "MUSICIAN" ? s.filterItemSelected : s.filterItem
                 }
               >
-                {i18n.t("map.church")}
+                {i18n.t("map.musician")}
               </div>
               <div
                 onClick={(e) => {
@@ -652,7 +652,7 @@ export default function Sidemenu(props) {
                   filter === "WRITER" ? s.filterItemSelected : s.filterItem
                 }
               >
-                {i18n.t("map.museum")}
+                {i18n.t("map.writer")}
               </div>
               <div
                 onClick={(e) => {
@@ -666,7 +666,7 @@ export default function Sidemenu(props) {
                   filter === "ACTOR" ? s.filterItemSelected : s.filterItem
                 }
               >
-                {i18n.t("map.monument")}
+                {i18n.t("map.actor")}
               </div>
               {/* <div
                 onClick={(e) => {
@@ -694,7 +694,7 @@ export default function Sidemenu(props) {
                   filter === "FASHION" ? s.filterItemSelected : s.filterItem
                 }
               >
-                {i18n.t("map.library")}
+                {i18n.t("map.fashion")}
               </div>
               <div
                 onClick={(e) => {
@@ -710,7 +710,7 @@ export default function Sidemenu(props) {
                     : s.filterItem
                 }
               >
-                {i18n.t("map.admin")}
+                {i18n.t("map.filmmaker")}
               </div>
               <div
                 onClick={(e) => {
@@ -724,7 +724,7 @@ export default function Sidemenu(props) {
                   filter === "HISTORICAL" ? s.filterItemSelected : s.filterItem
                 }
               >
-                {i18n.t("map.theatre")}
+                {i18n.t("map.historical")}
               </div>
             </div>
             <div className={s.list}>{Monuments}</div>
