@@ -208,14 +208,6 @@ export default function Sidemenu(props) {
                 <div className={s.name}>{monument.name}</div>
                 <div className={s.address}>{monument.address}</div>
                 <div className={s.statsList}>
-                  <div className={s.stat}>
-                    <img src={Build} />
-                    <div>{monument.constructionDate}</div>
-                  </div>
-                  <div className={s.stat}>
-                    <img src={Destroy} />
-                    <div>{monument.destructionDate}</div>
-                  </div>
                 </div>
               </div>
             </div>
@@ -354,28 +346,6 @@ export default function Sidemenu(props) {
                 <div className={s.title}>{discription.name}</div>
                 <div className={s.address}>{discription.address}</div>
                 <hr />
-                <div className={s.stats}>
-                  <div className={s.line}>
-                    <div className={s.statName}>{i18n.t("map.built")}:</div>
-                    <div>{discription.builtDate}</div>
-                  </div>
-                  <div className={s.line}>
-                    <div className={s.statName}>{i18n.t("map.destroyed")}:</div>
-                    <div>{discription.ruinedDate}</div>
-                  </div>
-                  <div className={s.line}>
-                    <div className={s.statName}>{i18n.t("map.status")}:</div>
-                    <div>{getStatus(discription.status)}</div>
-                  </div>
-                  {/* <div className={s.line}>
-                    <div className={s.statName}>Реєстр:</div>
-                    <div>{getLevel(discription.level)}</div>
-                  </div>
-                  <div className={s.line}>
-                    <div className={s.statName}>Форма власності:</div>
-                    <div>{getOwner(discription.ownership)}</div>
-                  </div> */}
-                </div>
                 <hr />
                 <div className={s.info}>{discription.description}</div>
               </div>
@@ -588,28 +558,6 @@ export default function Sidemenu(props) {
               <div className={s.title}>{discription.name}</div>
               <div className={s.address}>{discription.address}</div>
               <hr />
-              <div className={s.stats}>
-                <div className={s.line}>
-                  <div className={s.statName}>{i18n.t("map.built")}:</div>
-                  <div>{discription.builtDate}</div>
-                </div>
-                <div className={s.line}>
-                  <div className={s.statName}>{i18n.t("map.destroyed")}:</div>
-                  <div>{discription.ruinedDate}</div>
-                </div>
-                <div className={s.line}>
-                  <div className={s.statName}>{i18n.t("map.status")}:</div>
-                  <div>{getStatus(discription.status)}</div>
-                </div>
-                {/* <div className={s.line}>
-                  <div className={s.statName}>Реєстр:</div>
-                  <div>{getLevel(discription.level)}</div>
-                </div>
-                <div className={s.line}>
-                  <div className={s.statName}>Форма власності:</div>
-                  <div>{getOwner(discription.ownership)}</div>
-                </div> */}
-              </div>
               <hr />
               <div className={s.info}>{discription.description}</div>
             </div>
