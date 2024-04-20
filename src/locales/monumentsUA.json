@@ -2,59 +2,51 @@
     "monuments": [
         {
             "id": "346b6f16-77da-4688-91c3-53abc229e317",
-            "name": "Братська могила воїнів та пам’ятник односельчанам, що загинули у 1941-45 рр.",
-            "address": "Київська обл., Броварський р-н, с. Лук’янівка, вул. Центральна",
-            "description": "Братська могила воїнів Радянської Армії та пам'ятник воїнам-односельцям, які загинули під час німецько-радянської війни.",
+            "name": "Тарас Шевченко",
+            "address": "Народився у 1814 році у селі Моринці, уважається батьком української літератури",
+            "description": "Тарас Шевченко (1814-1861) був українським поетом, письменником, митцем і політичним діячем. Народився у Моринцях, Україна, він здобув популярність як літературна та культурна ікона, виступаючи за права та свободу українського народу через свою поезію та мистецтво. Його твори, зокрема епічний поема Кобзар, продовжують надихати покоління і займають центральне місце в українській літературі та національній ідентичності.",
             "constructionDate": "1957, 1975 ",
             "destructionDate": "30.03.2022",
-            "type": "ACTOR",
+            "type": "WRITER",
             "status": "PARTIALLY_DESTROYED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.486707,
-                "lon": 31.394476
+                "lat": 49.645347,
+                "lon": 31.089882
             },
             "photos": [
                 {
                     "id": "4690a5aa-d50d-41ef-8dbd-49871f2871aa",
                     "monumentId": "346b6f16-77da-4688-91c3-53abc229e317",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/a6ea648b-bb05-4c89-b245-3fe71aa102ad.png",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/shevchenko.jpg",
                     "originalFileName": "db3zgpBYDcKx6DDihJt7h1p2hPdAMeD9J9xUbkYu.png",
                     "createdAt": 1652262971614
-                },
-                {
-                    "id": "ebe42089-e953-4ed6-b167-44cc355f1d15",
-                    "monumentId": "346b6f16-77da-4688-91c3-53abc229e317",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/b187ec5a-6dc4-431c-93a8-9d8a161579af.jpg",
-                    "originalFileName": "Lukianivka028e0000-0aff-0242-109e-08da108fd84a_w1597_n_st.jpg",
-                    "createdAt": 1651433287776
                 }
             ]
         },
         {
             "id": "bea88346-0882-4773-8bc1-f776b8ff45c3",
-            "name": "Пам'ятник Митрополиту Ігнатію",
-            "address": "Донецька обл., м. Маріуполь",
-            "description": "Пам'ятник Митрополиту Ігнатію, встановлений наприкінці 1990-х років на оглядовому майданчику Собору Святого Архістратига Божого Михайла у Лівобережному районі.\n\nМитрополит Ігнатій Маріупольський – небесний покровитель міста. \n\nВідповідно до історії, митрополит Готфейській та Кафайській Ігнатій очолював міграцію православних греків з Криму до Приазов’я.",
+            "name": "Іван Франко",
+            "address": "Народився у 1856 році у Нагуєвичах, плідний письменник і громадський діяч",
+            "description": "Іван Франко (1856-1916) був українським поетом, письменником, філософом та політичним активістом. Народився у Нагуєвичах, Україна, Франко відіграв ключову роль у розвитку української літератури та культури наприкінці 19-го та на початку 20-го століття. Його обширна творчість охоплює поезію, прозу, драматургію та літературну критику, відображаючи його здорове ставлення до соціальної справедливості, національного визволення та гуманізму.",
             "constructionDate": "кінець 1990-х",
             "destructionDate": "16.04.2022",
-            "type": "ACTOR",
+            "type": "WRITER",
             "status": "COMPLETELY_DESTROYED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 47.095475883,
-                "lon": 37.659982065
+                "lat": 49.832216,
+                "lon": 24.019186
             },
             "photos": [
                 {
                     "id": "aa3b4461-bdde-4f62-96dd-7c29db1e4416",
                     "monumentId": "bea88346-0882-4773-8bc1-f776b8ff45c3",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/5868e7aa-0571-4f00-8444-cf96260c7d41.jpeg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/franko.jpg",
                     "originalFileName": "0ea49784-6681-4038-b9fe-e31948c3f782.jpeg",
                     "createdAt": 1652881689477
                 }
@@ -62,67 +54,35 @@
         },
         {
             "id": "3fbf8ca6-bf66-4aca-be4e-1b8e23dd0419",
-            "name": "Монастир Свято-Успенський Миколо-Василівський",
-            "address": "Донецька обл., Волноваський р-н, с. Микільське",
-            "description": "До 1959 року село Микільське, де розташований монастир, складалося з двох сіл — Микільського і Василівки, в кожному з яких були свої храми. \n\nУ 1998 та 2000 роках настоятелем Василівського приходу ігумена Саватія (схиархимандрит Зосим) розбудував монастир.\n\nУ 2001 році сестринській громаді був наданий статус Свято-Успенського Миколаївського монастиря, а у 2002 році зареєстрований Свято-Успенський Василівський чоловічий монастир.",
+            "name": "Леся Українка",
+            "address": "Народилася у 1871 році у Новограді-Волинському, видатна поетеса і діячка української літератури",
+            "description": "Леся Українка (1871-1913) була видатною українською поетесою, драматургом та феміністичною активісткою. Народилася у Новограді-Волинському, Україна, вона відмовлялася від соціальних норм свого часу та внесла значний внесок у українську літературу та культуру. Поезія Українки досліджує теми любові, волі та боротьби за національну ідентичність, заробивши їй місце серед літературних гігантів України.",
             "constructionDate": "1998-2003",
             "destructionDate": "06.03.2022",
-            "type": "MUSICIAN",
+            "type": "WRITER",
             "status": "PARTIALLY_DESTROYED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 47.749077425,
-                "lon": 37.302344453
+                "lat": 50.591381,
+                "lon": 27.612369
             },
             "photos": [
                 {
                     "id": "4fa4c418-0956-490b-bdbd-610b575934d1",
                     "monumentId": "3fbf8ca6-bf66-4aca-be4e-1b8e23dd0419",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/19b4ab88-cdcf-4366-a2de-fae4a736f40a.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/ukrayinka.jpg",
                     "originalFileName": "275775963_377414041060370_6109557774699000668_n.jpg",
                     "createdAt": 1652882811959
-                },
-                {
-                    "id": "e70c17f9-d2e7-46a5-8c0d-7a3c2e902ded",
-                    "monumentId": "3fbf8ca6-bf66-4aca-be4e-1b8e23dd0419",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/280e6511-86c8-4a03-94c8-b08e68aa1dd5.jpg",
-                    "originalFileName": "276070179_377419104393197_3620830683501599941_n.jpg",
-                    "createdAt": 1652882812145
-                },
-                {
-                    "id": "a1cf1ba4-c83b-4f14-a32a-672fdf757629",
-                    "monumentId": "3fbf8ca6-bf66-4aca-be4e-1b8e23dd0419",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/72aeeb4e-3f8e-4cc0-86ba-2eae8de7645b.jpg",
-                    "originalFileName": "275859754_377419164393191_7600184935720735998_n.jpg",
-                    "createdAt": 1652882812314
-                },
-                {
-                    "id": "cf9002f1-4ebd-4161-98c7-67a56b9ef905",
-                    "monumentId": "3fbf8ca6-bf66-4aca-be4e-1b8e23dd0419",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/d43f86dc-d126-4233-b15c-917b331a74ae.jpg",
-                    "originalFileName": "275668009_377419151059859_2282525889241675548_n.jpg",
-                    "createdAt": 1652882812488
-                },
-                {
-                    "id": "4a82217b-b62c-4a9f-acba-5a3fa26c2088",
-                    "monumentId": "3fbf8ca6-bf66-4aca-be4e-1b8e23dd0419",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/dd02ca6e-d96b-4cf7-9d21-c3d0d7bf98db.jpg",
-                    "originalFileName": "X9xDqK_6235b22f1ebbc4_09591732.jpg",
-                    "createdAt": 1652882863336
                 }
             ]
         },
         {
             "id": "0b8e4e02-877b-4e32-bd27-956ac02738cf",
-            "name": "Народний музей маршала бронетанкових військ, героя Радянського Союзу Павла Рибалка",
-            "address": "Сумська обл., с. Малий Вистороп, вул. П.С. Рибалка, 1",
-            "description": "Музей був створений у 1954 році.\n\nСучасна експозиція в музеї виконана в 1984 році.\n\nБудівля музею є історичною пам’яткою: це колишній маєток Романівського цукрового заводу, який було збудовано у 1870 році.\n",
+            "name": "Михайло Коцюбинський",
+            "address": "Народився у 1864 році у Вінниці, відомий своїми реалістичними романами",
+            "description": "Михайло Коцюбинський (1864-1913) був українським реалістичним письменником, відомим своїми романами та оповіданнями про життя у сільській місцевості України. Народився у Вінниці, твори Коцюбинського відображають соціально-економічні та культурні реалії свого часу, пропонуючи глибокі висновки про людську природу. Його літературна спадщина продовжує вражати читачів своєю автентичністю та емоційною глибиною.",
             "constructionDate": "1954",
             "destructionDate": "17.03.2022",
             "type": "WRITER",
@@ -130,41 +90,25 @@
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.626330397,
-                "lon": 34.809887306
+                "lat": 49.234230,
+                "lon": 28.480917
             },
             "photos": [
                 {
                     "id": "509b13ab-0017-4424-8bc8-b75b18f8156f",
                     "monumentId": "0b8e4e02-877b-4e32-bd27-956ac02738cf",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/79d7047d-eea6-4a10-86a7-43ebef17b762.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/kotsyubinskiy.jpg",
                     "originalFileName": "d87ad2e660a0fdd4.jpg",
                     "createdAt": 1652884230452
-                },
-                {
-                    "id": "50c51142-68f6-4d98-a72a-d688905687aa",
-                    "monumentId": "0b8e4e02-877b-4e32-bd27-956ac02738cf",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/9180eeed-217f-4b52-98f8-0183b46ec3f1.jpg",
-                    "originalFileName": "2dfce1992d42a353.jpg",
-                    "createdAt": 1652884230672
-                },
-                {
-                    "id": "7afb136d-7a10-445d-9419-957f4a155259",
-                    "monumentId": "0b8e4e02-877b-4e32-bd27-956ac02738cf",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/a7d9de88-6dde-439d-a893-c9258cba0e27.jpg",
-                    "originalFileName": "84798b9533fd7d91.jpg",
-                    "createdAt": 1652884230894
                 }
             ]
         },
         {
             "id": "d28bff9a-975c-4e8d-a00d-889eec35d44a",
-            "name": "Охтирський краєзнавчий музей",
-            "address": "Сумська обл., м. Охтирка, вул. Незалежності, 10",
-            "description": "Охтирський міський краєзнавчий музей — краєзнавчий музей у місті Охтирці (райцентр на Сумщині), цікаве зібрання матеріалів з природи, історії, культури та персоналій міста. \n\nФонди Охтирського міського краєзнавчого музею нараховують 9 815 музейних предметів.",
+            "name": "Василь Стефаник",
+            "address": "Народився у 1871 році у Русів, визнаний за його ліричну прозу",
+            "description": "Василь Стефаник (1871-1936) був українським письменником, якого відзначають за його ліричну прозу та психологічну глибину. Народився у Русів, Україна, твори Стефаника часто досліджують складнощі людської природи, кохання та красу сільського життя. Його внесок у українську літературу видається серед найбільш шанованих авторів початку 20-го століття.",
             "constructionDate": "поч. ХХ ст.",
             "destructionDate": "07.03.2022р.",
             "type": "WRITER",
@@ -172,33 +116,25 @@
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.30464,
-                "lon": 34.89286
+                "lat": 49.848892,
+                "lon": 23.951965
             },
             "photos": [
                 {
                     "id": "503964cb-39e3-4d0a-8f83-8828d20b97be",
                     "monumentId": "d28bff9a-975c-4e8d-a00d-889eec35d44a",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/5edbdee6-c875-4fda-b154-67db81bacbcd.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/stefanik.jpeg",
                     "originalFileName": "275302892_5122012337843653_9012341583298140025_n.jpg",
                     "createdAt": 1651430720581
-                },
-                {
-                    "id": "787f42fc-40fa-4bef-920e-b00e0a170961",
-                    "monumentId": "d28bff9a-975c-4e8d-a00d-889eec35d44a",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/61c20dbc-5a9a-475d-8761-38c7379b7867.jpg",
-                    "originalFileName": "2.jpg",
-                    "createdAt": 1651430720810
                 }
             ]
         },
         {
             "id": "33756ca4-d3e3-48f8-bacb-367ca22ae293",
-            "name": "Чернігівська обласна дитяча бібліотека",
-            "address": "Чернігівська обл., м. Чернігів, вул. Шевченка, 63",
-            "description": "З 1902 по 1978 рр. — музей українських старожитностей В. В. Тарновського. \n\nПід час СРСР багато експонатів відчужили із Чернігова. \n\nУ наші часи - обласна дитяча бібліотека.",
+            "name": "Павло Тичина",
+            "address": "Народився у 1891 році у Пісках, відомий своїм модерністським дослідженням і ліричною поезією",
+            "description": "Павло Тичина (1891-1967) був провідною постаттю українського модернізму, відомого своєю інноваційною поезією, що досліджує теми природи, духовності та людського досвіду. Народився у Пісках, Україна, твори Тичини переймаються за грані стилістичних меж і продовжують надихати своїми глибокими філософськими висновками та художньою блискучістю.",
             "constructionDate": "1902",
             "destructionDate": "11.03.2022",
             "type": "WRITER",
@@ -206,167 +142,119 @@
             "level": "NO_REGISTER",
             "ownership": "COMUN",
             "coordinates": {
-                "lat": 51.50272,
-                "lon": 31.32571
+                "lat": 49.783333,
+                "lon": 24.060277
             },
             "photos": [
                 {
                     "id": "de633ddb-0697-4b14-94d9-d401435e6a84",
                     "monumentId": "33756ca4-d3e3-48f8-bacb-367ca22ae293",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/a7bc5fb6-8b17-4c8a-9840-21bec33fd7e0.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/tichina.jpg",
                     "originalFileName": "2-2.jpg",
                     "createdAt": 1650405631742
-                },
-                {
-                    "id": "f542a67a-beb8-4720-91c0-b5cb9b6db636",
-                    "monumentId": "33756ca4-d3e3-48f8-bacb-367ca22ae293",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/a2ae438e-bd5e-4610-8b28-d4c7a093be99.jpg",
-                    "originalFileName": "2-1.jpg",
-                    "createdAt": 1650405642050
                 }
             ]
         },
         {
             "id": "bb66bf0c-9faf-4d3c-ba03-a8128d52d183",
-            "name": "Паркова альтанка",
-            "address": "Чернігівська обл., Чернігівський р-н, м. Чернігів, Болдині гори",
-            "description": "Історія винекнення альтанки на Болдиній горі пов'язана з приїздом до міста останнього імператора Миколи ІІ у 1911 році. Відомо, що перед приїздом імператора мешканці міста готувались до зустрічі з ним. Серед числених заходів, тогочасна влада міста вирішила поставити альтанку, в якій передбачалась чайна церемонія. Як засвідчила історія, церемонія не відбулась, а альтанка залишилась.",
+            "name": "Богдан-Ігор Антонич",
+            "address": "Народився у 1909 році у Новому Світі, Крим, він вплинув на українську літературу своїм експериментальним стилем та символізмом",
+            "description": "Богдан-Ігор Антонич (1909-1937) був авангардним поетом, відомим своїм експериментальним стилем та символічною образністю. Народився у Новому Світі, на Криму, він зіграв піонерську роль у українській літературі початку 20-го століття. Поезія Антонича, відзначена її сюрреалізмом та внутрішньою самоаналізацією, залишається впливовою та високо цінною в українських літературних колах.",
             "constructionDate": "1911 р.",
             "destructionDate": "05.04.2022",
-            "type": "ACTOR",
+            "type": "WRITER",
             "status": "COMPLETELY_DESTROYED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 51.478149227,
-                "lon": 31.284136961
+                "lat": 44.984173,
+                "lon": 34.101582
             },
             "photos": [
                 {
                     "id": "8ce17533-b13b-4e05-a239-68a3079e4f38",
                     "monumentId": "bb66bf0c-9faf-4d3c-ba03-a8128d52d183",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/54eaf0b7-ad51-4a85-b0fe-14ef2e3261cd.png",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/antonych.jpg",
                     "originalFileName": "зображення_2022-05-01_224910128.png",
                     "createdAt": 1651434563305
-                },
-                {
-                    "id": "9e1cbafb-e92b-4576-8257-c35396aa4f8b",
-                    "monumentId": "bb66bf0c-9faf-4d3c-ba03-a8128d52d183",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/fff0c023-e85b-45b9-8dd3-0e628c3de97b.png",
-                    "originalFileName": "зображення_2022-05-01_224921065.png",
-                    "createdAt": 1651434563711
                 }
             ]
         },
         {
             "id": "842d14a3-dc93-4080-b633-e6a95679d4aa",
-            "name": "Меморіал жертв тоталітаризму",
-            "address": "Харківська обл., Харківський р-н, м. Харків, Білгородське шосе, Лісопарк",
-            "description": "Меморіал створений за ініціативи президентів України та Польщі в харківському Лісопарку.\n\nМонумент являє собою Хрест Віртуті Мілітарі, біля якого встановлені стели з іменами розстріляних НКВС у 1938—1940 роках українців та польських військових, які були поховані у братських могилах на території Лісопарку.\n\nУ 1940 році тут було розстріляно 3809 польських офіцерів і 500 мирних польських громадян. ",
+            "name": "Ліна Костенко",
+            "address": "Народилася у 1930 році у Ржищеві, відома своєю соціальною і ліричною поезією",
+            "description": "Ліна Костенко (1930-сьогодні) - сучасна українська поетеса, письменниця та громадська діячка. Народилася у Ржищеві, Україна, вона відома своєю соціальною поезією, що досліджує теми кохання, війни та боротьби за гідність людини. Голос і ліричний вираз Костенко заробили їй широке визнання і визнання як однієї з найвищих літературних постатей України.",
             "constructionDate": "2000",
             "destructionDate": "23.03.2022",
-            "type": "ACTOR",
+            "type": "WRITER",
             "status": "PARTIALLY_DESTROYED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.081230204,
-                "lon": 36.262293847
+                "lat": 50.417842,
+                "lon": 30.604739
             },
             "photos": [
                 {
                     "id": "a5ff1f4b-179a-4447-84da-3d6228d93866",
                     "monumentId": "842d14a3-dc93-4080-b633-e6a95679d4aa",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/9feaa13a-4fb6-4dfb-b9f0-6e07d04a736b.jpeg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/kostenko.jpg",
                     "originalFileName": "4.jpeg",
                     "createdAt": 1653327064722
-                },
-                {
-                    "id": "0cb0497d-6100-44a5-847c-f8e1b467a417",
-                    "monumentId": "842d14a3-dc93-4080-b633-e6a95679d4aa",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/f319d461-a090-4c31-a3fd-961ef3946cce.jpeg",
-                    "originalFileName": "5.jpeg",
-                    "createdAt": 1653327065199
                 }
             ]
         },
         {
             "id": "aa5a0e33-65f7-41ca-9ae0-b2b206b7a9e4",
-            "name": "Церква святителя Феодосія",
-            "address": "Чернігівська обл., кладовище Яцево, вул. Кленова, 3",
-            "description": "Перша церква в Україні, збудована після здобуття незалежності в 1991 році. \n\nЦегляна Церква споруджена в модернізованих формах класицизму середини XIX століття.",
+            "name": "Юрій Андрухович",
+            "address": "Народився у 1960 році у Станіславі (тепер Івано-Франківськ), провідний сучасний письменник",
+            "description": "Юрій Андрухович (1960-сьогодні) - провідний сучасний український письменник, відомий своєю інноваційною прозою та поетичним стилем. Народився у Станіславі (тепер Івано-Франківськ), Україна, твори Андруховича часто поєднують постмодерністські техніки з історичними та культурними темами, відтворюючи складнощі сучасного українського суспільства з глибиною та гостротою.",
             "constructionDate": "1996",
             "destructionDate": "13.03.2022",
-            "type": "MUSICIAN",
+            "type": "WRITER",
             "status": "PARTIALLY_DESTROYED",
             "level": "NO_REGISTER",
             "ownership": "COMUN",
             "coordinates": {
-                "lat": 51.538668637,
-                "lon": 31.359041101
+                "lat": 48.922633,
+                "lon": 24.708531
             },
             "photos": [
                 {
                     "id": "dc457cec-0bf6-4d36-b0ab-b0c1c7f9f867",
                     "monumentId": "aa5a0e33-65f7-41ca-9ae0-b2b206b7a9e4",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/2f94c6d7-efdb-4899-89a3-64afe402841a.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/andruchov.jpg",
                     "originalFileName": "278065720_1154093068721232_7468169435858528107_n-1200x900.jpg",
                     "createdAt": 1650405903316
-                },
-                {
-                    "id": "6753c2c8-4abb-4a7b-8860-3ceda412d309",
-                    "monumentId": "aa5a0e33-65f7-41ca-9ae0-b2b206b7a9e4",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/872c30ff-96a0-4ee0-a609-88b2d38fc187.jpg",
-                    "originalFileName": "277769160_1399522083852980_6316186691658784748_n.jpg",
-                    "createdAt": 1650405912075
-                },
-                {
-                    "id": "fbafc3b5-9f39-49de-bba2-76b52dc2fc5f",
-                    "monumentId": "aa5a0e33-65f7-41ca-9ae0-b2b206b7a9e4",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/ba04ca62-2cbb-4389-9234-550dde5c407e.webp",
-                    "originalFileName": "278128229_1156224028508136_3401503419816895271_n.webp",
-                    "createdAt": 1650405920962
-                },
-                {
-                    "id": "5f59efdd-e7a6-414d-a9b5-a8ff1f375a09",
-                    "monumentId": "aa5a0e33-65f7-41ca-9ae0-b2b206b7a9e4",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/7870a002-8bc8-4fcf-b1f2-cd0c0bb1c4da.jpg",
-                    "originalFileName": "277797325_1154093268721212_7509380801396274371_n-900x1200.jpg",
-                    "createdAt": 1650405938009
                 }
             ]
         },
         {
             "id": "bea20289-1081-407f-a811-b8e571f361d0",
-            "name": "Георгіївська церква",
-            "address": "Київська обл., Броварський р-н, с. Заворичі",
-            "description": "Однокупольна дерев'яна церква Святого Георгія в Заворичах була збудована 1873 року. \n\nУ 1935 році храм було закрито для богослужіння, а в його приміщенні облаштовано зерносховище.",
+            "name": "Сергій Жадан",
+            "address": "Народився у 1974 році у Старобільську, відомий своїм потужним зображенням сучасної української реальності в своїх творах",
+            "description": "Сергій Жадан (1974-сьогодні) - відомий український письменник, поет та музикант. Народився у Старобільську, Україна, Жадан славиться своїм потужним зображенням сучасної української реальності у своїх творах. Його поезія та проза відображають соціальні перетворення, війну та пошук ідентичності в сучасній Україні, що заробило йому як критичне визнання, так і віддану читацьку аудиторію",
             "constructionDate": "1873",
             "destructionDate": "07.03.2022",
-            "type": "MUSICIAN",
+            "type": "WRITER",
             "status": "PARTIALLY_DESTROYED",
             "level": "LOCAL",
             "ownership": "COMUN",
             "coordinates": {
-                "lat": 50.706748286,
-                "lon": 31.133271442
+                "lat": 49.278728,
+                "lon": 39.688915
             },
             "photos": [
                 {
                     "id": "77518660-35c3-42f0-a262-19ee6b4f617c",
                     "monumentId": "bea20289-1081-407f-a811-b8e571f361d0",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/fd60c4c9-5653-4c47-a6fe-e21c4be4905b.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/zhadan.JPG",
                     "originalFileName": "_123580425_275375112_4909656305749281_4178734920324084318_n.jpg",
                     "createdAt": 1650406871959
                 }

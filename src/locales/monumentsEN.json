@@ -2,59 +2,51 @@
     "monuments": [
         {
             "id": "346b6f16-77da-4688-91c3-53abc229e317",
-            "name": "A mass grave of warriors and a monument to Fellow Villagers who Gave Their Lives in 1941-1945.",
-            "address": "Tsentral'na Street, Lukyanivka village, Brovarskyi district, Kyiv region",
-            "description": "A mass grave of the Soviet Army warriors and a monument to Fellow Villagers who Gave Their Lives during the Soviet-German war.",
+            "name": "Taras Shevchenko",
+            "address": "Born in 1814 in Moryntsi, he is revered as the father of Ukrainian literature",
+            "description": "Taras Shevchenko (1814-1861) was a Ukrainian poet, writer, artist, and political figure. Born into serfdom in Moryntsi, Ukraine, Shevchenko rose to prominence as a literary and cultural icon, advocating for the rights and freedoms of the Ukrainian people through his poetry and artwork. His works, including the epic poem Kobzar, continue to inspire generations and hold a central place in Ukrainian literature and national identity.",
             "constructionDate": "1957, 1975 ",
             "destructionDate": "30.03.2022",
-            "type": "ACTOR",
+            "type": "WRITER",
             "status": "PARTIALLY_DESTROYED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.486707,
-                "lon": 31.394476
+                "lat": 49.645347,
+                "lon": 31.089882
             },
             "photos": [
                 {
                     "id": "4690a5aa-d50d-41ef-8dbd-49871f2871aa",
                     "monumentId": "346b6f16-77da-4688-91c3-53abc229e317",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/a6ea648b-bb05-4c89-b245-3fe71aa102ad.png",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/shevchenko.jpg",
                     "originalFileName": "db3zgpBYDcKx6DDihJt7h1p2hPdAMeD9J9xUbkYu.png",
                     "createdAt": 1652262971614
-                },
-                {
-                    "id": "ebe42089-e953-4ed6-b167-44cc355f1d15",
-                    "monumentId": "346b6f16-77da-4688-91c3-53abc229e317",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/b187ec5a-6dc4-431c-93a8-9d8a161579af.jpg",
-                    "originalFileName": "Lukianivka028e0000-0aff-0242-109e-08da108fd84a_w1597_n_st.jpg",
-                    "createdAt": 1651433287776
                 }
             ]
         },
         {
             "id": "bea88346-0882-4773-8bc1-f776b8ff45c3",
-            "name": "Monument to Metropolitan Ignatius",
-            "address": "Mariupol', Mariupol' district, Donetsk region",
-            "description": "The monument is located at the entrance to the city of Mariupol'. It was Metropolitan Ignatius who brought the Greeks from Crimea to the Ukrainian lands in 1778. As a result, Mariupol and more than 20 Greek settlements around it were founded.",
+            "name": "Ivan Franko",
+            "address": "Born in 1856 in Nahuievychi, he was a prolific writer and social activist",
+            "description": "Ivan Franko (1856-1916) was a Ukrainian poet, writer, philosopher, and political activist. Born in Nahuievychi, Ukraine, Franko played a pivotal role in the development of Ukrainian literature and culture during the late 19th and early 20th centuries. His extensive body of work encompasses poetry, prose, drama, and literary criticism, reflecting his commitment to social justice, national liberation, and humanism.",
             "constructionDate": "кінець 1990-х",
             "destructionDate": "16.04.2022",
-            "type": "ACTOR",
+            "type": "WRITER",
             "status": "COMPLETELY_DESTROYED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 47.095475883,
-                "lon": 37.659982065
+                "lat": 49.832216,
+                "lon": 24.019186
             },
             "photos": [
                 {
                     "id": "aa3b4461-bdde-4f62-96dd-7c29db1e4416",
                     "monumentId": "bea88346-0882-4773-8bc1-f776b8ff45c3",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/5868e7aa-0571-4f00-8444-cf96260c7d41.jpeg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/franko.jpg",
                     "originalFileName": "0ea49784-6681-4038-b9fe-e31948c3f782.jpeg",
                     "createdAt": 1652881689477
                 }
@@ -62,67 +54,35 @@
         },
         {
             "id": "3fbf8ca6-bf66-4aca-be4e-1b8e23dd0419",
-            "name": "Holy Dormition Mykolo-Vasylivskyy Monastery",
-            "address": "Mykilske village, Volnovakha district, Donetsk region",
-            "description": "Until 1959, the village of Mykil's'ke, where the monastery is located, consisted of two villages - Mykil's'ke and Vasylivka, each of which had its own temples. \n\nIn 1998 and 2000 abbot Savatiy, the abbot of the Vasylivka parish,  (Shiarchimandrite Zosim) built and expanded the monastery. \n\nIn 2001, the Holy Dormition female Monastery of Mykolaiv was officialy recognised, which was followed by an official recognition of the Holy Dormition of Vasyliv male Monastery in 2022",
+            "name": "Lesya Ukrainka",
+            "address": "Born in 1871 in Novohrad-Volynskyi, a leading voice in Ukrainian literature and culture",
+            "description": "Lesya Ukrainka (1871-1913) was a prominent Ukrainian poet, playwright, and feminist activist. Born in Novohrad-Volynskyi, Ukraine, she defied social norms of her time and made significant contributions to Ukrainian literature and culture. Ukrainka's poetic works explore themes of love, freedom, and the struggle for national identity, earning her a place among Ukraine's literary giants.",
             "constructionDate": "1998-2003",
             "destructionDate": "06.03.2022",
-            "type": "MUSICIAN",
+            "type": "WRITER",
             "status": "PARTIALLY_DESTROYED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 47.749077425,
-                "lon": 37.302344453
+                "lat": 50.591381,
+                "lon": 27.612369
             },
             "photos": [
                 {
                     "id": "4fa4c418-0956-490b-bdbd-610b575934d1",
                     "monumentId": "3fbf8ca6-bf66-4aca-be4e-1b8e23dd0419",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/19b4ab88-cdcf-4366-a2de-fae4a736f40a.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/ukrayinka.jpg",
                     "originalFileName": "275775963_377414041060370_6109557774699000668_n.jpg",
                     "createdAt": 1652882811959
-                },
-                {
-                    "id": "e70c17f9-d2e7-46a5-8c0d-7a3c2e902ded",
-                    "monumentId": "3fbf8ca6-bf66-4aca-be4e-1b8e23dd0419",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/280e6511-86c8-4a03-94c8-b08e68aa1dd5.jpg",
-                    "originalFileName": "276070179_377419104393197_3620830683501599941_n.jpg",
-                    "createdAt": 1652882812145
-                },
-                {
-                    "id": "a1cf1ba4-c83b-4f14-a32a-672fdf757629",
-                    "monumentId": "3fbf8ca6-bf66-4aca-be4e-1b8e23dd0419",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/72aeeb4e-3f8e-4cc0-86ba-2eae8de7645b.jpg",
-                    "originalFileName": "275859754_377419164393191_7600184935720735998_n.jpg",
-                    "createdAt": 1652882812314
-                },
-                {
-                    "id": "cf9002f1-4ebd-4161-98c7-67a56b9ef905",
-                    "monumentId": "3fbf8ca6-bf66-4aca-be4e-1b8e23dd0419",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/d43f86dc-d126-4233-b15c-917b331a74ae.jpg",
-                    "originalFileName": "275668009_377419151059859_2282525889241675548_n.jpg",
-                    "createdAt": 1652882812488
-                },
-                {
-                    "id": "4a82217b-b62c-4a9f-acba-5a3fa26c2088",
-                    "monumentId": "3fbf8ca6-bf66-4aca-be4e-1b8e23dd0419",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/dd02ca6e-d96b-4cf7-9d21-c3d0d7bf98db.jpg",
-                    "originalFileName": "X9xDqK_6235b22f1ebbc4_09591732.jpg",
-                    "createdAt": 1652882863336
                 }
             ]
         },
         {
             "id": "0b8e4e02-877b-4e32-bd27-956ac02738cf",
-            "name": "National Museum of Marshal of Armored Forces, Hero of the Soviet Union Pavel Rybalko",
-            "address": "P.S. Rybalko Street, 1, Malyi Vystorop village, Sumy region",
-            "description": "The museum was established in 1954. The modern exposition in the museum was made in 1984. The museum building is a historical site: it is a former estate of the Romaniv Sugar Factory built in 1870.",
+            "name": "Mykhailo Kotsiubynsky",
+            "address": "Born in 1864 in Vinnytsia, known for his realist novels",
+            "description": "Mykhailo Kotsiubynsky (1864-1913) was a Ukrainian realist writer known for his novels and short stories depicting life in rural Ukraine. Born in Vinnytsia, Kotsiubynsky's works reflect the socio-economic and cultural realities of his time, offering profound insights into the human condition. His literary legacy continues to resonate with readers for its authenticity and emotional depth.",
             "constructionDate": "1954",
             "destructionDate": "17.03.2022",
             "type": "WRITER",
@@ -130,41 +90,25 @@
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.626330397,
-                "lon": 34.809887306
+                "lat": 49.234230,
+                "lon": 28.480917
             },
             "photos": [
                 {
                     "id": "509b13ab-0017-4424-8bc8-b75b18f8156f",
                     "monumentId": "0b8e4e02-877b-4e32-bd27-956ac02738cf",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/79d7047d-eea6-4a10-86a7-43ebef17b762.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/kotsyubinskiy.jpg",
                     "originalFileName": "d87ad2e660a0fdd4.jpg",
                     "createdAt": 1652884230452
-                },
-                {
-                    "id": "50c51142-68f6-4d98-a72a-d688905687aa",
-                    "monumentId": "0b8e4e02-877b-4e32-bd27-956ac02738cf",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/9180eeed-217f-4b52-98f8-0183b46ec3f1.jpg",
-                    "originalFileName": "2dfce1992d42a353.jpg",
-                    "createdAt": 1652884230672
-                },
-                {
-                    "id": "7afb136d-7a10-445d-9419-957f4a155259",
-                    "monumentId": "0b8e4e02-877b-4e32-bd27-956ac02738cf",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/a7d9de88-6dde-439d-a893-c9258cba0e27.jpg",
-                    "originalFileName": "84798b9533fd7d91.jpg",
-                    "createdAt": 1652884230894
                 }
             ]
         },
         {
             "id": "d28bff9a-975c-4e8d-a00d-889eec35d44a",
-            "name": "Okhtyrka Museum of Regional Ethnography",
-            "address": "Nezalezhnosti Street, 10, Okhtyrka, Sumy region",
-            "description": "Okhtyrka Museum of Regional Ethnography is a local lore museum in Okhtyrka (a district centre in Sumy region), an interesting collection of exhibits from nature, history, culture and famous locals. Okhtyrka Museum of Regional Ethnography funds contains 9815 museum pieces. \n",
+            "name": "Vasyl Stefanyk",
+            "address": "Born in 1871 in Rusiv, acclaimed for his lyrical prose",
+            "description": "Vasyl Stefanyk (1871-1936) was a Ukrainian writer celebrated for his lyrical prose and psychological depth. Born in Rusiv, Ukraine, Stefanyk's works often explore the complexities of human nature, love, and the beauty of rural life. His contributions to Ukrainian literature have earned him a place as one of the most revered authors of the early 20th century.",
             "constructionDate": "поч. ХХ ст.",
             "destructionDate": "07.03.2022р.",
             "type": "WRITER",
@@ -172,33 +116,25 @@
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.30464,
-                "lon": 34.89286
+                "lat": 49.848892,
+                "lon": 23.951965
             },
             "photos": [
                 {
                     "id": "503964cb-39e3-4d0a-8f83-8828d20b97be",
                     "monumentId": "d28bff9a-975c-4e8d-a00d-889eec35d44a",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/5edbdee6-c875-4fda-b154-67db81bacbcd.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/stefanik.jpeg",
                     "originalFileName": "275302892_5122012337843653_9012341583298140025_n.jpg",
                     "createdAt": 1651430720581
-                },
-                {
-                    "id": "787f42fc-40fa-4bef-920e-b00e0a170961",
-                    "monumentId": "d28bff9a-975c-4e8d-a00d-889eec35d44a",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/61c20dbc-5a9a-475d-8761-38c7379b7867.jpg",
-                    "originalFileName": "2.jpg",
-                    "createdAt": 1651430720810
                 }
             ]
         },
         {
             "id": "33756ca4-d3e3-48f8-bacb-367ca22ae293",
-            "name": "Chernihiv Library for Youth",
-            "address": "Shevchenka Street, 63, Chernihiv, Chernihiv region ",
-            "description": "It was the Museum of Ukrainian Antiquities of Vasyl Tarnovskyi from 1902 until 1978. During the Soviet period, many exhibits were stolen or moved. Today they building serves as a regional library for the youth.",
+            "name": "Pavlo Tychyna",
+            "address": "Born in 1891 in Pisky, renowned for his modernist exploration",
+            "description": "Pavlo Tychyna (1891-1967) was a leading figure of Ukrainian modernism, renowned for his innovative poetry exploring themes of nature, spirituality, and the human experience. Born in Pisky, Ukraine, Tychyna's works transcend stylistic boundaries and continue to inspire with their profound philosophical insights and artistic brilliance.",
             "constructionDate": "1902",
             "destructionDate": "11.03.2022",
             "type": "WRITER",
@@ -206,167 +142,119 @@
             "level": "NO_REGISTER",
             "ownership": "COMUN",
             "coordinates": {
-                "lat": 51.50272,
-                "lon": 31.32571
+                "lat": 49.783333,
+                "lon": 24.060277
             },
             "photos": [
                 {
                     "id": "de633ddb-0697-4b14-94d9-d401435e6a84",
                     "monumentId": "33756ca4-d3e3-48f8-bacb-367ca22ae293",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/a7bc5fb6-8b17-4c8a-9840-21bec33fd7e0.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/tichina.jpg",
                     "originalFileName": "2-2.jpg",
                     "createdAt": 1650405631742
-                },
-                {
-                    "id": "f542a67a-beb8-4720-91c0-b5cb9b6db636",
-                    "monumentId": "33756ca4-d3e3-48f8-bacb-367ca22ae293",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/a2ae438e-bd5e-4610-8b28-d4c7a093be99.jpg",
-                    "originalFileName": "2-1.jpg",
-                    "createdAt": 1650405642050
                 }
             ]
         },
         {
             "id": "bb66bf0c-9faf-4d3c-ba03-a8128d52d183",
-            "name": "Паркова альтанка",
-            "address": "Чернігівська обл., Чернігівський р-н, м. Чернігів, Болдині гори",
-            "description": "Історія винекнення альтанки на Болдиній горі пов'язана з приїздом до міста останнього імператора Миколи ІІ у 1911 році. Відомо, що перед приїздом імператора мешканці міста готувались до зустрічі з ним. Серед числених заходів, тогочасна влада міста вирішила поставити альтанку, в якій передбачалась чайна церемонія. Як засвідчила історія, церемонія не відбулась, а альтанка залишилась.",
+            "name": "Bohdan-Ihor Antonych",
+            "address": "Born in 1909 in Novy Svet, Crimea, a pioneering poet",
+            "description": "Bohdan-Ihor Antonych (1909-1937) was an avant-garde poet known for his experimental style and symbolic imagery. Born in Novy Svet, Crimea, he played a pioneering role in Ukrainian literature of the early 20th century. Antonych's poetry, marked by its surrealism and introspection, remains influential and highly regarded in Ukrainian literary circles.",
             "constructionDate": "1911 р.",
             "destructionDate": "05.04.2022",
-            "type": "ACTOR",
+            "type": "WRITER",
             "status": "COMPLETELY_DESTROYED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 51.478149227,
-                "lon": 31.284136961
+                "lat": 44.984173,
+                "lon": 34.101582
             },
             "photos": [
                 {
                     "id": "8ce17533-b13b-4e05-a239-68a3079e4f38",
                     "monumentId": "bb66bf0c-9faf-4d3c-ba03-a8128d52d183",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/54eaf0b7-ad51-4a85-b0fe-14ef2e3261cd.png",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/antonych.jpg",
                     "originalFileName": "зображення_2022-05-01_224910128.png",
                     "createdAt": 1651434563305
-                },
-                {
-                    "id": "9e1cbafb-e92b-4576-8257-c35396aa4f8b",
-                    "monumentId": "bb66bf0c-9faf-4d3c-ba03-a8128d52d183",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/fff0c023-e85b-45b9-8dd3-0e628c3de97b.png",
-                    "originalFileName": "зображення_2022-05-01_224921065.png",
-                    "createdAt": 1651434563711
                 }
             ]
         },
         {
             "id": "842d14a3-dc93-4080-b633-e6a95679d4aa",
-            "name": "Memorial to the Victims of Totalitarianism",
-            "address": "Belgorod Highway, Lisopark, Kharkiv, Kharkiv region",
-            "description": "The memorial was erected in the Kharkiv Lisopark at the initiative of the Ukrainian and the Polish presidents. The monument has a shape of the Virtuti Military Cross. Nearby stand the stelae with the names of the Ukrainian and Polish soldiers executed by the NKVD and buried in mass graves in the Lisopark.",
+            "name": "Lina Kostenko",
+            "address": "Born in 1930 in Rzhyshchiv, known for her socially engaged and lyrical poetry",
+            "description": "Lina Kostenko (1930-present) is a contemporary Ukrainian poet, writer, and public intellectual. Born in Rzhyshchiv, Ukraine, she is known for her socially engaged poetry, exploring themes of love, war, and the struggle for human dignity. Kostenko's powerful voice and lyrical expression have earned her widespread acclaim and recognition as one of Ukraine's most esteemed literary figures.",
             "constructionDate": "2000",
             "destructionDate": "23.03.2022",
-            "type": "ACTOR",
+            "type": "WRITER",
             "status": "PARTIALLY_DESTROYED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.081230204,
-                "lon": 36.262293847
+                "lat": 50.417842,
+                "lon": 30.604739
             },
             "photos": [
                 {
                     "id": "a5ff1f4b-179a-4447-84da-3d6228d93866",
                     "monumentId": "842d14a3-dc93-4080-b633-e6a95679d4aa",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/9feaa13a-4fb6-4dfb-b9f0-6e07d04a736b.jpeg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/kostenko.jpg",
                     "originalFileName": "4.jpeg",
                     "createdAt": 1653327064722
-                },
-                {
-                    "id": "0cb0497d-6100-44a5-847c-f8e1b467a417",
-                    "monumentId": "842d14a3-dc93-4080-b633-e6a95679d4aa",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/f319d461-a090-4c31-a3fd-961ef3946cce.jpeg",
-                    "originalFileName": "5.jpeg",
-                    "createdAt": 1653327065199
                 }
             ]
         },
         {
             "id": "aa5a0e33-65f7-41ca-9ae0-b2b206b7a9e4",
-            "name": "Church of Saint Theodosius",
-            "address": "Klenova street, 3, Chernihiv, Chernihiv oblast",
-            "description": "First church built after Ukraine gained independence in 1991.  It was constructed in the Modern Classicism style of the middle XIX with red brick.\n",
+            "name": "Yuriy Andrukhovych",
+            "address": "Born in 1960 in Stanislav (now Ivano-Frankivsk), a leading contemporary writer",
+            "description": "Yuriy Andrukhovych (1960-present) is a leading contemporary Ukrainian writer known for his innovative prose and poetic style. Born in Stanislav (now Ivano-Frankivsk), Ukraine, Andrukhovych's works often blend postmodernist techniques with historical and cultural themes, capturing the complexities of modern Ukrainian society with wit and depth.",
             "constructionDate": "1996",
             "destructionDate": "13.03.2022",
-            "type": "MUSICIAN",
+            "type": "WRITER",
             "status": "PARTIALLY_DESTROYED",
             "level": "NO_REGISTER",
             "ownership": "COMUN",
             "coordinates": {
-                "lat": 51.538668637,
-                "lon": 31.359041101
+                "lat": 48.922633,
+                "lon": 24.708531
             },
             "photos": [
                 {
                     "id": "dc457cec-0bf6-4d36-b0ab-b0c1c7f9f867",
                     "monumentId": "aa5a0e33-65f7-41ca-9ae0-b2b206b7a9e4",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/2f94c6d7-efdb-4899-89a3-64afe402841a.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/andruchov.jpg",
                     "originalFileName": "278065720_1154093068721232_7468169435858528107_n-1200x900.jpg",
                     "createdAt": 1650405903316
-                },
-                {
-                    "id": "6753c2c8-4abb-4a7b-8860-3ceda412d309",
-                    "monumentId": "aa5a0e33-65f7-41ca-9ae0-b2b206b7a9e4",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/872c30ff-96a0-4ee0-a609-88b2d38fc187.jpg",
-                    "originalFileName": "277769160_1399522083852980_6316186691658784748_n.jpg",
-                    "createdAt": 1650405912075
-                },
-                {
-                    "id": "fbafc3b5-9f39-49de-bba2-76b52dc2fc5f",
-                    "monumentId": "aa5a0e33-65f7-41ca-9ae0-b2b206b7a9e4",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/ba04ca62-2cbb-4389-9234-550dde5c407e.webp",
-                    "originalFileName": "278128229_1156224028508136_3401503419816895271_n.webp",
-                    "createdAt": 1650405920962
-                },
-                {
-                    "id": "5f59efdd-e7a6-414d-a9b5-a8ff1f375a09",
-                    "monumentId": "aa5a0e33-65f7-41ca-9ae0-b2b206b7a9e4",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/7870a002-8bc8-4fcf-b1f2-cd0c0bb1c4da.jpg",
-                    "originalFileName": "277797325_1154093268721212_7509380801396274371_n-900x1200.jpg",
-                    "createdAt": 1650405938009
                 }
             ]
         },
         {
             "id": "bea20289-1081-407f-a811-b8e571f361d0",
-            "name": "Heorhiivska Church",
-            "address": "Zavorychi village, Brovary district, Kyiv oblast ",
-            "description": "Single-domed wooden church of St. George in the village of Zavorichi was built in 1873. \n\nIn 1935, the church closed, and a granary was set up on its territory.",
+            "name": "Serhiy Zhadan",
+            "address": "Born in 1974 in Starobilsk, known for his powerful portrayal",
+            "description": "Serhiy Zhadan (1974-present) is a prominent Ukrainian writer, poet, and musician. Born in Starobilsk, Ukraine, Zhadan is celebrated for his powerful portrayal of contemporary Ukrainian realities in his works. His poetry and prose reflect the social upheaval, war, and search for identity in modern Ukraine, earning him both critical acclaim and a devoted readership.",
             "constructionDate": "1873",
             "destructionDate": "07.03.2022",
-            "type": "MUSICIAN",
+            "type": "WRITER",
             "status": "PARTIALLY_DESTROYED",
             "level": "LOCAL",
             "ownership": "COMUN",
             "coordinates": {
-                "lat": 50.706748286,
-                "lon": 31.133271442
+                "lat": 49.278728,
+                "lon": 39.688915
             },
             "photos": [
                 {
                     "id": "77518660-35c3-42f0-a262-19ee6b4f617c",
                     "monumentId": "bea20289-1081-407f-a811-b8e571f361d0",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/fd60c4c9-5653-4c47-a6fe-e21c4be4905b.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/zhadan.JPG",
                     "originalFileName": "_123580425_275375112_4909656305749281_4178734920324084318_n.jpg",
                     "createdAt": 1650406871959
                 }
