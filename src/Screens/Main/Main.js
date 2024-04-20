@@ -46,8 +46,6 @@ export default function Main(props) {
     <div className={cx(mainS.mainDiv, s.mainDiv)}>
       <Helmet>
         <title>{i18n.t('main.title')}</title>
-        <meta property='og:title' content={i18n.t('main.ogTitle')} />
-        <meta property='og:description' content={i18n.t('main.ogDescription')} />
       </Helmet>
       <Header open={props.open} />
       <div className={s.video}>
