@@ -496,195 +496,139 @@
         },
         {
             "id": "b1f32289-06e5-4970-9cae-9ee9897bd5d6",
-            "name": "Donetsk Academic Regional Drama Theater",
-            "address": "Teatralna Square, 1, Mariupol, Mariupol district, Donetsk region",
-            "description": "The building was designed by architects O. Krylov and O. Malyshenko. \n\nThe theatre had a gallery with four columns, crowned with the capitals of the composite order. \n\nA pediment with a sculptural group completed the main facade.",
+            "name": "Bohdan Stupka",
+            "address": " Born in 1941 in Kulykiv, he was a revered Ukrainian actor, leaving a lasting impact on theater, film, and television",
+            "description": "Born in 1941 in Kulykivka. Starting his career in theater, he quickly became a recognized Ukrainian actor known for his versatile roles in both theater and cinema, leaving a significant impact on Ukrainian cultural heritage.",
             "constructionDate": "1956-1960",
             "destructionDate": "16.03.2022",
-            "type": "HISTORICAL",
+            "type": "ACTOR",
             "status": "COMPLETELY_DESTROYED",
             "level": "LOCAL",
             "ownership": "COMUN",
             "coordinates": {
-                "lat": 47.096080299,
-                "lon": 37.548872369
+                "lat": 49.142058,
+                "lon": 24.382303
             },
             "photos": [
                 {
                     "id": "9238fd3d-76ba-4b6b-9a32-92863aaa0500",
                     "monumentId": "b1f32289-06e5-4970-9cae-9ee9897bd5d6",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/1fe9fcec-211f-4283-904d-0f0103d1d56f.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/stupka.jpeg",
                     "originalFileName": "53.1.jpg",
                     "createdAt": 1650973955039
-                },
-                {
-                    "id": "08f444ca-9bc6-4331-b3c6-3eadca6ada20",
-                    "monumentId": "b1f32289-06e5-4970-9cae-9ee9897bd5d6",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/9c7d5eac-ca93-4f14-80bc-2073b059b660.jpg",
-                    "originalFileName": "53.2.jpg",
-                    "createdAt": 1650973975055
                 }
             ]
         },
         {
             "id": "56b4ffb8-13b3-4270-adf0-86cce4ab5e0f",
-            "name": "Nunnery of the icon of Blessed Mother “Responding to prayers”",
-            "address": "Fasova village, Bucha district, Kyiv region",
-            "description": "On October 27, 2015, by the decision of the Holy Synod, a Nunnery of the icon of Blessed Virgin \"Uslyshatelntytsia”(The Listener) was founded based on the local parish. \n\nSister Arkhelaya (Korol) became the abbess. \n\nThe main temple of the covent was finished and consecrated by Archiereuses on October 5, 2016.",
+            "name": "Mariana Sadovska-Chorna",
+            "address": "Born in 1947 in Lviv, she was a distinguished actress known for her powerful performances",
+            "description": " Born in 1947 in Lviv. Her acting career began on the Lviv stage, where she progressed from a young talent to a recognized master of her craft. She is known for her impressive performances, blending talent, emotional depth, and professional skill.",
             "constructionDate": "2012-2016 ",
             "destructionDate": "28.03.2022",
-            "type": "MUSICIAN",
+            "type": "ACTOR",
             "status": "PARTIALLY_DESTROYED",
             "level": "NO_REGISTER",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.381583358,
-                "lon": 29.813676849
+                "lat": 49.8397,
+                "lon": 24.0297
             },
             "photos": [
                 {
                     "id": "9ba0a9d0-6bf9-4d2a-90b4-5cf2555b94af",
                     "monumentId": "56b4ffb8-13b3-4270-adf0-86cce4ab5e0f",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/0fabd526-2ca1-41ca-acc3-de7f9271dc3f.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/sadovska.jpg",
                     "originalFileName": "photo_2022-03-28_13-27-53.jpg",
                     "createdAt": 1650971356391
-                },
-                {
-                    "id": "7a91146a-72fd-42eb-a819-9b93750c4987",
-                    "monumentId": "56b4ffb8-13b3-4270-adf0-86cce4ab5e0f",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/2750178f-2b84-418c-b717-7c0b22efee3c.jpg",
-                    "originalFileName": "img-5deb95373a1b8ed24164238acd09f0bc-v-scaled.jpg",
-                    "createdAt": 1650971369240
-                },
-                {
-                    "id": "b27861c7-26f2-4d82-9112-5fd841bb7364",
-                    "monumentId": "56b4ffb8-13b3-4270-adf0-86cce4ab5e0f",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/d3af83a4-e7c1-4e5b-a66f-9b86c7d54161.jpg",
-                    "originalFileName": "img-20ee1da58fd87a49ec9cc28ea4c515a2-v-scaled.jpg",
-                    "createdAt": 1650971443605
                 }
             ]
         },
         {
             "id": "eacccbec-0096-40a4-8f08-6ce0bc44305e",
-            "name": "Church of St. Nicholas the Wonderworker",
-            "address": "Novohnativka village, Volnovakha district, Donetsk region",
-            "description": "Church of St.Nicholas the Wonderworker is an Eastern Orthodox church in the Volnovakha district. Hegumen Makarii Diadius is the parson of the church. The church was built to honor the memory of the 51st Guards Mechanized Brigade, 18 soldiers of which were killed by the Russian occupiers in May 2014 in Blahodatne(Volnovaha district). The foundation of the future church was laid in 2017, and money for сonstuction was collected by Lutsk and Volnovakha inhabitants. The opening and consecration of the church of the eparchy of Donetsk took place on 22 May, 2018. It became the first Ukrainian Orthodox Church under the Kyiv Patriarchate in the district.  There is a chapel, a bell tower, a humanitarian center, as well as a square in memory of the soldiers of the 51st Guards Mechanized Brigade on the territory of the church.",
+            "name": "Olga Kurylenko",
+            "address": "Born in 1979 in Berdiansk, she is an internationally renowned actress, famous for her roles in blockbuster films",
+            "description": " Born in 1979 in Berdiansk. Starting as a model, she rose to international fame with roles in major Hollywood blockbusters. Her high professionalism and talent made her one of the most successful Ukrainian actresses in the world of cinema.",
             "constructionDate": "22.05.2018",
             "destructionDate": "27.02.2022 ",
-            "type": "MUSICIAN",
+            "type": "ACTOR",
             "status": "PARTIALLY_DESTROYED",
             "level": "NO_REGISTER",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 47.61826,
-                "lon": 37.49766
+                "lat": 46.7521,
+                "lon": 36.7860
             },
             "photos": [
                 {
                     "id": "2bc2ca8d-fb9d-470e-ab18-283f5267e1b4",
                     "monumentId": "eacccbec-0096-40a4-8f08-6ce0bc44305e",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/5288ddd1-30c8-41e7-a72a-70b342e04b7c.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/kurilenko.jpg",
                     "originalFileName": "31_2.jpg",
                     "createdAt": 1650967467147
-                },
-                {
-                    "id": "91c08b44-22f2-422b-8718-122b87a8006a",
-                    "monumentId": "eacccbec-0096-40a4-8f08-6ce0bc44305e",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/14418223-34f5-4cc2-aa8e-08c6b59cb090.jpeg",
-                    "originalFileName": "275200470_367515512050223_300709849776208918_n.jpeg",
-                    "createdAt": 1655793767835
                 }
             ]
         },
         {
             "id": "d0242db1-97ae-402e-afa5-32667678ac38",
-            "name": "Church of St. Tikhon Zadonsky",
-            "address": "Tsvitna Street, 20, Hulyaipole, Polohivs'kyi district, Zaporizhzhia region",
-            "description": "Tikhon Zadonsky Church in Syrovatka is the main attraction of the region. \n\nThe Church of St. Tikhon was built in 1880 at the expense of the famous Sumy patron and benefactor Ivan Kharitonenko. \n\nThe church was opened to parishioners on the eve of Easter 1993.",
+            "name": "Serhiy Mykhalchuk",
+            "address": "Born in 1954 in Kyiv, he was a beloved Ukrainian actor celebrated for his iconic performances",
+            "description": "Born in 1954 in Kyiv. His acting talent was evident from a young age, and he became one of the most well-known and respected Ukrainian actors, famous for his iconic performances and warm rapport with audiences.",
             "constructionDate": "1880 ",
             "destructionDate": "06.03.2022",
-            "type": "MUSICIAN",
+            "type": "ACTOR",
             "status": "PARTIALLY_DESTROYED",
             "level": "LOCAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 47.661796,
-                "lon": 36.250901
+                "lat": 50.4501,
+                "lon": 30.5234
             },
             "photos": [
                 {
                     "id": "26f14ba7-521c-401d-a94b-274be42deec1",
                     "monumentId": "d0242db1-97ae-402e-afa5-32667678ac38",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/3358a0b8-633a-49b0-ab97-d5954baa0efb.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/mykhalchuk.jpg",
                     "originalFileName": "27_1.jpg",
                     "createdAt": 1650966464065
-                },
-                {
-                    "id": "ffbb63ac-9b9e-48a4-9fbb-317b16391026",
-                    "monumentId": "d0242db1-97ae-402e-afa5-32667678ac38",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/85070e2c-9d28-40b0-b46a-5d49020dd340.jpg",
-                    "originalFileName": "27_2.jpg",
-                    "createdAt": 1650966485403
                 }
             ]
         },
         {
             "id": "ac2a2b3d-d280-4638-b70a-90b769e5d3a4",
-            "name": "Обласний молодіжний центр",
-            "address": "Чернігівська обл., м. Чернігів, вул. Магістратська, 5",
-            "description": "Будинок Чернігівського обласного молодіжного центру (колишній кінотеатр імені Щорса). \n\nУ 1939 році було збудовано будівлю кінотеатру. На момент відкриття був найкраще обладнаним кінотеатром і став третім у місті («Перший радянський кінотеатр», «Комсомолець»). \n\nПід час німецько-радянської війни будинок було зруйновано, а відбудовано в 1947 році. \n\nУ 2017 році кінотеатр було закрито. \n\nТепер у будівлі розміщується Чернігівський обласний молодіжний центр.",
+            "name": "Ada Rogovtseva",
+            "address": "Born in 1937 in Zhytomyr, she was a legendary actress known for her exceptional talent",
+            "description": "Born in 1937 in Zhytomyr. She was recognized as one of the most talented actresses of her generation, playing numerous unforgettable roles in theater, film, and television. Her subtle acting skills combined with a deep understanding of character psychology earned her acclaim from both critics and audiences alike.",
             "constructionDate": "1935-1947 р",
             "destructionDate": "27.02.2022",
-            "type": "FILMMAKER",
+            "type": "ACTOR",
             "status": "PARTIALLY_DESTROYED",
             "level": "NO_REGISTER",
             "ownership": "COMUN",
             "coordinates": {
-                "lat": 51.491111,
-                "lon": 31.298611
+                "lat": 50.2547,
+                "lon": 28.6695
             },
             "photos": [
                 {
                     "id": "3378fd09-c169-4d3d-9ab1-a85d536dcd8e",
                     "monumentId": "ac2a2b3d-d280-4638-b70a-90b769e5d3a4",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/66da9d99-a2aa-4760-abe2-58878311c05b.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/rogovceva.png",
                     "originalFileName": "35_3.jpg",
                     "createdAt": 1650970759317
-                },
-                {
-                    "id": "f624f6c5-5e61-4bee-8ce4-d9b8f37bebf9",
-                    "monumentId": "ac2a2b3d-d280-4638-b70a-90b769e5d3a4",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/d21aa509-bbca-4ba9-af18-a827d198c07d.jpg",
-                    "originalFileName": "35_1.jpg",
-                    "createdAt": 1650970769068
-                },
-                {
-                    "id": "9702541f-9b58-46cc-9d91-d241af669ecb",
-                    "monumentId": "ac2a2b3d-d280-4638-b70a-90b769e5d3a4",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/771965d9-2d0c-4945-b5fb-5a1d9dd429b8.jpg",
-                    "originalFileName": "35_2.jpg",
-                    "createdAt": 1650970777539
                 }
             ]
         },
         {
             "id": "7fe08aac-eaa7-470c-9fb4-f0c8240bb624",
-            "name": "Mass Grave of Soldies and a Monument to Fellow Countrymen",
-            "address": "Kulishova Street, 59, Hostomel, Bucha district, Kyiv region",
-            "description": "A memorial honouring the soldiers of the Soviet army who died during World War II. \n\n952 residents of Pryirpinnia have not returned from that war, among them a whole class of graduates from Irpin' Secondary School №1 (26 Military volunteers). ",
+            "name": "Petro Benyuk",
+            "address": "Born in 1962 in Kosiv, he is a highly acclaimed Ukrainian actor known for his versatility",
+            "description": "Born in 1962 in Kosiv. His talent and professionalism have earned him great recognition both among colleagues and audiences. He is known for his ability to deliver insightful and witty performances, effortlessly embodying complex characters with unmatched ease.",
             "constructionDate": "1951",
             "destructionDate": "10.03.2022",
             "type": "ACTOR",
@@ -692,41 +636,25 @@
             "level": "LOCAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.584890947,
-                "lon": 30.259969469
+                "lat": 48.3244,
+                "lon": 25.0839
             },
             "photos": [
                 {
                     "id": "80ae1dbf-87e6-4cbd-a028-12e71c21d5df",
                     "monumentId": "7fe08aac-eaa7-470c-9fb4-f0c8240bb624",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/11b984f6-ba7b-4de3-832d-8c3c4673b737.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/benik.jpg",
                     "originalFileName": "246515.jpg",
                     "createdAt": 1650971019963
-                },
-                {
-                    "id": "974525d5-3b24-4843-9c97-05db374f31f4",
-                    "monumentId": "7fe08aac-eaa7-470c-9fb4-f0c8240bb624",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/28d335ce-6dd5-41cf-82bf-db674706c530.jpg",
-                    "originalFileName": "246510.jpg",
-                    "createdAt": 1650971028883
-                },
-                {
-                    "id": "69efe468-a9b2-4c9d-8d2b-f2580b7da5bd",
-                    "monumentId": "7fe08aac-eaa7-470c-9fb4-f0c8240bb624",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/4108c07f-f46f-48de-823d-af8d15458692.jpg",
-                    "originalFileName": "246516.jpg",
-                    "createdAt": 1650971036879
                 }
             ]
         },
         {
             "id": "3d8a64db-1dd9-40b1-84ee-33e544fcf46b",
-            "name": "Alley of Heroes of Anti-Terrorist Operation in Irpin",
-            "address": "Kotliarevskoho Street, 57, Irpin, Bucha district, Kyiv region",
-            "description": "Memorials to ATO soldiers were erected in 2014-2021. \n\nThe main sculpture of the Alley is the Tree of Resolve - made from metal, damaged by bullet holes and shrapnel, it still stands strong, symbolizing the strength and resilience of Ukrainian soldiers. Metal leaves hang from the branches, engraved with names of fallen ATO soldiers. \n\nIn the middle of the alley stands a column, with a statue of an angel on top.",
+            "name": "Maria Zankovetska",
+            "address": " Born in 1854 in Pryluky, she was a pioneering Ukrainian actress, considered one of the greatest stage performers of her time",
+            "description": "Born in 1854 in Pryluky. She became one of the first great actresses of the Ukrainian stage, captivating audiences with her unmatched performances and talent. Her influence on the development of theatrical art in Ukraine was immensely significant, and her name remains an integral part of Ukrainian cultural history.",
             "constructionDate": "2014-2021 р",
             "destructionDate": "31.03.2022",
             "type": "ACTOR",
@@ -734,117 +662,93 @@
             "level": "NO_REGISTER",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.535833546,
-                "lon": 30.253046969
+                "lat": 50.5924,
+                "lon": 32.3893
             },
             "photos": [
                 {
                     "id": "b1f7591d-012e-4724-948c-610b4ca5fdbf",
                     "monumentId": "3d8a64db-1dd9-40b1-84ee-33e544fcf46b",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/1e974ca1-8cbe-4584-933f-a0c8d1be5ba6.png",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/zankovetska.jpg",
                     "originalFileName": "1.png",
                     "createdAt": 1650971638876
-                },
-                {
-                    "id": "92236a89-5ff9-4420-942d-12cb2a8abb50",
-                    "monumentId": "3d8a64db-1dd9-40b1-84ee-33e544fcf46b",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/1f82f90a-76fc-4365-a03a-b4de99cdb23b.png",
-                    "originalFileName": "2.png",
-                    "createdAt": 1650971649565
                 }
             ]
         },
         {
             "id": "eb70abb9-84c4-4498-975a-6da714441ec7",
-            "name": "The Holy Dormition Sviatohirsk Lavra (architectural ensemble of the 19th - early 20th century)",
-            "address": "Zarichna Street, 3, Sviatohirsk, Kramatorsk district, Donetsk region",
-            "description": "The UOC-MP (Ukrainian Orthodox Church of the Moscow Patriarchate) church is located on the right bank of the Siversky Donets river. \n\nHere the relics of St. John, the recluse of Sviatohirsk, are kept. Under the monastery, there is an extensive cave network. ",
+            "name": "Andriy Sereda",
+            "address": "Born in 1960 in Kyiv, he was a celebrated Ukrainian actor known for his memorable roles",
+            "description": "Born in 1960 in Kyiv. His talent and professionalism have made him one of the most popular and respected actors on the Ukrainian stage. He is known for his unmatched performances in both tragic and comedic roles, winning the hearts of audiences with his striking emotional expressiveness.",
             "constructionDate": "1526",
             "destructionDate": "12.03.2022",
-            "type": "MUSICIAN",
+            "type": "ACTOR",
             "status": "PARTIALLY_DESTROYED",
             "level": "LOCAL",
             "ownership": "COMUN",
             "coordinates": {
-                "lat": 49.028332783,
-                "lon": 37.567521562
+                "lat": 50.4501,
+                "lon": 30.5234
             },
             "photos": [
                 {
                     "id": "466d8092-5541-43ad-b0af-ef28d69531c5",
                     "monumentId": "eb70abb9-84c4-4498-975a-6da714441ec7",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/70944a4b-e4dd-42cb-9ce8-658c42beed65.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/sereda.jpeg",
                     "originalFileName": "45.1.jpg",
                     "createdAt": 1650972170599
-                },
-                {
-                    "id": "de01bfaa-3b1d-4116-a438-ac1ed6f3e031",
-                    "monumentId": "eb70abb9-84c4-4498-975a-6da714441ec7",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/b9941e6e-3a42-405f-b361-91abf7cf7388.jpg",
-                    "originalFileName": "45.2.jpg",
-                    "createdAt": 1650972185200
                 }
             ]
         },
         {
             "id": "f4867010-9025-4a9b-b6f6-ec7b2752b610",
-            "name": "Holy Protection Church (Church of the Nativity of Our Lady)",
-            "address": "Viazivka village, Korosten district, Zhytomyr region ",
-            "description": "The wooden church of the Nativity of Mother of God was constructed in 1862 by inhabitants and priests. \n\nThe unique feature of the church is that it was built without the use of nails or screws.",
+            "name": "Larysa Kadochnikova",
+            "address": "Born in 1942 in Kyiv, she was a distinguished actress known for her captivating presence",
+            "description": "Born in 1942 in Kyiv. She was recognized for her unparalleled acting abilities and the warmth she brought to her roles. Her performances garnered great acclaim from Ukrainian and international audiences, and her contribution to the development of Ukrainian cinema and theater is incredibly significant.",
             "constructionDate": "1862",
             "destructionDate": "07.03.2022",
-            "type": "MUSICIAN",
+            "type": "ACTOR",
             "status": "PARTIALLY_DESTROYED",
             "level": "NATIONAL",
             "ownership": "CONCESSION",
             "coordinates": {
-                "lat": 51.15142,
-                "lon": 28.87868
+                "lat": 50.4501,
+                "lon": 30.5234
             },
             "photos": [
                 {
                     "id": "4cbb1665-5510-43c6-a47e-20d77a24b00c",
                     "monumentId": "f4867010-9025-4a9b-b6f6-ec7b2752b610",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/f9302667-044a-4832-82d3-0b1e6fde1d46.jpeg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/kadochnikova.jpeg",
                     "originalFileName": "55_1.jpeg",
                     "createdAt": 1650974205288
-                },
-                {
-                    "id": "d11974ee-f126-454c-9de0-ac64b7bd334e",
-                    "monumentId": "f4867010-9025-4a9b-b6f6-ec7b2752b610",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/8434f93b-9edb-40d9-987e-6f0d1c1375f8.jpg",
-                    "originalFileName": "55_2.jpg",
-                    "createdAt": 1650974217418
                 }
             ]
         },
         {
             "id": "80791e9a-5bda-44c7-9ecf-ac3d2fe23d49",
-            "name": "Sumy State Military Lyceum \"Ivan Harytonenko Cadet Corps\"",
-            "address": "Herasim Kondratiev Street, 165, Sumy, Sumy region",
-            "description": "The Sumy Cadet Corps were created by the efforts and funds of Ivan Herasymovych Harytonenko in the late XIX - early XX centuries.  After the beginning of the Ukrainian Revolution during the time of the Ukrainian State of Hetman Pavlo Skoropadsky, the corps began to work as \"hetman\" (a structure used for governmental purposes). On September 8, 2011 the President of Ukraine Victor Yanukovych signed a decree that established  Sumy State Military Lyceum \"Ivan Harytonenko Cadet Corps\" as a state Lyceum-Boarding School with enhanced military and physical training.  In March 2019, by the decision of the Cabinet of Ministers of Ukraine, the lyceum became subordinate to the State Border Guard Service.",
+            "name": "Viktor Stepanenko",
+            "address": "Born in 1944 in Dnipro, he was a revered Ukrainian actor known for his profound dedication to his craft",
+            "description": "Born in 1944 in Dnipro. He was a highly esteemed actor, known for his deep devotion to the arts and immense talent. His performances were always remarkably authentic and striking, and his contribution to the development of Ukrainian culture is immeasurable.",
             "constructionDate": "28.12.1899",
             "destructionDate": "24.02.2022",
-            "type": "FILMMAKER",
+            "type": "ACTOR",
             "status": "PARTIALLY_DESTROYED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.881795585,
-                "lon": 34.787244525
+                "lat": 48.4604,
+                "lon": 35.0408
             },
             "photos": [
                 {
                     "id": "0a6fe798-1966-4d28-baea-bdcbbe6bd87a",
                     "monumentId": "80791e9a-5bda-44c7-9ecf-ac3d2fe23d49",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/85d8a87a-9b83-40ac-bb2e-6983972e9440.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/stepanenko.jpg",
                     "originalFileName": "20-1.jpg",
                     "createdAt": 1650975819680
                 }

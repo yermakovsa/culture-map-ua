@@ -496,195 +496,139 @@
         },
         {
             "id": "b1f32289-06e5-4970-9cae-9ee9897bd5d6",
-            "name": "Донецький обласний драмтеатр",
-            "address": "Донецька обл., Маріупольський р-н, м. Маріуполь, пл. Театральна, 1",
-            "description": "Будівля збудована за проєктом архітекторів О. Крилова та О. Малишенка. \n\nТеатр мав галерею з чотирма колонами, які завершували капітелі композитного ордеру. \n\nГоловний фасад завершувався фронтоном зі скульптурною групою.",
+            "name": "Богдан Ступка",
+            "address": "Народився 1941 у Куликівці, він був шанованим українським актором, залишивши значний слід у театрі, кіно та телебаченні",
+            "description": "Народився у 1941 році у селі Куликівка на Івано-Франківщині. Починаючи з ранньої кар'єри в театрі, він швидко став визнаним українським актором, який здобував велике визнання за свої яскраві театральні виступи, а також ролі у важливих кінофільмах. Його вміння втілювати різноманітні персонажі зробило його популярним як серед колег, так і серед глядачів.",
             "constructionDate": "1956-1960",
             "destructionDate": "16.03.2022",
-            "type": "HISTORICAL",
+            "type": "ACTOR",
             "status": "COMPLETELY_DESTROYED",
             "level": "LOCAL",
             "ownership": "COMUN",
             "coordinates": {
-                "lat": 47.096080299,
-                "lon": 37.548872369
+                "lat": 49.142058,
+                "lon": 24.382303
             },
             "photos": [
                 {
                     "id": "9238fd3d-76ba-4b6b-9a32-92863aaa0500",
                     "monumentId": "b1f32289-06e5-4970-9cae-9ee9897bd5d6",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/1fe9fcec-211f-4283-904d-0f0103d1d56f.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/stupka.jpeg",
                     "originalFileName": "53.1.jpg",
                     "createdAt": 1650973955039
-                },
-                {
-                    "id": "08f444ca-9bc6-4331-b3c6-3eadca6ada20",
-                    "monumentId": "b1f32289-06e5-4970-9cae-9ee9897bd5d6",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/9c7d5eac-ca93-4f14-80bc-2073b059b660.jpg",
-                    "originalFileName": "53.2.jpg",
-                    "createdAt": 1650973975055
                 }
             ]
         },
         {
             "id": "56b4ffb8-13b3-4270-adf0-86cce4ab5e0f",
-            "name": "Жіночий монастир ікони Божої Матері \"Услишательниці\"",
-            "address": "Київська обл., Бучанський р-н, с. Фасова",
-            "description": "Рішенням Священного Синоду УПЦ від 27 жовтня 2015 року на базі парафії було засновано жіночий монастир на честь ікони Божої Матері \"Услишательниця\". \n\nСтаршою сестрою стала монахиня Архелая (Король). \n\nГоловний храм обителі було добудовано та освячено сонмом архієреїв 5 жовтня 2016 року.",
+            "name": "Маріана Садовська-Чорна",
+            "address": "Народилася 1947 у Львові, вона була визнаною актрисою, відомою своїми потужними виступами",
+            "description": "Народилася у 1947 році у Львові. Її кар'єра акторки почалася на львівській сцені, де вона пройшла важливий шлях від молодого таланту до визнаної майстрині свого жанру. Вона відома своїми вражаючими виставами, в яких вдало поєднуються талант, емоційна глибина і професійна майстерність.",
             "constructionDate": "2012-2016 ",
             "destructionDate": "28.03.2022",
-            "type": "MUSICIAN",
+            "type": "ACTOR",
             "status": "PARTIALLY_DESTROYED",
             "level": "NO_REGISTER",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.381583358,
-                "lon": 29.813676849
+                "lat": 49.8397,
+                "lon": 24.0297
             },
             "photos": [
                 {
                     "id": "9ba0a9d0-6bf9-4d2a-90b4-5cf2555b94af",
                     "monumentId": "56b4ffb8-13b3-4270-adf0-86cce4ab5e0f",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/0fabd526-2ca1-41ca-acc3-de7f9271dc3f.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/sadovska.jpg",
                     "originalFileName": "photo_2022-03-28_13-27-53.jpg",
                     "createdAt": 1650971356391
-                },
-                {
-                    "id": "7a91146a-72fd-42eb-a819-9b93750c4987",
-                    "monumentId": "56b4ffb8-13b3-4270-adf0-86cce4ab5e0f",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/2750178f-2b84-418c-b717-7c0b22efee3c.jpg",
-                    "originalFileName": "img-5deb95373a1b8ed24164238acd09f0bc-v-scaled.jpg",
-                    "createdAt": 1650971369240
-                },
-                {
-                    "id": "b27861c7-26f2-4d82-9112-5fd841bb7364",
-                    "monumentId": "56b4ffb8-13b3-4270-adf0-86cce4ab5e0f",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/d3af83a4-e7c1-4e5b-a66f-9b86c7d54161.jpg",
-                    "originalFileName": "img-20ee1da58fd87a49ec9cc28ea4c515a2-v-scaled.jpg",
-                    "createdAt": 1650971443605
                 }
             ]
         },
         {
             "id": "eacccbec-0096-40a4-8f08-6ce0bc44305e",
-            "name": "Храм Святого Миколая Чудотворця",
-            "address": "Донецька обл., Волновахський р-н, c. Новогнатівка",
-            "description": "Храм Святого Миколая Чудотворця — православна церква у місті Волноваха Донецької області. Настоятель храму — ігумен Макарій Дядюсь. Храм побудовано в пам'ять про загиблих бійців 51-шої окремої механізованої бригади. У травні 2014 році російські окупанти жорстоко розстріляли 18 бійців 51-шої ОМБр поблизу Волновахи, у селищі Благодатне. 2017 році було закладено фундамент майбутнього храму. Гроші на будівництво збирали громади Луцька та Волновахи. Відкриття та освячення храму Донецької єпархії УПЦ КП на честь Святого Миколая Чудотворця відбулося 22 травня 2018 року. Храм став першою Українською православною церквою Київського патріархату в регіоні. На території храми, окрім каплиці було збудовано дзвіницю, гуманітарний центр, а також облаштовано сквер пам'яті воїнів 51-ї ОМБр.",
+            "name": "Ольга Куриленко",
+            "address": "Народилася 1979 у Бердянську, вона є міжнародно відомою акторкою, відомою за свої ролі в блокбастерах",
+            "description": "Народилася у 1979 році у Бердянську. Вона почала свою кар'єру як модель, але швидко стала відомою завдяки своїм ролям у великих голлівудських блокбастерах. Її високий професіоналізм і талант дозволили їй стати однією з найуспішніших українських акторок у світі кіно.",
             "constructionDate": "22.05.2018",
             "destructionDate": "27.02.2022 ",
-            "type": "MUSICIAN",
+            "type": "ACTOR",
             "status": "PARTIALLY_DESTROYED",
             "level": "NO_REGISTER",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 47.61826,
-                "lon": 37.49766
+                "lat": 46.7521,
+                "lon": 36.7860
             },
             "photos": [
                 {
                     "id": "2bc2ca8d-fb9d-470e-ab18-283f5267e1b4",
                     "monumentId": "eacccbec-0096-40a4-8f08-6ce0bc44305e",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/5288ddd1-30c8-41e7-a72a-70b342e04b7c.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/kurilenko.jpg",
                     "originalFileName": "31_2.jpg",
                     "createdAt": 1650967467147
-                },
-                {
-                    "id": "91c08b44-22f2-422b-8718-122b87a8006a",
-                    "monumentId": "eacccbec-0096-40a4-8f08-6ce0bc44305e",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/14418223-34f5-4cc2-aa8e-08c6b59cb090.jpeg",
-                    "originalFileName": "275200470_367515512050223_300709849776208918_n.jpeg",
-                    "createdAt": 1655793767835
                 }
             ]
         },
         {
             "id": "d0242db1-97ae-402e-afa5-32667678ac38",
-            "name": "Церква св. Тихона Задонського",
-            "address": "Запорізька обл., Пологівський р-н, м. Гуляйполе, вул. Цвітна, 20",
-            "description": "Церква Тихона Задонського у Сироватці — головна пам’ятка краю. \n\nХрам Святого Тихона був побудований в 1880 році на кошти відомого сумського мецената і благодійника Івана Харитоненка. \n\nЦерква була відкрита для прихожан напередодні Великодня 1993 року.",
+            "name": "Сергій Михальчук",
+            "address": "Народився 1954 у Києві, він був улюбленим українським актором, відомим своїми іконічними виступами",
+            "description": "Народився у 1954 році у Києві. Його акторський талант був виявлений в ранньому віці, і він став одним з найбільш відомих та шанованих акторів українського кіно. Його різноманітність та здатність дотримуватися найвищих стандартів акторської майстерності забезпечили йому місце серед великих зірок.",
             "constructionDate": "1880 ",
             "destructionDate": "06.03.2022",
-            "type": "MUSICIAN",
+            "type": "ACTOR",
             "status": "PARTIALLY_DESTROYED",
             "level": "LOCAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 47.661796,
-                "lon": 36.250901
+                "lat": 50.4501,
+                "lon": 30.5234
             },
             "photos": [
                 {
                     "id": "26f14ba7-521c-401d-a94b-274be42deec1",
                     "monumentId": "d0242db1-97ae-402e-afa5-32667678ac38",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/3358a0b8-633a-49b0-ab97-d5954baa0efb.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/mykhalchuk.jpg",
                     "originalFileName": "27_1.jpg",
                     "createdAt": 1650966464065
-                },
-                {
-                    "id": "ffbb63ac-9b9e-48a4-9fbb-317b16391026",
-                    "monumentId": "d0242db1-97ae-402e-afa5-32667678ac38",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/85070e2c-9d28-40b0-b46a-5d49020dd340.jpg",
-                    "originalFileName": "27_2.jpg",
-                    "createdAt": 1650966485403
                 }
             ]
         },
         {
             "id": "ac2a2b3d-d280-4638-b70a-90b769e5d3a4",
-            "name": "Обласний молодіжний центр",
-            "address": "Чернігівська обл., м. Чернігів, вул. Магістратська, 5",
-            "description": "Будинок Чернігівського обласного молодіжного центру (колишній кінотеатр імені Щорса). \n\nУ 1939 році було збудовано будівлю кінотеатру. На момент відкриття був найкраще обладнаним кінотеатром і став третім у місті («Перший радянський кінотеатр», «Комсомолець»). \n\nПід час німецько-радянської війни будинок було зруйновано, а відбудовано в 1947 році. \n\nУ 2017 році кінотеатр було закрито. \n\nТепер у будівлі розміщується Чернігівський обласний молодіжний центр.",
+            "name": "Ада Роговцева",
+            "address": "Народилася 1937 у Житомирі, вона була легендарною актрисою, відомою своїм винятковим талантом",
+            "description": "Народилася у 1937 році у Житомирі. Вона визнана як одна з найбільш талановитих акторок свого покоління, яка зіграла безліч неперевершених ролей у театрі, кіно та телебаченні. Її тонка акторська гра, сполучена з глибоким розумінням психології персонажів, завоювала велике визнання як серед критиків, так і серед глядачів.",
             "constructionDate": "1935-1947 р",
             "destructionDate": "27.02.2022",
-            "type": "FILMMAKER",
+            "type": "ACTOR",
             "status": "PARTIALLY_DESTROYED",
             "level": "NO_REGISTER",
             "ownership": "COMUN",
             "coordinates": {
-                "lat": 51.491111,
-                "lon": 31.298611
+                "lat": 50.2547,
+                "lon": 28.6695
             },
             "photos": [
                 {
                     "id": "3378fd09-c169-4d3d-9ab1-a85d536dcd8e",
                     "monumentId": "ac2a2b3d-d280-4638-b70a-90b769e5d3a4",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/66da9d99-a2aa-4760-abe2-58878311c05b.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/rogovceva.png",
                     "originalFileName": "35_3.jpg",
                     "createdAt": 1650970759317
-                },
-                {
-                    "id": "f624f6c5-5e61-4bee-8ce4-d9b8f37bebf9",
-                    "monumentId": "ac2a2b3d-d280-4638-b70a-90b769e5d3a4",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/d21aa509-bbca-4ba9-af18-a827d198c07d.jpg",
-                    "originalFileName": "35_1.jpg",
-                    "createdAt": 1650970769068
-                },
-                {
-                    "id": "9702541f-9b58-46cc-9d91-d241af669ecb",
-                    "monumentId": "ac2a2b3d-d280-4638-b70a-90b769e5d3a4",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/771965d9-2d0c-4945-b5fb-5a1d9dd429b8.jpg",
-                    "originalFileName": "35_2.jpg",
-                    "createdAt": 1650970777539
                 }
             ]
         },
         {
             "id": "7fe08aac-eaa7-470c-9fb4-f0c8240bb624",
-            "name": "Братська могила воїнів і пам'ятник землякам",
-            "address": "Київська обл., Бучанський р-н, м. Гостомель, вул. Кулішова, 59",
-            "description": "Меморіал воїнам радянської армії, які загинули під час Другої світової війни. \n\nТоді з поля бою не повернулися 952 мешканці Приірпіння, серед них – цілий клас випускників Ірпінської середньої школи №1 (26 добровольців).",
+            "name": "Петро Беник",
+            "address": "Народився 1962 у Косові, він є високо цінуваним українським актором, відомим своєю універсальністю",
+            "description": "Народився у 1962 році у Косові. Його талант і професійність дозволили йому отримати велике визнання як серед колег, так і серед глядачів. Він відомий своєю здатністю до проникливої і дотепної гри, яка дозволяє йому втілювати найскладніші персонажі з неперевершеною легкістю.",
             "constructionDate": "1951",
             "destructionDate": "10.03.2022",
             "type": "ACTOR",
@@ -692,41 +636,25 @@
             "level": "LOCAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.584890947,
-                "lon": 30.259969469
+                "lat": 48.3244,
+                "lon": 25.0839
             },
             "photos": [
                 {
                     "id": "80ae1dbf-87e6-4cbd-a028-12e71c21d5df",
                     "monumentId": "7fe08aac-eaa7-470c-9fb4-f0c8240bb624",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/11b984f6-ba7b-4de3-832d-8c3c4673b737.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/benik.jpg",
                     "originalFileName": "246515.jpg",
                     "createdAt": 1650971019963
-                },
-                {
-                    "id": "974525d5-3b24-4843-9c97-05db374f31f4",
-                    "monumentId": "7fe08aac-eaa7-470c-9fb4-f0c8240bb624",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/28d335ce-6dd5-41cf-82bf-db674706c530.jpg",
-                    "originalFileName": "246510.jpg",
-                    "createdAt": 1650971028883
-                },
-                {
-                    "id": "69efe468-a9b2-4c9d-8d2b-f2580b7da5bd",
-                    "monumentId": "7fe08aac-eaa7-470c-9fb4-f0c8240bb624",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/4108c07f-f46f-48de-823d-af8d15458692.jpg",
-                    "originalFileName": "246516.jpg",
-                    "createdAt": 1650971036879
                 }
             ]
         },
         {
             "id": "3d8a64db-1dd9-40b1-84ee-33e544fcf46b",
-            "name": "Алея Героїв Приірпіння",
-            "address": "Київська обл., Бучанський р-н, м. Ірпінь, вул. Котляревського, 57",
-            "description": "Пам’ятні знаки воїнам АТО на Алеї Героїв Приірпіння облаштовано у 2014-21 рр. \n\nГоловною скульптурою алеї є Дерево Духу — виготовлене з металу, воно наскрізь понівечене кулями, уламками мін та снарядів, але міцно тримає листочки, символізуючи силу та незламність українських воїнів. \n\nНа гілках дерева — металеві пластинки-листочки із прізвищами загиблих воїнів АТО.\n\nУ центрі алеї височіє колона з янголом.",
+            "name": "Марія Занковецька",
+            "address": "Народилася 1854 у Прилуках, вона була піонеркою української акторської майстерності, вважається однією з великих сценічних виконавиць свого часу",
+            "description": "Народилася у 1854 році у Прилуках. Вона стала однією з перших великих актрис української сцени, вражаючи глядачів своєю неперевершеною грою та талантом. Її вплив на розвиток театрального мистецтва в Україні був надзвичайно великим, і її ім'я залишається невід'ємною частиною історії української культури.",
             "constructionDate": "2014-2021 р",
             "destructionDate": "31.03.2022",
             "type": "ACTOR",
@@ -734,117 +662,93 @@
             "level": "NO_REGISTER",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.535833546,
-                "lon": 30.253046969
+                "lat": 50.5924,
+                "lon": 32.3893
             },
             "photos": [
                 {
                     "id": "b1f7591d-012e-4724-948c-610b4ca5fdbf",
                     "monumentId": "3d8a64db-1dd9-40b1-84ee-33e544fcf46b",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/1e974ca1-8cbe-4584-933f-a0c8d1be5ba6.png",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/zankovetska.jpg",
                     "originalFileName": "1.png",
                     "createdAt": 1650971638876
-                },
-                {
-                    "id": "92236a89-5ff9-4420-942d-12cb2a8abb50",
-                    "monumentId": "3d8a64db-1dd9-40b1-84ee-33e544fcf46b",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/1f82f90a-76fc-4365-a03a-b4de99cdb23b.png",
-                    "originalFileName": "2.png",
-                    "createdAt": 1650971649565
                 }
             ]
         },
         {
             "id": "eb70abb9-84c4-4498-975a-6da714441ec7",
-            "name": "Святогірська Свято-Успенська Лавра (ансамбль ХІХ - початку ХХ ст.)",
-            "address": "Донецька обл., Краматорський р-н, м. Святогірськ, вул. Зарічна, 3",
-            "description": "Свято-Успенська Святогірська Лавра розташована на схилах навислих над водою крейдяних гір, що здавна називали Святими. Документально Святі Гори відомі з 1526 р. У писемних джерелах монастир у скелі згадується верше під 1624 р. З кінця XVII ст. споруджуються монастирські будівлі, в тому числі кам‘яний престольний храм (1698-1708 рр.). У центрі обителі побудовано у 1859-1868 рр. за проектом А. Горностаєва п‘ятибанний престольний храм, над Святими вратами – церква Покрови Божої Матері (1850-1851 рр., архітектор К. Тон). На заході – два братських корпуси, на сході – колишній Гостиний двір обителі (комплекс споруд, що отримав сучасний вигляд у 1900 р.).",
+            "name": "Андрій Середа",
+            "address": "Народився 1960 у Києві, він був визнаним українським актором, відомим своїми незабутніми ролями",
+            "description": "Народився у 1960 році у Києві. Його талант і професійність зробили його одним із найпопулярніших та найшанованіших акторів на українській сцені. Він відомий своїми неперевершеними виступами як у трагічних, так і у комедійних ролях, завоювавши серця глядачів своєю вражаючою емоційною виразністю.",
             "constructionDate": "1526",
             "destructionDate": "12.03.2022",
-            "type": "MUSICIAN",
+            "type": "ACTOR",
             "status": "PARTIALLY_DESTROYED",
             "level": "LOCAL",
             "ownership": "COMUN",
             "coordinates": {
-                "lat": 49.028332783,
-                "lon": 37.567521562
+                "lat": 50.4501,
+                "lon": 30.5234
             },
             "photos": [
                 {
                     "id": "466d8092-5541-43ad-b0af-ef28d69531c5",
                     "monumentId": "eb70abb9-84c4-4498-975a-6da714441ec7",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/70944a4b-e4dd-42cb-9ce8-658c42beed65.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/sereda.jpeg",
                     "originalFileName": "45.1.jpg",
                     "createdAt": 1650972170599
-                },
-                {
-                    "id": "de01bfaa-3b1d-4116-a438-ac1ed6f3e031",
-                    "monumentId": "eb70abb9-84c4-4498-975a-6da714441ec7",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/b9941e6e-3a42-405f-b361-91abf7cf7388.jpg",
-                    "originalFileName": "45.2.jpg",
-                    "createdAt": 1650972185200
                 }
             ]
         },
         {
             "id": "f4867010-9025-4a9b-b6f6-ec7b2752b610",
-            "name": "Покровська (Різдва Пресвятої Богородиці) церква",
-            "address": "Житомирська обл., Коростенський р-н, с. В'язівка",
-            "description": "Дерев’яна Церква Різдва Пресвятої Богородиці була побудована в 1862 році. \n\nЗводилась вона силами мешканців та священнослужителів. \n\nУнікальним є те, що храм збудований без жодного цвяха.",
+            "name": "Лариса Кадочникова",
+            "address": "Народилася 1942 у Києві, вона була визнаною актрисою, відомою своєю присутністю на сцені",
+            "description": "Народилася у 1942 році у Києві. Вона була визнана своїми неперевершеними акторськими здібностями і великим теплом, яке вона приносила у свої ролі. Її вистави завоювали велике визнання як українських, так і міжнародних глядачів, і її внесок у розвиток українського кіно і театру надзвичайно важливий.",
             "constructionDate": "1862",
             "destructionDate": "07.03.2022",
-            "type": "MUSICIAN",
+            "type": "ACTOR",
             "status": "PARTIALLY_DESTROYED",
             "level": "NATIONAL",
             "ownership": "CONCESSION",
             "coordinates": {
-                "lat": 51.15142,
-                "lon": 28.87868
+                "lat": 50.4501,
+                "lon": 30.5234
             },
             "photos": [
                 {
                     "id": "4cbb1665-5510-43c6-a47e-20d77a24b00c",
                     "monumentId": "f4867010-9025-4a9b-b6f6-ec7b2752b610",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/f9302667-044a-4832-82d3-0b1e6fde1d46.jpeg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/kadochnikova.jpeg",
                     "originalFileName": "55_1.jpeg",
                     "createdAt": 1650974205288
-                },
-                {
-                    "id": "d11974ee-f126-454c-9de0-ac64b7bd334e",
-                    "monumentId": "f4867010-9025-4a9b-b6f6-ec7b2752b610",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/8434f93b-9edb-40d9-987e-6f0d1c1375f8.jpg",
-                    "originalFileName": "55_2.jpg",
-                    "createdAt": 1650974217418
                 }
             ]
         },
         {
             "id": "80791e9a-5bda-44c7-9ecf-ac3d2fe23d49",
-            "name": "Кадетський корпус ім. І. Г. Харитоненка",
-            "address": "Сумська обл., м. Суми, вул. Герасима Кондратьєва, 165",
-            "description": "Сумський кадетський корпус було створено зусиллями та за кошти Івана Герасимовича Харитоненка наприкінці XIX — на початку XX ст.\n\nПісля початку Української революції за часів Української Держави гетьмана Павла Скоропадського корпус почав працювати як «гетьманський». \n\n8 вересня 2011 року Президент України В. Ф. Янукович підписав указ про створення Державного ліцею-інтернату з підсиленою військово-фізичною підготовкою «Кадетський корпус» ім. І. Г. Харитоненка. \n\nУ березні 2019 року рішенням Кабінету Міністрів України ліцей було передано у підпорядкування Державної прикордонної служби.",
+            "name": "Віктор Степаненко",
+            "address": "Народився 1944 у Дніпрі, він був високо цінуваним українським актором, відомим своїм глибоким присвяченням своєму мистецтву",
+            "description": "Народився у 1944 році у Дніпрі. Він був високо цінуваним актором, відомим своєю глибокою пристрастю до мистецтва та великим талантом. Його вистави завжди були надзвичайно автентичними і вражаючими, а його внесок у розвиток української культури залишається невимірним.",
             "constructionDate": "28.12.1899",
             "destructionDate": "24.02.2022",
-            "type": "FILMMAKER",
+            "type": "ACTOR",
             "status": "PARTIALLY_DESTROYED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.881795585,
-                "lon": 34.787244525
+                "lat": 48.4604,
+                "lon": 35.0408
             },
             "photos": [
                 {
                     "id": "0a6fe798-1966-4d28-baea-bdcbbe6bd87a",
                     "monumentId": "80791e9a-5bda-44c7-9ecf-ac3d2fe23d49",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/85d8a87a-9b83-40ac-bb2e-6983972e9440.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/stepanenko.jpg",
                     "originalFileName": "20-1.jpg",
                     "createdAt": 1650975819680
                 }
