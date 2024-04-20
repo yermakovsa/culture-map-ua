@@ -262,9 +262,9 @@
         },
         {
             "id": "080c2d39-f5a5-44cb-a464-d335c4fd44be",
-            "name": "Voznesenska Church",
-            "address": "Lukyanivka village, Brovary district, Kyiv oblast",
-            "description": "The church survived the First World War, the Russian Revolution of 1917, the Civil War, the Holodomor, and repression. \nFrom 1930 to 1941, the church was closed. In 1941, during the German occupation, it was reopened and has not been closed since then.",
+            "name": "Mykola Lysenko",
+            "address": "Born 1842 in Hrynky, the father of Ukrainian classical music, blending folk melodies into compositions, shaping the nation's music.",
+            "description": "Mykola Lysenko (1842-1912) was a prominent Ukrainian composer, educator, and conductor. Born in the village of Hrynky in Kyiv Oblast, he is renowned as the father of Ukrainian classical music, incorporating Ukrainian folk melodies into his compositions, thereby shaping the nation's musical identity.",
             "constructionDate": "1879",
             "destructionDate": "25.03.2022",
             "type": "MUSICIAN",
@@ -272,75 +272,51 @@
             "level": "LOCAL",
             "ownership": "COMUN",
             "coordinates": {
-                "lat": 50.528894767,
-                "lon": 31.378971405
+                "lat": 51.9775,
+                "lon": 30.9744
             },
             "photos": [
                 {
                     "id": "5fa76051-1d09-4870-8ed2-24fd262d165a",
                     "monumentId": "080c2d39-f5a5-44cb-a464-d335c4fd44be",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/c47195b8-e2f1-4929-9757-6082f77c693f.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/lysenko.jpeg",
                     "originalFileName": "Вознесенська_церква_руїни.jpg",
                     "createdAt": 1650408207814
-                },
-                {
-                    "id": "138430ce-4b04-44ce-bb41-302ed22fd9ba",
-                    "monumentId": "080c2d39-f5a5-44cb-a464-d335c4fd44be",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/7a17cb7e-566b-4d69-9ef0-795da8a11f57.jpeg",
-                    "originalFileName": "12-1.jpeg",
-                    "createdAt": 1650408215955
                 }
             ]
         },
         {
             "id": "8d786dfc-6861-45b1-942a-5d2c884ec4db",
-            "name": "Bust of Taras Shevchenko in Borodianka",
-            "address": "Tarasa Shevchenka Square, Borodianka urban-type settlement, Bucha district, Kyiv region",
-            "description": "The monument of T. H. Shevchenko is installed at the square named after him in Borodyanka. \n\nThe bust was created by sculptor M. P. Mischuk and art expert A. T. Krayniev.",
+            "name": "Myroslav Skoryk",
+            "address": "Born 1938 in Lviv, blends traditional and modern music, enriching Ukrainian melodies",
+            "description": "Myroslav Skoryk (born 1938) is a celebrated Ukrainian composer and pianist. Born in Lviv, his music is known for its fusion of traditional Ukrainian melodies with contemporary compositional techniques, enriching the cultural heritage of Ukraine.",
             "constructionDate": "1999",
             "destructionDate": "02.04.2022",
-            "type": "ACTOR",
+            "type": "MUSICIAN",
             "status": "PARTIALLY_DESTROYED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.643757292,
-                "lon": 29.933186635
+                "lat": 49.8397,
+                "lon": 24.0297
             },
             "photos": [
                 {
                     "id": "96c9db2f-68df-4a22-b87a-0516a792e266",
                     "monumentId": "8d786dfc-6861-45b1-942a-5d2c884ec4db",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/4bedbb18-fe46-42fd-a6f4-2d36cfff3caa.webp",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/skorik.jpg",
                     "originalFileName": "photo2022-04-0613-17-50.webp",
                     "createdAt": 1653404710768
-                },
-                {
-                    "id": "86cafa45-0fa3-46d8-af52-cdf0b0d42575",
-                    "monumentId": "8d786dfc-6861-45b1-942a-5d2c884ec4db",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/64045969-da10-4ac0-adc2-a4e257f03889.jpeg",
-                    "originalFileName": "1649271171-6765.jpeg",
-                    "createdAt": 1653404760899
-                },
-                {
-                    "id": "8a9d1b02-addd-4ff6-9b81-fe8a48705c92",
-                    "monumentId": "8d786dfc-6861-45b1-942a-5d2c884ec4db",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/c5587804-dcc0-4aeb-8ff8-751ecd2a0853.jpeg",
-                    "originalFileName": "9ace653bcd49596f11d77f21884e39a8.jpeg",
-                    "createdAt": 1653400584265
                 }
             ]
         },
         {
             "id": "c3eff2db-ea5e-4580-8436-96d6b529a28b",
-            "name": "Chapel of St Tetyana the Martyr",
-            "address": "Universytetska Street, 7, Mariupol', Mariupol' district, Donetsk region",
-            "description": "Chapel of Saint Tetyana the Martyr was built on the territory of Pryazovskyi State Technical University in 2011.",
+            "name": "Borys Lyatoshynsky",
+            "address": "Born 1895 in Zhytomyr, his symphonies reflect Ukrainian themes, leaving a mark on classical music",
+            "description": "Borys Lyatoshynsky (1895-1968) was a distinguished Ukrainian composer born in Zhytomyr. His symphonies are renowned for their depth and reflection of Ukrainian themes, establishing him as a significant figure in Ukrainian classical music.",
             "constructionDate": "12.12.1997",
             "destructionDate": "19.03.2022",
             "type": "MUSICIAN",
@@ -348,15 +324,15 @@
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 47.095563666,
-                "lon": 37.541063292
+                "lat": 50.2547,
+                "lon": 28.6695
             },
             "photos": [
                 {
                     "id": "ae0dfbee-3d1f-46e3-9fec-974216c45723",
                     "monumentId": "c3eff2db-ea5e-4580-8436-96d6b529a28b",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/7797c2ff-6876-4f08-8e18-21e151a99758.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/lyatoshinkskiy.jpg",
                     "originalFileName": "275775963_377414041060370_6109557774699000668_n.jpg",
                     "createdAt": 1650971975609
                 }
@@ -364,9 +340,9 @@
         },
         {
             "id": "cd14a2a2-9d75-45d1-8fc2-f451c112e22b",
-            "name": "Вознесенська церква",
-            "address": "Київська обл., Броварський р-н, с. Бобрик",
-            "description": "Будівництво православного храму тривало з 1994 по 1998 рр. \n\n19 листопада 1998 року його головний престол освятив Митрополит Київський і всієї України Володимир (Сабодан). \n\n2 лютого 2008 року було освячено південний боковий приділ на честь Федосія Чернігівського, де міститься частина його мощей.",
+            "name": "Ihor Stravinsky",
+            "address": "Born 1882 in Khorol, known for rich orchestration and harmonies, influencing many",
+            "description": "Ihor Stravinsky (1882-1971) was a Ukrainian conductor and composer, born in Khorol. He is renowned for his rich orchestral arrangements and harmonic language, influencing musicians worldwide.",
             "constructionDate": "19.11.1998",
             "destructionDate": "05.03.2022",
             "type": "MUSICIAN",
@@ -374,15 +350,15 @@
             "level": "NO_REGISTER",
             "ownership": "COMUN",
             "coordinates": {
-                "lat": 50.779143427,
-                "lon": 31.081825078
+                "lat": 50.8633,
+                "lon": 33.4798
             },
             "photos": [
                 {
                     "id": "3851e682-a016-4091-a1f0-369b268ec625",
                     "monumentId": "cd14a2a2-9d75-45d1-8fc2-f451c112e22b",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/40efd442-018c-4a99-83e5-85b2b5a32b79.png",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/stravinskiy.jpeg",
                     "originalFileName": "11-1.png",
                     "createdAt": 1650407995829
                 }
@@ -390,9 +366,9 @@
         },
         {
             "id": "9f9d7ca4-d8be-455e-a7c4-eb1dd41eeeb1",
-            "name": "Ivankivsky Museum of Local Lore",
-            "address": "Shevchenko street, 14, Ivankiv urban-type settlement, Kyiv region",
-            "description": "Museum of History and Local Lore in the center of the community of Kyiv region, Ivankiv urban-type settlement, which displayed and stored collections of materials and objects from the history, culture and public figures of the former Ivankiv district. The collection of this museum included works by a famous Ukrainian national artist Maria Primachenko. The museum was recently renovated and was considered one of the best in Kyiv region; it was modern, interactive; 410 exhibits were stored in the museum.",
+            "name": "Volodymyr Ivasyuk",
+            "address": "Born 1949 in Kitsman, his folk songs embody Ukrainian spirit, beloved by many",
+            "description": "Volodymyr Ivasyuk (1949-1979) was a Ukrainian singer-songwriter born in Kitsman. His folk songs embody the spirit of Ukraine, endearing him to audiences and leaving a lasting impact on Ukrainian music.",
             "constructionDate": "22.02.1981",
             "destructionDate": "27.02.2022",
             "type": "MUSICIAN",
@@ -400,15 +376,15 @@
             "level": "NO_REGISTER",
             "ownership": "COMUN",
             "coordinates": {
-                "lat": 51.154879641,
-                "lon": 29.874171324
+                "lat": 48.4148,
+                "lon": 25.4549
             },
             "photos": [
                 {
                     "id": "d0bc7ee1-a3e2-46e5-8da3-1177af8c698b",
                     "monumentId": "9f9d7ca4-d8be-455e-a7c4-eb1dd41eeeb1",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/f5cd7696-9fa3-41eb-9c34-e0c49f50fbad.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/ivasuk.jpg",
                     "originalFileName": "1075423_21_w_590.jpg",
                     "createdAt": 1650408413462
                 }
@@ -416,9 +392,9 @@
         },
         {
             "id": "e8204f02-0843-4dc1-9051-65cb0f8e5df1",
-            "name": "Irpin Biblical Seminary",
-            "address": "Heroes Street, 33, Irpin', Kyiv region",
-            "description": "Irpin Bible Seminary - is a higher religious education center of Evangelical Baptist Brotherhood, firstly founded in Irpin as a “Kyiv spiritual, educational seminary.”\n\nThe seminary gives a theological, pastoral and Christian education \nand ministry for the deaf.",
+            "name": "Oleh Skrypka",
+            "address": "Born 1964 in Lviv, a rock legend, his lyrics shape cultural conversations",
+            "description": "Oleh Skrypka (born 1964) is a legendary figure in Ukrainian rock music, born in Lviv. Known for his active participation in public life, as well as for the socially significant lyrics of his songs.",
             "constructionDate": " 1991",
             "destructionDate": "20.03.2022",
             "type": "MUSICIAN",
@@ -426,67 +402,51 @@
             "level": "NO_REGISTER",
             "ownership": "COMUN",
             "coordinates": {
-                "lat": 50.528617244,
-                "lon": 30.261878356
+                "lat": 49.8397,
+                "lon": 24.0297
             },
             "photos": [
                 {
                     "id": "4c6439f4-3e27-4fd5-a60e-36d1c9391883",
                     "monumentId": "e8204f02-0843-4dc1-9051-65cb0f8e5df1",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/3b84af4d-94c1-4d04-a9c2-0ba7a7cfa91d.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/skripka.jpg",
                     "originalFileName": "9-2.jpg",
                     "createdAt": 1650407631981
-                },
-                {
-                    "id": "93ffc6ce-faf9-4e74-a862-51be0bdee88c",
-                    "monumentId": "e8204f02-0843-4dc1-9051-65cb0f8e5df1",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/cc90249e-5bed-4d99-859a-783e6d907d0d.jpg",
-                    "originalFileName": "9-1.jpg",
-                    "createdAt": 1650407643198
                 }
             ]
         },
         {
             "id": "a183aec5-192e-433e-a41b-c4a57019a980",
-            "name": "Central City Library named after M. Kotsiubynsky",
-            "address": "Kyrponosa Street, 22, Chernihiv, Chernihiv district, Chernihiv region",
-            "description": "The Public Library of Chernihiv is one of the largest libraries in the city. \n\nIt is a bibliographical, cultural, educational, local lore, and scientific center of Chernihiv. \n\nIn 1961, the building was constrcuted under the directive of a project dedicated to meet the needs for a library in the city.",
+            "name": "Valentin Silvestrov",
+            "address": "Born 1937 in Kyiv, merges folk into contemporary music, enriching Ukrainian culture",
+            "description": "Valentin Silvestrov (born 1937) is a renowned Ukrainian composer, born in Kyiv. His works are known for their integration of Ukrainian folk melodies with elements of contemporary classical music, enriching Ukrainian culture.",
             "constructionDate": "друга половина ХХ ст.",
             "destructionDate": "28.02.2022",
-            "type": "FASHION",
+            "type": "MUSICIAN",
             "status": "DAMAGED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 51.491254103,
-                "lon": 31.294162011
+                "lat": 50.4501,
+                "lon": 30.5234
             },
             "photos": [
                 {
                     "id": "76e27275-9d01-482c-a752-2be12ebcd371",
                     "monumentId": "a183aec5-192e-433e-a41b-c4a57019a980",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/afd25412-069b-4cfa-aecd-cb21f65f400d.jpeg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/silvestrov.jpg",
                     "originalFileName": "1506B9CD-C31A-467D-ACA7-C7D8B4E7F13F.jpeg",
                     "createdAt": 1652878977790
-                },
-                {
-                    "id": "f7379096-c975-48ac-94db-1fd580e9614c",
-                    "monumentId": "a183aec5-192e-433e-a41b-c4a57019a980",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/0cb9da83-0c74-449e-bb05-3b13ba2a7ae6.jpeg",
-                    "originalFileName": "EF2DB0B1-98DE-4CE1-8116-8B9BD7D7D270.jpeg",
-                    "createdAt": 1652878977976
                 }
             ]
         },
         {
             "id": "a7635c05-8b72-40b7-9b0d-dcda6e83f02a",
-            "name": "Church of St. Veils of Ukrainian Orthodox Church",
-            "address": "Soborna Square 1/1, Malyn, Korostens’kyi district, Zhytomyr region",
-            "description": "\"This temple is a manifestation of the unity of the city community in the bosom of the real Ukrainian Church. Therefore, let the All-Merciful Lord keep it inviolable until the end of time and let prayer constantly sound here,\" - said His Beatitude Metropolitan Epiphany on October 27, 2019 during the sanctification of the newly-built church in honor of the Feast of the Intercession of the Blessed Virgin. Three years later, on March 6, 2022, it was mercilessly destroyed by the Russian invaders.",
+            "name": "Svyatoslav Richter",
+            "address": "Born 1915 in Zhytomyr, a piano virtuoso, his legacy reverberates in classical music",
+            "description": "Svyatoslav Richter (1915-1997) was a legendary Russian pianist, born in Zhytomyr. His exceptional talent and technique continue to leave an indelible mark on the world of classical music.",
             "constructionDate": "ХХ ст.",
             "destructionDate": "6.03.2022 ",
             "type": "MUSICIAN",
@@ -494,67 +454,43 @@
             "level": "LOCAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.76738761,
-                "lon": 29.241124315
+                "lat": 50.2547,
+                "lon": 28.6695
             },
             "photos": [
                 {
                     "id": "d6acd341-2c6b-46dc-babb-05a45dbfe074",
                     "monumentId": "a7635c05-8b72-40b7-9b0d-dcda6e83f02a",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/5cf7f629-d5f8-41f5-a5cf-4f6f22939cb0.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/richter.jpg",
                     "originalFileName": "440861eac9b9f0bce5907528861a7335_preview_w440_h290.jpg",
                     "createdAt": 1651431070253
-                },
-                {
-                    "id": "78f0fd59-4e13-4d82-8eaf-1738442dafba",
-                    "monumentId": "a7635c05-8b72-40b7-9b0d-dcda6e83f02a",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/c19621a2-9be8-447d-b6f0-d54842706793.jpg",
-                    "originalFileName": "65xmsl---c17x11x50px50p-c17x11x50px50p--69f479cca7f0f72d345f7b175074d099.jpg",
-                    "createdAt": 1651431070412
-                },
-                {
-                    "id": "4703073c-21aa-4223-b130-33d117c7f1c5",
-                    "monumentId": "a7635c05-8b72-40b7-9b0d-dcda6e83f02a",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/24236c3a-a0cf-489d-9e03-89263d315d8a.jpg",
-                    "originalFileName": "275265153_988939138675091_3417487227162833683_n.jpg",
-                    "createdAt": 1651431070567
                 }
             ]
         },
         {
             "id": "a825c602-e4d2-4475-b8f3-65dc89bec7b9",
-            "name": "Kharkiv State Scientific Library of Vladimir Korolenko",
-            "address": "Korolenko Lane, 18,  Kharkiv, Kharkiv district, Kharkiv region",
-            "description": "One of the oldest and largest libraries in Ukraine. \n\nThe building, which still houses it, was designed by the famous Ukrainian architect Beketov in 1901. \n\nThis majestic Renaissance-style building reflects the world's achievements in library construction. \n\nThe capacity of the book collection increased by building bookstores: eight-storey (1929), twelve-storey, as well as reading and service buildings (1980).",
+            "name": "Ani Lorak",
+            "address": "Born 1978 in Kitsman, she captivated audiences at Eurovision 2008 with her powerful voice",
+            "description": "Ani Lorak (born 1978) is a popular Ukrainian pop singer, born in Kitsman. She gained prominence after representing Ukraine in the Eurovision Song Contest 2008, captivating audiences with her powerful voice.",
             "constructionDate": "1899-1901",
             "destructionDate": "02.03.2022",
-            "type": "FASHION",
+            "type": "MUSICIAN",
             "status": "DAMAGED",
             "level": "NO_REGISTER",
             "ownership": "COMUN",
             "coordinates": {
-                "lat": 49.9905,
-                "lon": 36.23454
+                "lat": 48.4148,
+                "lon": 25.4549
             },
             "photos": [
                 {
                     "id": "a192b71d-5d07-4d52-be88-dff6d47de44e",
                     "monumentId": "a825c602-e4d2-4475-b8f3-65dc89bec7b9",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/4ecc879d-a86f-4037-95ae-72a4912570c4.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/lorak.jpg",
                     "originalFileName": "29_1 (1).jpg",
                     "createdAt": 1650966879368
-                },
-                {
-                    "id": "78d0805d-2260-4aa4-9a74-ccfba1537d14",
-                    "monumentId": "a825c602-e4d2-4475-b8f3-65dc89bec7b9",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/e099a4f6-989f-4cc0-b2b5-18bf38d4cd5f.jpeg",
-                    "originalFileName": "29_2.jpeg",
-                    "createdAt": 1650966903449
                 }
             ]
         },
