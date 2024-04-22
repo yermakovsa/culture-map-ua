@@ -1016,9 +1016,9 @@
         },
         {
             "id": "fb0f4e26-7193-48b2-97c0-2baefe717ede",
-            "name": "Regional Department of the Security Service of Ukraine in Chernihiv region",
-            "address": "Shevchenko Street, 28, Chernihiv, Chernihiv region",
-            "description": "The two-story building of the district court was built in 1904 by architect E. Yanovsky. \n\nUntil October 1917, it housed the district court, later - the Soviet institutions.",
+            "name": "Oleg Sentsov",
+            "address": "Born in 1976 in Simferopol, known for active involvement in the Crimean Tatar movement",
+            "description": "Born in 1976 in Simferopol, Sentsov gained international recognition for his activism in the Crimean Tatar movement and his imprisonment by Russian authorities, which drew widespread attention to human rights abuses in Crimea.",
             "constructionDate": "1904 р.",
             "destructionDate": "25.02.2022",
             "type": "FILMMAKER",
@@ -1026,67 +1026,51 @@
             "level": "LOCAL",
             "ownership": "CONCESSION",
             "coordinates": {
-                "lat": 51.49726522,
-                "lon": 31.315570211
+                "lat": 44.952117,
+                "lon": 34.102417
             },
             "photos": [
                 {
                     "id": "e6c711b0-f2d7-4640-b758-17e85759c9f5",
                     "monumentId": "fb0f4e26-7193-48b2-97c0-2baefe717ede",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/e47799af-e87b-44aa-b384-12df933e1a6c.png",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/sencov.jpg",
                     "originalFileName": "1-1.png",
                     "createdAt": 1649726045712
-                },
-                {
-                    "id": "792a68e5-3906-4f11-aa25-1458da7f47f6",
-                    "monumentId": "fb0f4e26-7193-48b2-97c0-2baefe717ede",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/602a0a62-7b7f-46c1-8fe8-9e5fcde45c40.jpeg",
-                    "originalFileName": "630_360_1645803996-600.jpeg",
-                    "createdAt": 1649726054089
                 }
             ]
         },
         {
             "id": "29605cf7-f90f-427f-afc4-de8c0274063c",
-            "name": "Spaso-Preobrazhensʹka (Transfiguration) Church",
-            "address": "Yuvileina Street, 24, Volnovakha, Donetsk region",
-            "description": "The Transfiguration Community was organized in 1991. \n\nInitially, worships were held in an ordinary church, which was reconsecrated in the name of the Tikhvin Icon of the Mother of God, after the newly-built church opened its doors in 1999. \n\nVolvovakha inhabitants especailly revere the image of the Mother of God. \n\nThere is a Sunday school and an Orthodox library at Spaso-Preobrazhensʹka (Transfiguration) Church.",
+            "name": "Konstantin Bronzit",
+            "address": "Born in 1965 in Dnipropetrovsk, renowned animator and director",
+            "description": "Born in 1965 in Dnipropetrovsk, Bronzit is a renowned animator and director, known for his emotionally resonant and visually stunning animated films that have garnered numerous awards and accolades worldwide.",
             "constructionDate": "22.05.2018",
             "destructionDate": "16.03.2022",
-            "type": "MUSICIAN",
+            "type": "FILMMAKER",
             "status": "PARTIALLY_DESTROYED",
             "level": "NO_REGISTER",
             "ownership": "COMUN",
             "coordinates": {
-                "lat": 47.593985397,
-                "lon": 37.501788637
+                "lat": 48.464717,
+                "lon": 35.046183
             },
             "photos": [
                 {
                     "id": "2a326b1e-27fa-482b-a94f-fd8c33fb1e50",
                     "monumentId": "29605cf7-f90f-427f-afc4-de8c0274063c",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/17d0bfa5-b669-4d44-bfe9-8b5fcb31c5c4.png",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/bronzit.jpg",
                     "originalFileName": "image_2022-04-26_01-10-35.png",
                     "createdAt": 1650924669638
-                },
-                {
-                    "id": "fa2c6e35-cb73-44b7-ae93-d20ff30969fe",
-                    "monumentId": "29605cf7-f90f-427f-afc4-de8c0274063c",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/d89ce43d-4d83-4001-9f41-767da50dfeee.jpg",
-                    "originalFileName": "61307667_303.jpg",
-                    "createdAt": 1652115478030
                 }
             ]
         },
         {
             "id": "90f57cdf-0cad-4930-ae8d-00cf206c64f9",
-            "name": "Kyiv TV Tower",
-            "address": "Dorogozhytska Street, 10, Kyiv",
-            "description": "The world's first full-metal tower and the tallest free lattice TV tower. It is the highest building in Ukraine, 385 meters long, which can be seen from almost any corner of Kyiv. The construction of the tower was carried out by the method of superstructure \"from top to down\" without the use of cranes and screws.",
+            "name": "Oleg Trofim",
+            "address": "Born in 1960 in Kharkiv, known for films addressing social issues",
+            "description": "Born in 1960 in Kharkiv, Trofim is celebrated for his films that delve into complex social issues, portraying the intricacies of Ukrainian society with depth and sensitivity, earning him critical acclaim both nationally and internationally.",
             "constructionDate": "1968-1973 ",
             "destructionDate": "01.03.2022",
             "type": "FILMMAKER",
@@ -1094,59 +1078,25 @@
             "level": "NO_REGISTER",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.471432192,
-                "lon": 30.453533856
+                "lat": 50.003731,
+                "lon": 36.250187
             },
             "photos": [
                 {
                     "id": "e386d1de-5fb0-432a-b77e-1391772e7495",
                     "monumentId": "90f57cdf-0cad-4930-ae8d-00cf206c64f9",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/9f7bec10-b9fc-4d84-bf46-e9a1aefaa0fa.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/trofim.jpg",
                     "originalFileName": "7-1.jpg",
                     "createdAt": 1650220333672
-                },
-                {
-                    "id": "6c3a1ddb-9a17-4fee-abae-264ea1953574",
-                    "monumentId": "90f57cdf-0cad-4930-ae8d-00cf206c64f9",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/b252f3b8-23f9-4d95-8574-32489fa36b49.png",
-                    "originalFileName": "7-2.png",
-                    "createdAt": 1650220398918
-                }
-            ]
-        },
-        {
-            "id": "50947bc5-c053-4051-89f0-f2d7b163ddc9",
-            "name": "Rizdva Presviatoyi Bohorodytsi Church",
-            "address": "Kyivska Street, 2a, Yasnohorodka village, Kyiv region",
-            "description": "The first church in Yasnohorodka was built in the first half of the XVIII century. During Khrushchev's persecution, the temple was destroyed. The new church was built in 2008, and in 2012 the parish community asked the Ukrainian Orthodox Church to appoint a priest. Since July 12, 2012, father Roman Zadorozhny has been the rector of the parish.",
-            "constructionDate": "2008",
-            "destructionDate": "02.04.2022",
-            "type": "MUSICIAN",
-            "status": "DAMAGED",
-            "level": "NO_REGISTER",
-            "ownership": "COMUN",
-            "coordinates": {
-                "lat": 50.356470397,
-                "lon": 30.028516742
-            },
-            "photos": [
-                {
-                    "id": "e746098c-6595-43b6-b6d5-7d932aa3b3c8",
-                    "monumentId": "50947bc5-c053-4051-89f0-f2d7b163ddc9",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/620d8e3d-c3bd-4c52-a6b5-eb3bc5946f29.png",
-                    "originalFileName": "17-1.png",
-                    "createdAt": 1650408840090
                 }
             ]
         },
         {
             "id": "2114f53c-0e24-49c9-a22f-b9d9cdcbbf39",
-            "name": "Okhtyrka City Council",
-            "address": "Nezalezhnosti Street, 11, Okhtyrka, Sumy Region",
-            "description": "A vintage Okhtyrka сity сouncil building was constructed in the late 1940s at the spot of an old military warehouse.",
+            "name": "Viktor Lysak",
+            "address": "Born in 1981 in Kyiv, director of social films",
+            "description": "Born in 1981 in Kyiv, Lysak is known for his socially relevant films that shed light on pressing issues facing contemporary Ukrainian society, offering poignant reflections on the challenges and triumphs of everyday life.",
             "constructionDate": "40-х рр. ХХ ст.",
             "destructionDate": "09.03.2022",
             "type": "FILMMAKER",
@@ -1154,67 +1104,51 @@
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.30441,
-                "lon": 34.89354
+                "lat": 50.4501,
+                "lon": 30.5234
             },
             "photos": [
                 {
                     "id": "73c01ef6-3bab-43dd-9866-7c4136d5d55e",
                     "monumentId": "2114f53c-0e24-49c9-a22f-b9d9cdcbbf39",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/e13e2750-1bf5-4f7a-ba73-52c9f2219f7d.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/lysak.jpg",
                     "originalFileName": "dlzYvAhpQ2oUFbTROc1hgA_.jpg",
                     "createdAt": 1651431473603
-                },
-                {
-                    "id": "02721b9d-deec-4635-a2b9-1c7783d6f69a",
-                    "monumentId": "2114f53c-0e24-49c9-a22f-b9d9cdcbbf39",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/e34fb0d8-ee46-4ace-969b-2222db408fdf.jpg",
-                    "originalFileName": "277304735_1573388989712145_534330741384797995_n.jpg",
-                    "createdAt": 1651431473817
                 }
             ]
         },
         {
             "id": "70c5f014-7b76-4bde-ae70-9ce57b157970",
-            "name": "Church of the Holy Queen Tamara",
-            "address": "Academika Kurchatova Street, 16, Kharkiv, Kharkiv district, Kharkiv region",
-            "description": "On March 7, 2012, Archbishop Onuphriy of Kharkiv and Bohodukhiv consecrated a site for a future church with an area of  375.5 square meters, 29 meters high, with a capacity of over 150 people. \n\nOn August 23, 2013, Onuphriy consecrated the church in honor of the pious Queen Tamara, which became the first church in the city and region honouring of this saint.",
+            "name": "Taras Tykhomyrov",
+            "address": "Born in 1979 in Lviv, films with cultural context",
+            "description": "Born in 1979 in Lviv, Tykhomyrov's films often intertwine cultural and historical themes, exploring the rich tapestry of Ukrainian heritage and identity through his distinctive cinematic style.",
             "constructionDate": "2012-2013 р.",
             "destructionDate": "12.03.2022",
-            "type": "MUSICIAN",
+            "type": "FILMMAKER",
             "status": "DAMAGED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.087918925,
-                "lon": 36.2593383
+                "lat": 49.8397,
+                "lon": 24.0297
             },
             "photos": [
                 {
                     "id": "92695f48-078a-4f4c-9886-b3d86a5ffb60",
                     "monumentId": "70c5f014-7b76-4bde-ae70-9ce57b157970",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/39ca80b7-8a91-41d5-a823-d159a636b1f2.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/tikomirov.jpg",
                     "originalFileName": "61278701_303.jpg",
                     "createdAt": 1652880421864
-                },
-                {
-                    "id": "4409bace-0148-4f04-9fdd-2e019cfcc70c",
-                    "monumentId": "70c5f014-7b76-4bde-ae70-9ce57b157970",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/b13b4d22-86f4-407e-96d6-e3e547078aee.jpg",
-                    "originalFileName": "%D0%A2%D0%B0%D0%BC%D0%B0%D1%80%D0%B8_275384467_1158720034898357_5700265326544615066_n.jpg",
-                    "createdAt": 1652880422040
                 }
             ]
         },
         {
             "id": "a7a7f7c4-d7ee-47cc-b1a7-41f56832f8b7",
-            "name": "Public Administration Building",
-            "address": "40th Army Square, Trostyanets, Sumy region",
-            "description": "The administrative building in Trostianets constructed in late XIX century.",
+            "name": "Oleksandr Dovzhenko",
+            "address": "Born in 1894 in Sosnytsia, a classic of Ukrainian cinema",
+            "description": "Born in 1894 in Sosnytsia, Dovzhenko is revered as one of the pioneers of Ukrainian cinema, leaving an indelible mark with his innovative filmmaking techniques and poetic portrayal of Ukrainian life and landscapes.",
             "constructionDate": "кінець ХІХ ст.",
             "destructionDate": "23.03.2022",
             "type": "FILMMAKER",
@@ -1222,117 +1156,43 @@
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.47189,
-                "lon": 34.95927
+                "lat": 51.403333,
+                "lon": 31.16
             },
             "photos": [
                 {
                     "id": "226d1aa1-8c79-4e7f-aea5-2ee3dbd00cc7",
                     "monumentId": "a7a7f7c4-d7ee-47cc-b1a7-41f56832f8b7",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/3ca60f81-e713-4469-b73b-ecefe0710f56.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/dovzenko.jpeg",
                     "originalFileName": "Знімок екрана 2022-05-02 192837.jpg",
                     "createdAt": 1651509236192
-                },
-                {
-                    "id": "efe22542-a0c4-4045-87b9-fa5f726b5280",
-                    "monumentId": "a7a7f7c4-d7ee-47cc-b1a7-41f56832f8b7",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/49a85628-09d8-4b48-b7f0-399f50a32320.jpg",
-                    "originalFileName": "vb.jpg",
-                    "createdAt": 1651509236412
                 }
             ]
         },
         {
             "id": "47658d34-9309-483c-9934-4c33648d21f7",
-            "name": "Village library",
-            "address": "Central’na Street, 2, Soldats'ke village, Sumy Region",
-            "description": "A modern building where a local branch of the Trostyanets Public Library is located.",
+            "name": "Mykhailo Illienko",
+            "address": "Born in 1979 in Donetsk, films about memory and history",
+            "description": "Born in 1979 in Donetsk, Illienko's films delve into the complexities of memory and history, offering profound insights into the Ukrainian experience and the enduring resilience of its people in the face of adversity.",
             "constructionDate": "XXI ст.",
             "destructionDate": "25.02.2022",
-            "type": "FASHION",
+            "type": "FILMMAKER",
             "status": "DAMAGED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.440419,
-                "lon": 35.205629
+                "lat": 48.0159,
+                "lon": 37.8029
             },
             "photos": [
                 {
                     "id": "bd090fb5-1bb4-4e92-9ec1-6847e53ca832",
                     "monumentId": "47658d34-9309-483c-9934-4c33648d21f7",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/084fa56a-8295-4204-9de3-fff01a579eee.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/ilienko.jpg",
                     "originalFileName": "1.jpg",
                     "createdAt": 1651511884899
-                },
-                {
-                    "id": "94186e3b-b4cb-4596-ae5a-259dbede1e41",
-                    "monumentId": "47658d34-9309-483c-9934-4c33648d21f7",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/5464e684-c9b5-488a-95f1-d2b6bd7bb3c3.jpg",
-                    "originalFileName": "2.jpg",
-                    "createdAt": 1651511885110
-                },
-                {
-                    "id": "1eb7eb16-ab2d-489d-a3b3-684b299a6375",
-                    "monumentId": "47658d34-9309-483c-9934-4c33648d21f7",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/480f1c2c-7a7f-4adf-9ff3-042b750e7d39.jpg",
-                    "originalFileName": "3.jpg",
-                    "createdAt": 1651511885369
-                },
-                {
-                    "id": "919df96f-ce17-411c-b912-0e8b2670af24",
-                    "monumentId": "47658d34-9309-483c-9934-4c33648d21f7",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/f10b7bd1-4aa9-4951-91c3-86ffb64e3c7a.jpg",
-                    "originalFileName": "4.jpg",
-                    "createdAt": 1651511885562
-                }
-            ]
-        },
-        {
-            "id": "6380a251-36e8-49bd-88d1-730b30577746",
-            "name": "Church of Saint Matrona of Moscow",
-            "address": "Volodymyrska Street, 6, Rubizhne, Severodonetsk district, Luhansk region",
-            "description": "A modern Ukrainian Orthodox church, constructed in the name of Saint Matrona Moskovs’ka. The construction was carried out through the reconstruction of a building that was adapted for being a church. Metropolitan Nykodym consecrated the cross and the dome for the church’s bell tower in November 2021.",
-            "constructionDate": "2020-21 рр",
-            "destructionDate": "23.03.2022",
-            "type": "MUSICIAN",
-            "status": "PARTIALLY_DESTROYED",
-            "level": "NATIONAL",
-            "ownership": "PRIVATE",
-            "coordinates": {
-                "lat": 49.022535689,
-                "lon": 38.362743742
-            },
-            "photos": [
-                {
-                    "id": "fa57d258-40f4-4f97-be97-cbe170a47115",
-                    "monumentId": "6380a251-36e8-49bd-88d1-730b30577746",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/451767d4-0698-4009-8e83-c4e688fb941f.jpg",
-                    "originalFileName": "1648118543_22.03.24_Rubizhne_Obstril_khramu_Fb_Gaydai3.jpg",
-                    "createdAt": 1651515137376
-                },
-                {
-                    "id": "864dd238-4595-4d6b-94be-04e25244673e",
-                    "monumentId": "6380a251-36e8-49bd-88d1-730b30577746",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/f1c30f86-cc54-4b38-8fba-57639001ba32.jpg",
-                    "originalFileName": "1648118522_22.03.24_Rubizhne_Obstril_khramu_Fb_Gaydai2.jpg",
-                    "createdAt": 1651515137577
-                },
-                {
-                    "id": "7fe8b626-7f43-4878-a245-5b7361274c49",
-                    "monumentId": "6380a251-36e8-49bd-88d1-730b30577746",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/511edeb1-82de-4ead-8a1d-2bb8afd71db1.jpg",
-                    "originalFileName": "1648118506_22.03.24_Rubizhne_Obstril_khramu_Fb_Gaydai1.jpg",
-                    "createdAt": 1651515137743
                 }
             ]
         },

@@ -1016,9 +1016,9 @@
         },
         {
             "id": "fb0f4e26-7193-48b2-97c0-2baefe717ede",
-            "name": "Обласне управління СБУ в Чернігівській області",
-            "address": "Чернігівська обл., м. Чернігів, вул. Шевченка, 28",
-            "description": "Двоповерховий будинок окружного суду був побудований у 1904 році за проєктом архітектора Є. Яновського. \n\nДо жовтня 1917 року в ньому був розташований окружний суд, згодом – радянські установи.",
+            "name": "Олег Сенцов",
+            "address": "Народився 1976 у Сімферополі, відомий за активну участь у кримськотатарському руху",
+            "description": ": Народився 1976 у Сімферополі, Сенцов здобув міжнародне визнання за активну участь у кримськотатарському русі та його ув'язнення російськими владами, що привернуло широку увагу до порушень прав людини в Криму.",
             "constructionDate": "1904 р.",
             "destructionDate": "25.02.2022",
             "type": "FILMMAKER",
@@ -1026,67 +1026,51 @@
             "level": "LOCAL",
             "ownership": "CONCESSION",
             "coordinates": {
-                "lat": 51.49726522,
-                "lon": 31.315570211
+                "lat": 44.952117,
+                "lon": 34.102417
             },
             "photos": [
                 {
                     "id": "e6c711b0-f2d7-4640-b758-17e85759c9f5",
                     "monumentId": "fb0f4e26-7193-48b2-97c0-2baefe717ede",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/e47799af-e87b-44aa-b384-12df933e1a6c.png",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/sencov.jpg",
                     "originalFileName": "1-1.png",
                     "createdAt": 1649726045712
-                },
-                {
-                    "id": "792a68e5-3906-4f11-aa25-1458da7f47f6",
-                    "monumentId": "fb0f4e26-7193-48b2-97c0-2baefe717ede",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/602a0a62-7b7f-46c1-8fe8-9e5fcde45c40.jpeg",
-                    "originalFileName": "630_360_1645803996-600.jpeg",
-                    "createdAt": 1649726054089
                 }
             ]
         },
         {
             "id": "29605cf7-f90f-427f-afc4-de8c0274063c",
-            "name": "Свято-Преображенська церква",
-            "address": "Донецька обл., м. Волноваха, вул. Ювілейна, 24",
-            "description": "Спасо-Преображенська громада була організована в 1991 році. \n\nСпочатку богослужіння відбувалися у типовому храмі, який після початку функціонування новозбудованого храму в 1999 році був переосвячений на честь Тихвінівської ікони Божої Матері, образ якої\nособливо шанують мешканці Волновахи.\n\nПри Спасо-Преображенському храмі працює недільна школа та православна бібліотека.",
+            "name": "Костянтин Бронзіт",
+            "address": "Народився 1965 у Дніпропетровську, відомий аніматор та режисер",
+            "description": "Народився 1965 у Дніпропетровську, Бронзіт є відомим аніматором і режисером, відомим своїми емоційно виразними та візуально захоплюючими анімаційними фільмами, які здобули численні нагороди та визнання по всьому світу.",
             "constructionDate": "22.05.2018",
             "destructionDate": "16.03.2022",
-            "type": "MUSICIAN",
+            "type": "FILMMAKER",
             "status": "PARTIALLY_DESTROYED",
             "level": "NO_REGISTER",
             "ownership": "COMUN",
             "coordinates": {
-                "lat": 47.593985397,
-                "lon": 37.501788637
+                "lat": 48.464717,
+                "lon": 35.046183
             },
             "photos": [
                 {
                     "id": "2a326b1e-27fa-482b-a94f-fd8c33fb1e50",
                     "monumentId": "29605cf7-f90f-427f-afc4-de8c0274063c",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/17d0bfa5-b669-4d44-bfe9-8b5fcb31c5c4.png",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/bronzit.jpg",
                     "originalFileName": "image_2022-04-26_01-10-35.png",
                     "createdAt": 1650924669638
-                },
-                {
-                    "id": "fa2c6e35-cb73-44b7-ae93-d20ff30969fe",
-                    "monumentId": "29605cf7-f90f-427f-afc4-de8c0274063c",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/d89ce43d-4d83-4001-9f41-767da50dfeee.jpg",
-                    "originalFileName": "61307667_303.jpg",
-                    "createdAt": 1652115478030
                 }
             ]
         },
         {
             "id": "90f57cdf-0cad-4930-ae8d-00cf206c64f9",
-            "name": "Київська телевежа",
-            "address": "м. Київ, вул. Дорогожицька, 10",
-            "description": "Перша у світі суцільнометалева вежа та найвища вільна ґратована (решітчаста) телевежа у світі. \n\nНайвища споруда України завдовжки 385 м, яку в Києві можна бачити майже з будь-якого куточка міста. \n\nБудівництво вежі здійснювалось методом надбудови “з гори до низу” без використання підіймальних кранів та гвинтокрилів.",
+            "name": "Олег Трофім",
+            "address": "Народився 1960 у Харкові, відомий за фільми про соціальні теми",
+            "description": "Народився 1960 у Харкові, Трофім славиться своїми фільмами, що досліджують складні соціальні питання, зображаючи складнощі українського суспільства з глибиною та чутливістю, що принесли йому критичне визнання як національно, так і міжнародно.",
             "constructionDate": "1968-1973 ",
             "destructionDate": "01.03.2022",
             "type": "FILMMAKER",
@@ -1094,59 +1078,25 @@
             "level": "NO_REGISTER",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.471432192,
-                "lon": 30.453533856
+                "lat": 50.003731,
+                "lon": 36.250187
             },
             "photos": [
                 {
                     "id": "e386d1de-5fb0-432a-b77e-1391772e7495",
                     "monumentId": "90f57cdf-0cad-4930-ae8d-00cf206c64f9",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/9f7bec10-b9fc-4d84-bf46-e9a1aefaa0fa.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/trofim.jpg",
                     "originalFileName": "7-1.jpg",
                     "createdAt": 1650220333672
-                },
-                {
-                    "id": "6c3a1ddb-9a17-4fee-abae-264ea1953574",
-                    "monumentId": "90f57cdf-0cad-4930-ae8d-00cf206c64f9",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/b252f3b8-23f9-4d95-8574-32489fa36b49.png",
-                    "originalFileName": "7-2.png",
-                    "createdAt": 1650220398918
-                }
-            ]
-        },
-        {
-            "id": "50947bc5-c053-4051-89f0-f2d7b163ddc9",
-            "name": "Церква Різдва Пресвятої Богородиці",
-            "address": "Київська обл., с. Ясногородка, вул. Київська, 2а",
-            "description": "Перший храм в Ясногородці було збудовано в першій половині XVIII століття. \n\nУ часи хрущовських гонінь храм зруйнували. \n\nНовий храм збудувано в 2008 році, а в 2012 році громада парафії звернулася до священноначалія Української Православної Церкви з проханням призначити священника. \n\nЗ 12 липня 2012 року настоятелем парафії є отець Роман Задорожній.",
-            "constructionDate": "2008",
-            "destructionDate": "02.04.2022",
-            "type": "MUSICIAN",
-            "status": "DAMAGED",
-            "level": "NO_REGISTER",
-            "ownership": "COMUN",
-            "coordinates": {
-                "lat": 50.356470397,
-                "lon": 30.028516742
-            },
-            "photos": [
-                {
-                    "id": "e746098c-6595-43b6-b6d5-7d932aa3b3c8",
-                    "monumentId": "50947bc5-c053-4051-89f0-f2d7b163ddc9",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/620d8e3d-c3bd-4c52-a6b5-eb3bc5946f29.png",
-                    "originalFileName": "17-1.png",
-                    "createdAt": 1650408840090
                 }
             ]
         },
         {
             "id": "2114f53c-0e24-49c9-a22f-b9d9cdcbbf39",
-            "name": "Охтирська міська рада",
-            "address": "Сумська обл., м. Охтирка, вул. Незалежності, 11",
-            "description": "Старовинний будинок Охтирської міської ради, збудований наприкінці 40-х рр. ХХ ст. на місці старого військового складу.",
+            "name": "Віктор Лисак",
+            "address": "Народився 1981 у Києві, режисер соціальних фільмів",
+            "description": "Народився 1981 у Києві, Лисак відомий своїми соціально актуальними фільмами, які розкривають нагальні проблеми сучасного українського суспільства, пропонуючи розчуливі відображення викликів та перемог повсякденного життя.",
             "constructionDate": "40-х рр. ХХ ст.",
             "destructionDate": "09.03.2022",
             "type": "FILMMAKER",
@@ -1154,67 +1104,51 @@
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.30441,
-                "lon": 34.89354
+                "lat": 50.4501,
+                "lon": 30.5234
             },
             "photos": [
                 {
                     "id": "73c01ef6-3bab-43dd-9866-7c4136d5d55e",
                     "monumentId": "2114f53c-0e24-49c9-a22f-b9d9cdcbbf39",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/e13e2750-1bf5-4f7a-ba73-52c9f2219f7d.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/lysak.jpg",
                     "originalFileName": "dlzYvAhpQ2oUFbTROc1hgA_.jpg",
                     "createdAt": 1651431473603
-                },
-                {
-                    "id": "02721b9d-deec-4635-a2b9-1c7783d6f69a",
-                    "monumentId": "2114f53c-0e24-49c9-a22f-b9d9cdcbbf39",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/e34fb0d8-ee46-4ace-969b-2222db408fdf.jpg",
-                    "originalFileName": "277304735_1573388989712145_534330741384797995_n.jpg",
-                    "createdAt": 1651431473817
                 }
             ]
         },
         {
             "id": "70c5f014-7b76-4bde-ae70-9ce57b157970",
-            "name": "Церква св. цариці Тамари ",
-            "address": "Харківська обл., Харківський р-н, м. Харків, вул. Академіка Курчатова, 16",
-            "description": "7 березня 2012 року архієпископ Харківський та Богодухівський Онуфрій освятив місце під храм площею 375,5 квадратних метрів, заввишки 29 метрів, місткістю понад 150 осіб. \n\n23 серпня 2013 Онуфрій здійснив чин освячення храму на честь благовірної цариці Тамари, який став першим храмом у місті та області на честь цієї святої.",
+            "name": "Тарас Тихомиров",
+            "address": "Народився 1979 у Львові, фільми з культурним контекстом",
+            "description": "Народився 1979 у Львові, фільми Тихомирова часто переплітають культурні та історичні теми, досліджуючи багату спадщину та ідентичність українського народу через його характерний кінематографічний стиль.",
             "constructionDate": "2012-2013 р.",
             "destructionDate": "12.03.2022",
-            "type": "MUSICIAN",
+            "type": "FILMMAKER",
             "status": "DAMAGED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.087918925,
-                "lon": 36.2593383
+                "lat": 49.8397,
+                "lon": 24.0297
             },
             "photos": [
                 {
                     "id": "92695f48-078a-4f4c-9886-b3d86a5ffb60",
                     "monumentId": "70c5f014-7b76-4bde-ae70-9ce57b157970",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/39ca80b7-8a91-41d5-a823-d159a636b1f2.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/tikomirov.jpg",
                     "originalFileName": "61278701_303.jpg",
                     "createdAt": 1652880421864
-                },
-                {
-                    "id": "4409bace-0148-4f04-9fdd-2e019cfcc70c",
-                    "monumentId": "70c5f014-7b76-4bde-ae70-9ce57b157970",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/b13b4d22-86f4-407e-96d6-e3e547078aee.jpg",
-                    "originalFileName": "%D0%A2%D0%B0%D0%BC%D0%B0%D1%80%D0%B8_275384467_1158720034898357_5700265326544615066_n.jpg",
-                    "createdAt": 1652880422040
                 }
             ]
         },
         {
             "id": "a7a7f7c4-d7ee-47cc-b1a7-41f56832f8b7",
-            "name": "Адміністративний будинок",
-            "address": "Сумська обл., м. Тростянець, площа 40-ї Армії",
-            "description": "Міська тростянецька адміністрація була побудована в кінці XIX століття.",
+            "name": "Олександр Довженко",
+            "address": "Народився 1894 в Сосниці, класик українського кіно",
+            "description": "Народився 1894 в Сосниці, Довженко вважається одним з піонерів українського кіно, залишивши незабутній слід завдяки інноваційним кінематографічним технікам та поетичному зображенню українського життя та пейзажів.",
             "constructionDate": "кінець ХІХ ст.",
             "destructionDate": "23.03.2022",
             "type": "FILMMAKER",
@@ -1222,117 +1156,43 @@
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.47189,
-                "lon": 34.95927
+                "lat": 51.403333,
+                "lon": 31.16
             },
             "photos": [
                 {
                     "id": "226d1aa1-8c79-4e7f-aea5-2ee3dbd00cc7",
                     "monumentId": "a7a7f7c4-d7ee-47cc-b1a7-41f56832f8b7",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/3ca60f81-e713-4469-b73b-ecefe0710f56.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/dovzenko.jpeg",
                     "originalFileName": "Знімок екрана 2022-05-02 192837.jpg",
                     "createdAt": 1651509236192
-                },
-                {
-                    "id": "efe22542-a0c4-4045-87b9-fa5f726b5280",
-                    "monumentId": "a7a7f7c4-d7ee-47cc-b1a7-41f56832f8b7",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/49a85628-09d8-4b48-b7f0-399f50a32320.jpg",
-                    "originalFileName": "vb.jpg",
-                    "createdAt": 1651509236412
                 }
             ]
         },
         {
             "id": "47658d34-9309-483c-9934-4c33648d21f7",
-            "name": "Сільська бібліотека",
-            "address": "Сумська обл., с. Солдатське, вул. Центральна, 2",
-            "description": "Сучасна будівля, в якій розташовано сільську бібліотеку філію Тростянецької публічної бібліотеки.",
+            "name": "Михайло Іллєнко",
+            "address": "Народився 1979 в Донецьку, фільми про пам'ять та історію",
+            "description": "Народився 1979 в Донецьку, фільми Ілліенка глибоко занурюються у складності пам'яті та історії, пропонуючи глибокі інсайти в український досвід та нескорену стійкість його людей перед випробуваннями.",
             "constructionDate": "XXI ст.",
             "destructionDate": "25.02.2022",
-            "type": "FASHION",
+            "type": "FILMMAKER",
             "status": "DAMAGED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.440419,
-                "lon": 35.205629
+                "lat": 48.0159,
+                "lon": 37.8029
             },
             "photos": [
                 {
                     "id": "bd090fb5-1bb4-4e92-9ec1-6847e53ca832",
                     "monumentId": "47658d34-9309-483c-9934-4c33648d21f7",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/084fa56a-8295-4204-9de3-fff01a579eee.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/ilienko.jpg",
                     "originalFileName": "1.jpg",
                     "createdAt": 1651511884899
-                },
-                {
-                    "id": "94186e3b-b4cb-4596-ae5a-259dbede1e41",
-                    "monumentId": "47658d34-9309-483c-9934-4c33648d21f7",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/5464e684-c9b5-488a-95f1-d2b6bd7bb3c3.jpg",
-                    "originalFileName": "2.jpg",
-                    "createdAt": 1651511885110
-                },
-                {
-                    "id": "1eb7eb16-ab2d-489d-a3b3-684b299a6375",
-                    "monumentId": "47658d34-9309-483c-9934-4c33648d21f7",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/480f1c2c-7a7f-4adf-9ff3-042b750e7d39.jpg",
-                    "originalFileName": "3.jpg",
-                    "createdAt": 1651511885369
-                },
-                {
-                    "id": "919df96f-ce17-411c-b912-0e8b2670af24",
-                    "monumentId": "47658d34-9309-483c-9934-4c33648d21f7",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/f10b7bd1-4aa9-4951-91c3-86ffb64e3c7a.jpg",
-                    "originalFileName": "4.jpg",
-                    "createdAt": 1651511885562
-                }
-            ]
-        },
-        {
-            "id": "6380a251-36e8-49bd-88d1-730b30577746",
-            "name": "Храм св. Матрони Московської ",
-            "address": "Луганська обл., Сєвєродонецький р-н, м. Рубіжне, вул. Володимирська, 6",
-            "description": "Новий храм Української Православної Церкви, збудований на честь блаженної Матрони Московської. \n\nБудівництво велось шляхом реконструкції пристосованої під храм будівлі. \n\nУ листопаді 2021 року митрополит Никодим звершив чин освячення хреста і купола для дзвіниці храму.",
-            "constructionDate": "2020-21 рр",
-            "destructionDate": "23.03.2022",
-            "type": "MUSICIAN",
-            "status": "PARTIALLY_DESTROYED",
-            "level": "NATIONAL",
-            "ownership": "PRIVATE",
-            "coordinates": {
-                "lat": 49.022535689,
-                "lon": 38.362743742
-            },
-            "photos": [
-                {
-                    "id": "fa57d258-40f4-4f97-be97-cbe170a47115",
-                    "monumentId": "6380a251-36e8-49bd-88d1-730b30577746",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/451767d4-0698-4009-8e83-c4e688fb941f.jpg",
-                    "originalFileName": "1648118543_22.03.24_Rubizhne_Obstril_khramu_Fb_Gaydai3.jpg",
-                    "createdAt": 1651515137376
-                },
-                {
-                    "id": "864dd238-4595-4d6b-94be-04e25244673e",
-                    "monumentId": "6380a251-36e8-49bd-88d1-730b30577746",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/f1c30f86-cc54-4b38-8fba-57639001ba32.jpg",
-                    "originalFileName": "1648118522_22.03.24_Rubizhne_Obstril_khramu_Fb_Gaydai2.jpg",
-                    "createdAt": 1651515137577
-                },
-                {
-                    "id": "7fe8b626-7f43-4878-a245-5b7361274c49",
-                    "monumentId": "6380a251-36e8-49bd-88d1-730b30577746",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/511edeb1-82de-4ead-8a1d-2bb8afd71db1.jpg",
-                    "originalFileName": "1648118506_22.03.24_Rubizhne_Obstril_khramu_Fb_Gaydai1.jpg",
-                    "createdAt": 1651515137743
                 }
             ]
         },
