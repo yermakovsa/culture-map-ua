@@ -1458,25 +1458,25 @@
         },
         {
             "id": "2bc46c92-f141-4ca4-b1bf-5d62ac54d96d",
-            "name": "Christ Ressurection Сhurch",
-            "address": "Rudnytske village, Brovarskyj district, Kyiv region",
-            "description": "In 1869, thanks to God-loving villagers of Rudnytske, a wooden temple was built in honor of the Resurrection of Christ. \n\nDespite all the vicissitudes of history, it stood in Rudnytske until 1987, when it was ruined at the dawn of the Soviet restructuring campaign. \n\nSix months later, similar temples began to be restored throughout the Soviet Union.",
+            "name": "Alisa Nesvit",
+            "address": "Born in 1998 in Luhansk, famous ukrainian content creator, sister of Dana Nesvit",
+            "description": "Born in 1998 in Luhansk, Alisa Nesvit has risen to prominence as a celebrated Ukrainian content creator. Renowned for her engaging content and creative prowess, she captivates audiences with her unique perspective and innovative approach. Alisa is also recognized as the sister of Dana Nesvit.",
             "constructionDate": "1869",
             "destructionDate": "02.04.2022",
-            "type": "MUSICIAN",
+            "type": "ACTOR",
             "status": "PARTIALLY_DESTROYED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.471008616,
-                "lon": 31.36449139
+                "lat": 48.5687,
+                "lon": 39.3100
             },
             "photos": [
                 {
                     "id": "f018ab29-caa5-4a6e-9d37-0494e0f07308",
                     "monumentId": "2bc46c92-f141-4ca4-b1bf-5d62ac54d96d",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/6f9154f5-83b4-4714-b7e9-08bbc29178e1.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/alisa.jpg",
                     "originalFileName": "61307689_303.jpg",
                     "createdAt": 1651516010096
                 }
@@ -1484,51 +1484,27 @@
         },
         {
             "id": "504e89aa-63bd-434f-b564-ba3a5bbea7cc",
-            "name": "St. Volodymyr's Church",
-            "address": "Kyivska Street, 45, Mariupol', Mariupol' district, Donetsk region",
-            "description": "The Orthodox community was registered in the Mariupol' district in July 1999. On the anniversary of the Baptism of Rus a church in the honor of Grand Prince Volodymyr, the Baptizer of all Rus, opened its doors on Kyivska Street.",
+            "name": "Dana Nesvit",
+            "address": "Born in 1998 in Luhansk, famous ukrainian content creator, sister of Alisa Nesvit",
+            "description": "Born in 1998 in Luhansk, Dana Nesvit has risen to prominence as a celebrated Ukrainian content creator. Renowned for her engaging content and creative prowess, she captivates audiences with her unique perspective and innovative approach. Dana is also recognized as the sister of Alisa Nesvit",
             "constructionDate": "2000 ",
             "destructionDate": "07.04.2022",
-            "type": "MUSICIAN",
+            "type": "ACTOR",
             "status": "DAMAGED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 47.120638467,
-                "lon": 37.684523882
+                "lat": 48.5687,
+                "lon": 39.3199
             },
             "photos": [
                 {
                     "id": "1de26fd4-7a8c-424a-91a2-4f107847f40f",
                     "monumentId": "504e89aa-63bd-434f-b564-ba3a5bbea7cc",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/3d278f7a-708e-40ea-8e11-2be902c95c1a.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/dana.jpg",
                     "originalFileName": "73_2.jpg",
                     "createdAt": 1651574366849
-                },
-                {
-                    "id": "4e73c99d-fe44-46b8-acb0-aaa35449ec33",
-                    "monumentId": "504e89aa-63bd-434f-b564-ba3a5bbea7cc",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/ac803da0-15cf-4b71-be18-be4cb9a0c6bb.jpg",
-                    "originalFileName": "73_1.jpg",
-                    "createdAt": 1651574367114
-                },
-                {
-                    "id": "0adada38-335e-4360-b1e9-f3caa06236ee",
-                    "monumentId": "504e89aa-63bd-434f-b564-ba3a5bbea7cc",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/2203ce2a-74ea-4641-8dc0-f51c11bab1e6.jpg",
-                    "originalFileName": "photo_2022-04-08_12-31-29-2-.jpg",
-                    "createdAt": 1651574367400
-                },
-                {
-                    "id": "673905ed-8e68-4bd0-9bf9-0c8e32c35fea",
-                    "monumentId": "504e89aa-63bd-434f-b564-ba3a5bbea7cc",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/1d943f70-4c58-4cc3-88f2-3d02f6269f6e.jpg",
-                    "originalFileName": "photo_2022-04-08_12-31-29-3-.jpg",
-                    "createdAt": 1651574367697
                 }
             ]
         },
