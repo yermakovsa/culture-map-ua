@@ -106,7 +106,7 @@
 
 .address {
   color: rgba(173, 173, 173, 1);
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 400;
   margin-bottom: 20px;
   font-family: "KyivSans";
@@ -314,7 +314,7 @@ hr {
 .item > .itemInfo > .address {
   margin-top: 5px;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 15px;
   color: #adadad;
   margin-bottom: 21px;
@@ -345,7 +345,7 @@ hr {
 }
 
 .item > img {
-  height: 155px;
+  height: 200px;
   width: 333px;
   border-radius: 22px 22px 0px 0px;
   object-fit: cover;
@@ -491,7 +491,7 @@ hr {
 
   .item > img {
     width: 260px;
-    height: 150px;
+    height: 175px;
     border-radius: 10px 10px 0px 0px;
     object-position: 0px -10px;
   }
