@@ -429,7 +429,7 @@
             "ownership": "PRIVATE",
             "coordinates": {
                 "lat": 50.4501,
-                "lon": 30.5234
+                "lon": 30.5231
             },
             "photos": [
                 {
@@ -585,7 +585,7 @@
             "ownership": "PRIVATE",
             "coordinates": {
                 "lat": 50.4501,
-                "lon": 30.5234
+                "lon": 30.5232
             },
             "photos": [
                 {
@@ -688,7 +688,7 @@
             "level": "LOCAL",
             "ownership": "COMUN",
             "coordinates": {
-                "lat": 50.4501,
+                "lat": 50.4503,
                 "lon": 30.5234
             },
             "photos": [
@@ -714,7 +714,7 @@
             "level": "NATIONAL",
             "ownership": "CONCESSION",
             "coordinates": {
-                "lat": 50.4501,
+                "lat": 50.4504,
                 "lon": 30.5234
             },
             "photos": [
@@ -756,9 +756,9 @@
         },
         {
             "id": "8f8e19d5-c15e-42a2-a94c-1700b2b2c1c1",
-            "name": "Чернігівська обласна універсальна наукова бібліотека ім. В. Г. Короленка",
-            "address": "Чернігівська обл., м. Чернігів, проспект Миру, 41",
-            "description": "Чернігівська громадська бібліотека відкрита у 1877 році, первісною формою її існування була «газетна читальня». \n\nУ 1918 році УНР взяла бібліотеку під свою опіку, але вже у 1919 функціонування бібліотеки припинили російські окупанти, книжковий фонд почав поповнюватися ідеологічною російською літературою. \n\nУ серпні 1941 року бібліотека була повністю зруйнована, 216-тисячний книжковий фонд знищено. \n\nПісля війни була відновлена, і стала значним книгосховищем області.",
+            "name": "Дарія Шаповалова",
+            "address": "Народилася 1985 у Києві, вона стала однією з провідних фігур української модної індустрії, засновницею Kyiv Fashion Week і стала символом українського модного світу",
+            "description": "Народилася у Києві в 1985 році, Дарія Шаповалова стала провідною фігурою в українській модній індустрії. Вона заснувала Kyiv Fashion Week, де показується місцевий талант на міжнародній арені, сприяючи розвитку модної промисловості України.",
             "constructionDate": "15.03.1877",
             "destructionDate": "30.03.2022",
             "type": "FASHION",
@@ -766,57 +766,41 @@
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 51.496790242,
-                "lon": 31.292260792
+                "lat": 50.4505,
+                "lon": 30.5234
             },
             "photos": [
                 {
                     "id": "93ce812b-b9c6-4998-b5ca-fdd8467245da",
                     "monumentId": "8f8e19d5-c15e-42a2-a94c-1700b2b2c1c1",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/b15cf6c6-d493-45ca-b6a1-040cb80860ab.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/shpovalova.png",
                     "originalFileName": "6e46c20b8e72e011.jpg",
                     "createdAt": 1650976855288
-                },
-                {
-                    "id": "38bb32e9-9d60-4af1-b001-406677bf103e",
-                    "monumentId": "8f8e19d5-c15e-42a2-a94c-1700b2b2c1c1",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/6530818d-ec50-426a-b28d-738dbfb6c3db.jpg",
-                    "originalFileName": "411f1514c3d06f2f.jpg",
-                    "createdAt": 1650976868368
-                },
-                {
-                    "id": "6c5919a3-e40b-4272-bed3-c2b01f704520",
-                    "monumentId": "8f8e19d5-c15e-42a2-a94c-1700b2b2c1c1",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/2217a5c7-5da4-4451-a4fa-3b36cd7fd116.jpg",
-                    "originalFileName": "dee3b776ce7dd9b2.jpg",
-                    "createdAt": 1650976877115
                 }
             ]
         },
         {
             "id": "a775f8dd-a621-4707-a838-4585b0e9ace0",
-            "name": "Історико-архітектурний музей-заповідник “Садиба Попова\"",
-            "address": "Запорізька обл., Василівський р-н, м. Василівка, вул. Гагаріна, 12",
-            "description": "Комплекс господарчих будівель, службових квартир, що збереглися до сьогодні, є рештками одного з найбільших дворянських маєтків регіону.\n\nНаприкінці ХІХ ст. Василь Павлович Попов звів палацовий комплекс, будівлі якого поєднали в собі псевдо­мавританський та неоготичний архітектурні стилі. \n\nПалацовий комплекс складається з трьох флігелів, оглядової башти, каретного двору, манежу­стайні, будівлі електростанції, майстерні та башти зруйнованого палацу.",
+            "name": "Анна Октябр",
+            "address": "Народилася 1983 у Києві, вона відома своїм унікальним дизайном та інноваційним підходом до моди, що вразило модні столиці світу.",
+            "description": "Анна Октябр, народилася в Києві в 1983 році, славиться своїми унікальними дизайнами та інноваційним підходом до моди. Її колекції поєднують сучасні естетичні принципи з традиційною українською майстерністю, завоювавши визнання як вдома, так і за кордоном.",
             "constructionDate": "1864-1884",
             "destructionDate": "07.03.2022",
-            "type": "WRITER",
+            "type": "FASHION",
             "status": "DAMAGED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 47.446926199,
-                "lon": 35.276850152
+                "lat": 50.4508,
+                "lon": 30.5234
             },
             "photos": [
                 {
                     "id": "a3e854a0-fc27-40cc-b941-e1bd621325c3",
                     "monumentId": "a775f8dd-a621-4707-a838-4585b0e9ace0",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/5d990b69-ead9-45aa-b3ca-3fc3093c21e0.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/oktyabr.jpeg",
                     "originalFileName": "26_1.jpg",
                     "createdAt": 1650987509656
                 }
@@ -824,25 +808,25 @@
         },
         {
             "id": "39a4ab4d-ff0f-4425-960c-94efad0891ea",
-            "name": "Будинок дитячої та юнацької творчості",
-            "address": "Харківська обл., м. Харків, вул. Сумська, 37",
-            "description": "Харківський обласний палац дитячої та юнацької творчості (до 1991 року – обласний Палац піонерів та школярів) є одним із найбільших позашкільних закладів позашкільної освіти України. \n\nЗ 1962 року по сьогоднішній час головним корпусом Палацу є будинок на вул. Сумській, 37, що до 1960 року був навчальним корпусом ветеринарного інституту. \n\nЗа роки існування Палацу його випускниками стали понад 800 тисяч дітей. ",
+            "name": "Олексій Залевський",
+            "address": "Народився 1985 у Києві, він став відомим як модельєр, чиї колекції відрізнялися вишуканістю та неперевершеним стилем",
+            "description": "Народився в Києві в 1985 році, Олексій Залевський здобув славу як модельєр, відомий своїми вишуканими та ретельно проробленими колекціями. Його дизайни злито класичною елегантністю та сучасним стилем, завоювавши глядачів своїм бездоганним смаком.",
             "constructionDate": "1851-53 рр.",
             "destructionDate": "03.03.2022",
-            "type": "FILMMAKER",
+            "type": "FASHION",
             "status": "DAMAGED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.0037,
-                "lon": 36.23471
+                "lat": 50.4509,
+                "lon": 30.5234
             },
             "photos": [
                 {
                     "id": "e74d3911-7d7e-427e-a32a-ebc80e514e68",
                     "monumentId": "39a4ab4d-ff0f-4425-960c-94efad0891ea",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/ec154db7-da5f-4902-a2d8-90b61406b97f.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/zalevskiy.jpeg",
                     "originalFileName": "28.jpg",
                     "createdAt": 1650987826695
                 }
@@ -850,233 +834,129 @@
         },
         {
             "id": "dfc37b3f-f518-4c3f-ad0d-7443c9a2aefa",
-            "name": "Воскресенська церква",
-            "address": "Чернігівська обл., Чернігівський р-н, с. Лукашівка",
-            "description": "Перша дерев'яна церква була зведена у 1781 та оновлена  у 1800 році. На початку 20 століття стару церкву було розібрано задля зведення цегляної. Церква збудована у стилі єпархіальної архітектури. Церква хрещата у плані, з надбудованою над входом 2-ярусною дзвіницею.  Окупаційними військами в храмі було влаштовано склад боєприпасів і пального. ",
+            "name": "Антон Бєлінський",
+            "address": "Народився 1987 у Києві, його ім'я стало синонімом української моди, відзначившись своїми сміливими та інноваційними дизайнами",
+            "description": "Народився в Києві в 1987 році, його ім'я стало синонімом української моди, відзначившись своїми сміливими та інноваційними дизайнами. Його відмінні колекції розширюють межі моди і викликають захват у світі.",
             "constructionDate": "1913 ",
             "destructionDate": "19.03.2022",
-            "type": "MUSICIAN",
+            "type": "FASHION",
             "status": "PARTIALLY_DESTROYED",
             "level": "NO_REGISTER",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 51.385722,
-                "lon": 31.391111
+                "lat": 50.4510,
+                "lon": 30.5234
             },
             "photos": [
                 {
                     "id": "6b5545e6-058f-43bc-abe2-2620bed67bfd",
                     "monumentId": "dfc37b3f-f518-4c3f-ad0d-7443c9a2aefa",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/9dd1429e-27c3-4ffc-9216-d2bf8a7293b1.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/belinskiy.jpg",
                     "originalFileName": "25_1.jpg",
                     "createdAt": 1650926406589
-                },
-                {
-                    "id": "a0ada775-a7d2-49ec-9633-cc8d1c53738a",
-                    "monumentId": "dfc37b3f-f518-4c3f-ad0d-7443c9a2aefa",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/e24f595f-9ca2-45de-b357-a38189ea117b.jpg",
-                    "originalFileName": "25_2.jpg",
-                    "createdAt": 1650962988280
-                },
-                {
-                    "id": "c5fb0c51-1bb2-4665-b18a-55590ba25f42",
-                    "monumentId": "dfc37b3f-f518-4c3f-ad0d-7443c9a2aefa",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/b4f2751b-df62-42eb-816a-957eeca252c0.jpg",
-                    "originalFileName": "25_3.jpg",
-                    "createdAt": 1650962995038
                 }
             ]
         },
         {
             "id": "d4835d63-2276-44c5-9f49-450576294575",
-            "name": "Меморіальний пам’ятник односельчанам загиблим у Другій світовій війні",
-            "address": "Київська обл., Вишгородський р-н, с. Підгайне",
-            "description": "Меморіальний пам’ятник односельчанам, які загинули в Другій світовій війні, встановлений в другій половині ХХ ст.",
+            "name": "Лілія Пустовіт",
+            "address": "Народилася 1976 у Дніпрі, вона стала відомою своїми жіночними та елегантними колекціями, відображаючи дух сучасної української моди",
+            "description": "Народилася в Дніпрі в 1976 році, вона завоювала популярність своїми жіночними та елегантними колекціями, які відображають суть сучасної української моди. Її акцент на простоті та вишуканості зробив її дизайни улюбленими серед вимогливих модниць у всьому світі.",
             "constructionDate": "II пол. 20 ст.",
             "destructionDate": "30.03.2022",
-            "type": "ACTOR",
+            "type": "FASHION",
             "status": "PARTIALLY_DESTROYED",
             "level": "NO_REGISTER",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.843333,
-                "lon": 29.661667
+                "lat": 48.4647,
+                "lon": 35.0462
             },
             "photos": [
                 {
                     "id": "25030773-859a-457c-9677-5febf320b8d3",
                     "monumentId": "d4835d63-2276-44c5-9f49-450576294575",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/c3b041d2-0f4e-4f92-8e78-bdba494264e1.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/putosvit.jpeg",
                     "originalFileName": "33_1.jpg",
                     "createdAt": 1650968055212
-                },
-                {
-                    "id": "f0a9dc67-5866-4765-be8e-99ab90570245",
-                    "monumentId": "d4835d63-2276-44c5-9f49-450576294575",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/5fc72308-52ef-4354-8a60-7ee0dd6a13ea.jpg",
-                    "originalFileName": "33_2.jpg",
-                    "createdAt": 1650968929898
                 }
             ]
         },
         {
             "id": "0f8b706a-69df-4aa0-8644-f95f860570e0",
-            "name": "Братська могила радянських воїнів та пам’ятник воїнам-землякам, що загинули у Другій світовій війні ",
-            "address": "Сумська обл., Конотопський р-н, с. Сім’янівка",
-            "description": "Меморіальні стели пам’ятки історії місцевого значення — братської могили радянських воїнів та пам’ятника воїнам-землякам, що загинули у Другій світовій війні, спорудженого в 1958 та 1981 рр. ",
+            "name": "Жан Гріцфельдт",
+            "address": "Народився 1989 у Львові, він відомий своїми екстравагантними та футуристичними дизайнами, що принесли йому велику популярність як в Україні, так і за кордоном",
+            "description": "Народився в Львові в 1989 році, Жан Гріцфельдт славиться своїми авангардними та футуристичними дизайнами, що розширюють межі моди. Його створення, відзначені сміливими силуетами та інноваційними матеріалами, принесли йому міжнародне визнання як лідера галузі.",
             "constructionDate": "1958",
             "destructionDate": "02.04.2022",
-            "type": "ACTOR",
+            "type": "FASHION",
             "status": "DAMAGED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 51.157188,
-                "lon": 33.358648
+                "lat": 49.8397,
+                "lon": 24.0298
             },
             "photos": [
                 {
                     "id": "f4ce69fd-6f41-4028-9e6a-3a86fa250b4f",
                     "monumentId": "0f8b706a-69df-4aa0-8644-f95f860570e0",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/a2134b92-5ef9-4f4f-83f6-cadd3e802b7b.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/gricfield.jpg",
                     "originalFileName": "278463487_383275837039345_1994950190443186295_n.jpg",
                     "createdAt": 1651429599622
-                },
-                {
-                    "id": "be177be6-95e8-424f-88ff-eeac12583f6c",
-                    "monumentId": "0f8b706a-69df-4aa0-8644-f95f860570e0",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/8bffc83a-d5b2-4c85-8248-311065479b83.jpg",
-                    "originalFileName": "278592478_561549061889069_3776992947144543766_n.jpg",
-                    "createdAt": 1651429599900
-                },
-                {
-                    "id": "3b0dc8ef-725d-4d1d-b583-71a8af577708",
-                    "monumentId": "0f8b706a-69df-4aa0-8644-f95f860570e0",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/77a87beb-6cee-4ced-a082-7c8c3abd69f8.jpg",
-                    "originalFileName": "278620043_5392153374152794_8915782914529472106_n.jpg",
-                    "createdAt": 1651429600161
-                },
-                {
-                    "id": "746b51a2-f3d7-4801-94af-1874d93df39f",
-                    "monumentId": "0f8b706a-69df-4aa0-8644-f95f860570e0",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/ec3c2df4-7d08-4067-bcc4-acbad494ef5d.jpg",
-                    "originalFileName": "278653058_691602035412815_5756312759459144605_n.jpg",
-                    "createdAt": 1651429600415
                 }
             ]
         },
         {
             "id": "91e15f32-00d3-4162-abc0-5f598d2d8235",
-            "name": "Палац культури ім. Т.Г. Шевченка",
-            "address": "Київська обл., Бородянський р-н, смт Бородянка, вул. Паркова, 1А",
-            "description": "Палац культури імені Т.Г.Шевченка є прикрасою мальовничого містечка Бородянка. \n\nПалац культури ім. Т.Г.Шевченка працює як центр культурного дозвілля, центр розвитку аматорського мистецтва та народної творчості, центр методичної допомоги сільським клубам району. \n\nТворчими працівниками культури започатковані нові районні фестивалі. \n\nЩорічно в палаці відроджуються обряди, проводяться народні свята, творчі звіти художніх колективів дитячої творчості, концерти учасників художньої самодіяльності стають мистецьким доповненням державних та професійних свят. \n\nПри Палаці культури працює 28 клубних формувань, з них 24 — гуртки художньої творчості, які відвідує понад 438 учасників.",
+            "name": "Світлана Бевза",
+            "address": "Народилася 1978 у Львові, вона стала відомою своїми мінімалістичними та елегантними колекціями, що отримали визнання як на національному, так і на міжнародному рівні",
+            "description": "Народилася у Львові в 1978 році, вона відома своїми мінімалістичними, але вишуканими колекціями, які переосмислюють сучасну українську моду. Її чисті лінії та вишукані силуети відображають безчасну елегантність, зробивши її дизайни улюбленими серед вимогливих модниць у всьому світі.",
             "constructionDate": "11.12.1996",
             "destructionDate": "31.03.2022",
-            "type": "HISTORICAL",
+            "type": "FASHION",
             "status": "DAMAGED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.644449953,
-                "lon": 29.932756018
+                "lat": 49.8397,
+                "lon": 24.0297
             },
             "photos": [
                 {
                     "id": "dae0004f-5360-4535-928a-5ca5d4dd661c",
                     "monumentId": "91e15f32-00d3-4162-abc0-5f598d2d8235",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/656336a0-feb2-4b17-bf7e-fa9383800fbc.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/bevza.jpg",
                     "originalFileName": "1.jpg",
                     "createdAt": 1651430916945
-                },
-                {
-                    "id": "bee044ff-8a31-4a04-a518-0aecff012c84",
-                    "monumentId": "91e15f32-00d3-4162-abc0-5f598d2d8235",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/c44f7ea2-63ae-4a68-9029-f051837bbf0f.jpg",
-                    "originalFileName": "2.jpg",
-                    "createdAt": 1651430917105
-                },
-                {
-                    "id": "98f2d69c-c8d0-4400-a83a-d0db8d8e58ba",
-                    "monumentId": "91e15f32-00d3-4162-abc0-5f598d2d8235",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/f891605e-596e-4993-9d20-1ed2bd1566c8.jpg",
-                    "originalFileName": "3.jpg",
-                    "createdAt": 1651430917264
-                },
-                {
-                    "id": "9233e246-1021-44f6-8393-845c0420996d",
-                    "monumentId": "91e15f32-00d3-4162-abc0-5f598d2d8235",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/f877d3d4-3b04-4f09-aad3-983b8256f8e5.jpg",
-                    "originalFileName": "AP22099763820938.jpg",
-                    "createdAt": 1651430917415
-                },
-                {
-                    "id": "900cc809-30f7-44a3-a262-84d9829248b3",
-                    "monumentId": "91e15f32-00d3-4162-abc0-5f598d2d8235",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/c92d45ab-4c10-46e2-a620-6230dae1ae90.jpg",
-                    "originalFileName": "AP22099764248076.jpg",
-                    "createdAt": 1651430917559
-                },
-                {
-                    "id": "b453d4df-bff5-4b82-967d-5dbbeea8eb31",
-                    "monumentId": "91e15f32-00d3-4162-abc0-5f598d2d8235",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/6f84ae8c-f91e-4e59-a845-53aecd1c926c.jpg",
-                    "originalFileName": "AP22099764772278.jpg",
-                    "createdAt": 1651430917711
-                },
-                {
-                    "id": "c197a30b-9383-41bc-ba71-3bc05f764578",
-                    "monumentId": "91e15f32-00d3-4162-abc0-5f598d2d8235",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/f1e50adc-9ca2-4639-bd1e-9b97b5189844.jpg",
-                    "originalFileName": "AP22099765546833.jpg",
-                    "createdAt": 1651430917860
-                },
-                {
-                    "id": "45f9faf2-e4ad-4548-8918-eac066e3a9ea",
-                    "monumentId": "91e15f32-00d3-4162-abc0-5f598d2d8235",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/dd2d27f5-d272-425f-98cb-a35f334443b1.jpg",
-                    "originalFileName": "AP22099767567549.jpg",
-                    "createdAt": 1651430918017
                 }
             ]
         },
         {
             "id": "20616eda-13d8-401f-b6f3-7a38bf4c20cf",
-            "name": "Свято-Дмитрівська церква",
-            "address": "Донецька обл., Покровський р-н, смт Верхньоторецьке, вул. Леніна, 100",
-            "description": "Свято-Дмитрівська церква в смт Верхньоторецьке Донецької області, присвячена святому мученику Дмитру Солунському, – одна з найдавніших у регіоні. \n\nЇї почали будувати в 1850 році, а закінчили в 1861, приурочивши відкриття до скасування кріпосного права. \n\nУ 1938 році, за часів Радянського Союзу, храм закрили та зруйнували дзвіницю: cпочатку там влаштували кінотеатр, потім – зерносховище. \n\nПід час німецької окупації його перетворили на конюшню. \n\nУ 1943 році, після звільнення Донбасу, храм знову відкрили для богослужіння. ",
+            "name": "Іван Фролов",
+            "address": "Народився 1989 у Києві, він відомий своїми екстравагантними дизайнами, які відрізняються провокаційністю та сміливістю в образі",
+            "description": "Народився в Києві в 1989 році, він відомий своїми дерзкими та провокативними дизайнами, що викликають конвенції краси. Його авангардні колекції, відзначені яскравими кольорами та неочікуваними текстурами, визначили його як візіонера української модної сцени.",
             "constructionDate": "1850-1861",
             "destructionDate": "26.03.2022",
-            "type": "MUSICIAN",
+            "type": "FASHION",
             "status": "DAMAGED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 48.222455615,
-                "lon": 35.222379111
+                "lat": 50.4501,
+                "lon": 30.5233
             },
             "photos": [
                 {
                     "id": "4ed64969-a86b-4420-b609-f4ef27de1bc7",
                     "monumentId": "20616eda-13d8-401f-b6f3-7a38bf4c20cf",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/0a363277-5b78-4ca3-a7d3-f24be233f31b.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/florov.jpg",
                     "originalFileName": "276151755_382664827201958_2952412405732896037_n (1).jpg",
                     "createdAt": 1652280125063
                 }
@@ -1084,25 +964,25 @@
         },
         {
             "id": "8c34658b-7d7c-4a40-8a25-80bf6eaae056",
-            "name": "Церква св. Марії Магдалини ",
-            "address": "Донецька обл., Покровський р-н, м. Авдіївка, вул. Воробйова, 4",
-            "description": "10 травня 2003 року Митрополит Донецький та Маріупольський Іларіон заклав камінь під будівництво храму Святої Рівноапостольної Марії Магдалини у місті Авдіївці. \n\nПерша літургія в храмі відбулася 4 серпня 2005 року.",
+            "name": "Юлія Магдич",
+            "address": "Народилася 1985 у Києві, вона відома своїми вишуканими та унікальними вишиванками, які стали справжнім символом української культури",
+            "description": "Народилася в Києві в 1985 році, вона відома своїми вишуканими та прекрасно вишитими виробами, що святкують українське національне спадщину. Її дизайни, натхненні традиційними мотивами та технікою, захоплюють суть української культури та приваблюють сучасну аудиторію.",
             "constructionDate": "2003-07 рр.",
             "destructionDate": "24.03.2022",
-            "type": "MUSICIAN",
+            "type": "FASHION",
             "status": "DAMAGED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 48.125490579,
-                "lon": 37.740643003
+                "lat": 50.4509,
+                "lon": 30.5234
             },
             "photos": [
                 {
                     "id": "90e2d7f9-2638-4c2e-8519-0e958af92567",
                     "monumentId": "8c34658b-7d7c-4a40-8a25-80bf6eaae056",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/082526b1-49ab-4761-a31a-1d17f27efdcb.png",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/magdich.jpg",
                     "originalFileName": "image-4-413x550.png",
                     "createdAt": 1652280301354
                 }
@@ -1110,25 +990,25 @@
         },
         {
             "id": "11729b77-d08a-4d5a-9ad6-478ad4c2e072",
-            "name": "Церква св. Миколая Чудотворця",
-            "address": "Донецька обл., Покровський р-н, м. Авдіївка, вул. Героїв, 66",
-            "description": "Одна з найстаріших будівель у місті, побудована в 1899 році. \n\nКолишня школа залізничників, колишня школа № 2, колишня Авдіївська станція юних техніків (АСЮТ). \n\nОсобливо шановані святині: Ікона Святого пророка Іллі.",
+            "name": "Ксенія Шнайдер",
+            "address": "Народилася 1983 у Києві, вона відома своїми інноваційними джинсовими виробами, що зробили її однією з провідних постатей української модної сцени",
+            "description": "Народилася в Києві в 1983 році, вона відома своїми інноваційними підходами до дизайну джинсового одягу, переосмислюючи класичні стилі з сучасною ноткою. Її дизайнерські колекції, знамениті несподіваними силуетами та нестандартними деталями, підкреслюють її статус як провідної постаті української модної сцени.",
             "constructionDate": "1898-1899",
             "destructionDate": "21.03.2022",
-            "type": "MUSICIAN",
+            "type": "FASHION",
             "status": "DAMAGED",
             "level": "NO_REGISTER",
             "ownership": "COMUN",
             "coordinates": {
-                "lat": 48.149287834,
-                "lon": 37.735521242
+                "lat": 50.4501,
+                "lon": 30.5235
             },
             "photos": [
                 {
                     "id": "69092443-4ff1-4836-9dcf-f6784e5d36b8",
                     "monumentId": "11729b77-d08a-4d5a-9ad6-478ad4c2e072",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/5636bbc0-8618-4c84-8ec0-d016a4e68664.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/shnaider.jpg",
                     "originalFileName": "49.jpg",
                     "createdAt": 1650972981814
                 }
@@ -4235,40 +4115,6 @@
                     "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/11e6c8c5-2cf2-4ac1-afba-978173a56919.jpg",
                     "originalFileName": "285635826_1399917600472797_7627917882770247762_n.jpg",
                     "createdAt": 1666362540251
-                }
-            ]
-        },
-        {
-            "id": "6b78bfff-3917-4bf4-a815-79d5bf64ff92",
-            "name": "Культурний центр \"Меотида\" ",
-            "address": "Донецька обл., Маріупольський р-н, м. Маріуполь, проспект Будівельників, 127",
-            "description": "Будівля Центру виконана у автентичному грецькому архітектурному стилі та складається з великої актової зали, бібліотеки, учбових приміщень тощо. Із часу заснування у 2008 році, будівля використовувалася для проведення  різноманітних культурних подій, виставок, та лекцій, приурочених грецькій культурі.",
-            "constructionDate": "2008 р.",
-            "destructionDate": "01.04.22",
-            "type": "WRITER",
-            "status": "DAMAGED",
-            "level": "NATIONAL",
-            "ownership": "PRIVATE",
-            "coordinates": {
-                "lat": 47.101,
-                "lon": 37.524
-            },
-            "photos": [
-                {
-                    "id": "45d999cf-4ac7-4d86-94ad-60022e148e10",
-                    "monumentId": "6b78bfff-3917-4bf4-a815-79d5bf64ff92",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/2c921ff9-27d9-4a4d-84d1-ba605f22fa55.jpg",
-                    "originalFileName": "7.jpg",
-                    "createdAt": 1666868070240
-                },
-                {
-                    "id": "92129949-ebc9-4a54-8780-f2873b2801bd",
-                    "monumentId": "6b78bfff-3917-4bf4-a815-79d5bf64ff92",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/b9b82d02-cfcf-4f52-82da-e717d9400177.jpg",
-                    "originalFileName": "77.jpg",
-                    "createdAt": 1666868070440
                 }
             ]
         },
