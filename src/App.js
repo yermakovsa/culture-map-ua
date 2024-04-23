@@ -60,6 +60,18 @@ function App() {
   // }, []);
 
   useEffect(() => {
+    let lang;
+    if (i18n.language === "en") {
+      lang = "en";
+    } else if (i18n.language.includes("en-")) {
+      lang = "en";
+      i18n.changeLanguage("en");
+    } else {
+      lang = "ua";
+      if (i18n.language !== "ua") {
+        i18n.changeLanguage("ua");
+      }
+    }
     if (popup) {
       document.body.style.overflow = "hidden";
     } else {
@@ -96,6 +108,9 @@ function App() {
       <Routes>
         <Route path={`/${i18n.language}/`} element={<MapBox />} />
         <Route path={`/`} element={<MapBox />} />
+        <Route path={`/ua/`} element={<MapBox />} />
+        <Route path={`/en/`} element={<MapBox />} />
+
         {/* <Route path={`/${i18n.language}/partners`} element={<Partners />} /> */}
         {/* <Route path={`/${i18n.language}/blog`} element={<Blog />} />
         <Route path={`/${i18n.language}/blog/:id/`} element={<Article />} /> */}
