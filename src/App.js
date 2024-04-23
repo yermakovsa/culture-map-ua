@@ -103,7 +103,6 @@ function App() {
         {/* <Route path={`/${i18n.language}/partners`} element={<Partners />} /> */}
         {/* <Route path={`/${i18n.language}/blog`} element={<Blog />} />
         <Route path={`/${i18n.language}/blog/:id/`} element={<Article />} /> */}
-        <Route path="*" element={<ErrorPage />}></Route>
       </Routes>
       {/* <Main /> */}
     </div>
