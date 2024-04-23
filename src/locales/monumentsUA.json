@@ -1510,43 +1510,27 @@
         },
         {
             "id": "f64a936c-aeb7-40be-9f9d-840dc35f8cea",
-            "name": "Церква Смоленської ікони Божої Матері",
-            "address": "Харківська обл., м. Харків, вул. Семінарська, 46",
-            "description": "Будинок колишньої семінарії сер. ХІХ ст., в якій у 1879-82 рр. навчався П.А. Грабовський. \n\nУ 2012 році було створено громаду на честь Смоленської ікони Божої Матері, ініціатором якої був Високопрееосвячений Нікодим, митрополит Харківський та Богодухівський, і від якого було отримано благословення на її створення. \n\nІкона Смоленської ікони Божої Матері була здавна захисницею канонічного православ'я, передачі та збереження його духовних традицій від православної Візантії.",
+            "name": "Сергій Єрмаков",
+            "address": "Народився 2003 року у Дніпрі, чемпіон олімпіад, став senior developer у 20 років, автор проекту",
+            "description": "Народився у 2003 році у Дніпрі, Сергій Єрмаков став переможцем олімпіад з математики та програмування, перш ніж розпочати кар'єру в IT. У віці всього 20 років він став senior-level розробником, демонструючи свою високу кваліфікацію та присвяченість. Крім того, він є автором цього проекту, що свідчить про його талант та пристрасть до інновацій.",
             "constructionDate": "сер. ХІХ ст.",
             "destructionDate": "16.03.2022",
-            "type": "MUSICIAN",
+            "type": "FASHION",
             "status": "DAMAGED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 49.978827,
-                "lon": 36.19964
+                "lat": 48.4647,
+                "lon": 35.0302
             },
             "photos": [
                 {
                     "id": "d7803cfe-e595-450c-a0fe-eacbc3d333c2",
                     "monumentId": "f64a936c-aeb7-40be-9f9d-840dc35f8cea",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/303ea1e5-a0bc-49fa-9b03-cc8c6c2daae8.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/yermakov.jpg",
                     "originalFileName": "57_2.jpg",
                     "createdAt": 1651565717296
-                },
-                {
-                    "id": "2ada4064-71b0-4387-b3e1-3dc1e78e25a2",
-                    "monumentId": "f64a936c-aeb7-40be-9f9d-840dc35f8cea",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/ba4190fc-e6b3-4a2d-a360-6c9f179812fe.jpg",
-                    "originalFileName": "TtTUR077F-AQRa2FMqURHSXsq.jpg",
-                    "createdAt": 1651565717488
-                },
-                {
-                    "id": "c93847b3-d34a-4c95-bdb0-f1a431d1da43",
-                    "monumentId": "f64a936c-aeb7-40be-9f9d-840dc35f8cea",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/7bb81972-2e77-4fff-a693-ec0451ac0451.jpg",
-                    "originalFileName": "NndNePeyUYwdT3clAI8JcQD7L.jpg",
-                    "createdAt": 1651565717693
                 }
             ]
         }     

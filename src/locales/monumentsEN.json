@@ -1510,43 +1510,27 @@
         },
         {
             "id": "f64a936c-aeb7-40be-9f9d-840dc35f8cea",
-            "name": "Church of Mother-of-God of Smolensk icon",
-            "address": "Seminarska Street, 46, Kharkiv, Kharkiv district, Kharkiv region",
-            "description": "From 1879 to 1882 P. Grabowski studied in the former XIX century seminary building. In 2012, his Excellency Metropolitan of Kharkiv and Bohodukhiv Nikodim initiated and blessed the establishment of the Smolensk Mother of God community. This icon serves as a degender of canonical orthodoxy. It also preserves the spiritual traditions that come from orthodontic Byzantine. ",
+            "name": "Serhii Yermakov",
+            "address": "Born in 2003 in Dnipro, olympiad champ, senior developer at 20, project author",
+            "description": "Born in 2003 in Dnipro, Serhii Yermakov won math and programming competitions before starting his career in tech. At just 20, he became a senior developer, showing his skill and dedication. He's also the one who created this project, highlighting his talent and passion for innovation.",
             "constructionDate": "сер. ХІХ ст.",
             "destructionDate": "16.03.2022",
-            "type": "MUSICIAN",
+            "type": "FASHION",
             "status": "DAMAGED",
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 49.978827,
-                "lon": 36.19964
+                "lat": 48.4647,
+                "lon": 35.0302
             },
             "photos": [
                 {
                     "id": "d7803cfe-e595-450c-a0fe-eacbc3d333c2",
                     "monumentId": "f64a936c-aeb7-40be-9f9d-840dc35f8cea",
                     "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/303ea1e5-a0bc-49fa-9b03-cc8c6c2daae8.jpg",
+                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/yermakov.jpg",
                     "originalFileName": "57_2.jpg",
                     "createdAt": 1651565717296
-                },
-                {
-                    "id": "2ada4064-71b0-4387-b3e1-3dc1e78e25a2",
-                    "monumentId": "f64a936c-aeb7-40be-9f9d-840dc35f8cea",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/ba4190fc-e6b3-4a2d-a360-6c9f179812fe.jpg",
-                    "originalFileName": "TtTUR077F-AQRa2FMqURHSXsq.jpg",
-                    "createdAt": 1651565717488
-                },
-                {
-                    "id": "c93847b3-d34a-4c95-bdb0-f1a431d1da43",
-                    "monumentId": "f64a936c-aeb7-40be-9f9d-840dc35f8cea",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/7bb81972-2e77-4fff-a693-ec0451ac0451.jpg",
-                    "originalFileName": "NndNePeyUYwdT3clAI8JcQD7L.jpg",
-                    "createdAt": 1651565717693
                 }
             ]
         }
