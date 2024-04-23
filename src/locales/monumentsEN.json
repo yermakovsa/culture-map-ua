@@ -402,8 +402,8 @@
             "level": "NO_REGISTER",
             "ownership": "COMUN",
             "coordinates": {
-                "lat": 49.8397,
-                "lon": 24.0297
+                "lat": 49.7397,
+                "lon": 24.7297
             },
             "photos": [
                 {
@@ -446,7 +446,7 @@
             "id": "a7635c05-8b72-40b7-9b0d-dcda6e83f02a",
             "name": "Svyatoslav Richter",
             "address": "Born 1915 in Zhytomyr, a piano virtuoso, his legacy reverberates in classical music",
-            "description": "Svyatoslav Richter (1915-1997) was a legendary Russian pianist, born in Zhytomyr. His exceptional talent and technique continue to leave an indelible mark on the world of classical music.",
+            "description": "Svyatoslav Richter (1915-1997) was a legendary pianist, born in Zhytomyr. His exceptional talent and technique continue to leave an indelible mark on the world of classical music.",
             "constructionDate": "ХХ ст.",
             "destructionDate": "6.03.2022 ",
             "type": "MUSICIAN",
@@ -455,7 +455,7 @@
             "ownership": "PRIVATE",
             "coordinates": {
                 "lat": 50.2547,
-                "lon": 28.6695
+                "lon": 28.4695
             },
             "photos": [
                 {
@@ -481,7 +481,7 @@
             "ownership": "COMUN",
             "coordinates": {
                 "lat": 48.4148,
-                "lon": 25.4549
+                "lon": 25.3549
             },
             "photos": [
                 {
@@ -532,8 +532,8 @@
             "level": "NO_REGISTER",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 49.8397,
-                "lon": 24.0297
+                "lat": 49.3397,
+                "lon": 24.3297
             },
             "photos": [
                 {
@@ -584,8 +584,8 @@
             "level": "LOCAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.4501,
-                "lon": 30.5232
+                "lat": 50.3501,
+                "lon": 30.3232
             },
             "photos": [
                 {
@@ -610,7 +610,7 @@
             "level": "NO_REGISTER",
             "ownership": "COMUN",
             "coordinates": {
-                "lat": 50.2547,
+                "lat": 50.0547,
                 "lon": 28.6695
             },
             "photos": [
@@ -688,7 +688,7 @@
             "level": "LOCAL",
             "ownership": "COMUN",
             "coordinates": {
-                "lat": 50.4503,
+                "lat": 50.2503,
                 "lon": 30.5234
             },
             "photos": [
@@ -714,8 +714,8 @@
             "level": "NATIONAL",
             "ownership": "CONCESSION",
             "coordinates": {
-                "lat": 50.4504,
-                "lon": 30.5234
+                "lat": 50.3504,
+                "lon": 30.4234
             },
             "photos": [
                 {
@@ -766,7 +766,7 @@
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.4505,
+                "lat": 50.3005,
                 "lon": 30.5234
             },
             "photos": [
@@ -783,8 +783,8 @@
         {
             "id": "a775f8dd-a621-4707-a838-4585b0e9ace0",
             "name": "Anna October",
-            "address": "Born in 1983 in Kyiv, she is known for her unique design and innovative approach to fashion, impressing fashion capitals worldwide",
-            "description": "Anna October, born in Kyiv in 1983, is celebrated for her unique designs and innovative approach to fashion. Her collections blend contemporary aesthetics with traditional Ukrainian craftsmanship, earning her recognition both at home and abroad.",
+            "address": "Born in 1983 in Melitopol, she is known for her unique design and innovative approach to fashion, impressing fashion capitals worldwide",
+            "description": "Anna October, born in Melitopol in 1983, is celebrated for her unique designs and innovative approach to fashion. Her collections blend contemporary aesthetics with traditional Ukrainian craftsmanship, earning her recognition both at home and abroad.",
             "constructionDate": "1864-1884",
             "destructionDate": "07.03.2022",
             "type": "FASHION",
@@ -792,8 +792,8 @@
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.4508,
-                "lon": 30.5234
+                "lat": 46.8550,
+                "lon": 35.3587
             },
             "photos": [
                 {
@@ -809,8 +809,8 @@
         {
             "id": "39a4ab4d-ff0f-4425-960c-94efad0891ea",
             "name": "Oleksiy Zalevskiy",
-            "address": "Born in 1985 in Kyiv, he became known as a fashion designer whose collections were distinguished by sophistication and unmatched style",
-            "description": "Born in Kyiv in 1985, Oleksiy Zalevskiy gained renown as a fashion designer renowned for his sophisticated and refined collections. His designs seamlessly merge classic elegance with modern trends, captivating audiences with their timeless appeal.",
+            "address": "Born in 1985 in Lutsk, he became known as a fashion designer whose collections were distinguished by sophistication and unmatched style",
+            "description": "Born in Lutsk in 1985, Oleksiy Zalevskiy gained renown as a fashion designer renowned for his sophisticated and refined collections. His designs seamlessly merge classic elegance with modern trends, captivating audiences with their timeless appeal.",
             "constructionDate": "1851-53 рр.",
             "destructionDate": "03.03.2022",
             "type": "FASHION",
@@ -818,8 +818,8 @@
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.4509,
-                "lon": 30.5234
+                "lat": 50.7519,
+                "lon": 25.3299
             },
             "photos": [
                 {
@@ -835,17 +835,17 @@
         {
             "id": "dfc37b3f-f518-4c3f-ad0d-7443c9a2aefa",
             "name": "Anton Belinskiy",
-            "address": " Born in 1987 in Kyiv, his name became synonymous with Ukrainian fashion, noted for his bold and innovative designs",
-            "description": "Anton Belinskiy, born in Kyiv in 1987, emerged as a prominent figure in Ukrainian fashion, known for his bold and avant-garde designs. His innovative collections push boundaries and challenge conventions, earning him acclaim as a visionary in the industry.",
+            "address": " Born in 1987 in Rivne, his name became synonymous with Ukrainian fashion, noted for his bold and innovative designs",
+            "description": "Anton Belinskiy, born in Rivne in 1987, emerged as a prominent figure in Ukrainian fashion, known for his bold and avant-garde designs. His innovative collections push boundaries and challenge conventions, earning him acclaim as a visionary in the industry.",
             "constructionDate": "1913 ",
             "destructionDate": "19.03.2022",
-            "type": "MUSICIAN",
+            "type": "FASHION",
             "status": "PARTIALLY_DESTROYED",
             "level": "NO_REGISTER",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.4510,
-                "lon": 30.5234
+                "lat": 50.6191,
+                "lon": 26.2521
             },
             "photos": [
                 {
@@ -896,8 +896,8 @@
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 49.8397,
-                "lon": 24.0298
+                "lat": 49.5397,
+                "lon": 24.5298
             },
             "photos": [
                 {
@@ -922,8 +922,8 @@
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 49.8397,
-                "lon": 24.0297
+                "lat": 49.6397,
+                "lon": 24.4297
             },
             "photos": [
                 {
@@ -939,8 +939,8 @@
         {
             "id": "20616eda-13d8-401f-b6f3-7a38bf4c20cf",
             "name": "Ivan Frolov",
-            "address": "Born in 1989 in Kyiv, he is famous for his extravagant designs that stand out for their provocative and daring style",
-            "description": "Ivan Frolov, born in Kyiv in 1989, is known for his daring and provocative designs that challenge conventional notions of beauty. His avant-garde collections, characterized by bold colors and unexpected textures, have established him as a visionary in the Ukrainian fashion scene.",
+            "address": "Born in 1989 in Kherson, he is famous for his extravagant designs that stand out for their provocative and daring style",
+            "description": "Ivan Frolov, born in Kherson in 1989, is known for his daring and provocative designs that challenge conventional notions of beauty. His avant-garde collections, characterized by bold colors and unexpected textures, have established him as a visionary in the Ukrainian fashion scene.",
             "constructionDate": "1850-1861",
             "destructionDate": "26.03.2022",
             "type": "FASHION",
@@ -948,8 +948,8 @@
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.4501,
-                "lon": 30.5233
+                "lat": 46.6354,
+                "lon": 32.6169
             },
             "photos": [
                 {
@@ -974,7 +974,7 @@
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.4509,
+                "lat": 50.4009,
                 "lon": 30.5234
             },
             "photos": [
@@ -991,8 +991,8 @@
         {
             "id": "11729b77-d08a-4d5a-9ad6-478ad4c2e072",
             "name": "Ksenia Schnaider",
-            "address": "Born in 1983 in Kyiv, she is known for her innovative denim creations, making her one of the leading figures in the Ukrainian fashion scene",
-            "description": "Ksenia Schnaider, born in Kyiv in 1983, gained recognition for her innovative approach to denim design, reimagining classic styles with a contemporary twist. Her boundary-pushing collections, known for their unexpected silhouettes and unconventional details, have solidified her reputation as a maverick in the fashion world.",
+            "address": "Born in 1983 in Odesa, she is known for her innovative denim creations, making her one of the leading figures in the Ukrainian fashion scene",
+            "description": "Ksenia Schnaider, born in Odesa in 1983, gained recognition for her innovative approach to denim design, reimagining classic styles with a contemporary twist. Her boundary-pushing collections, known for their unexpected silhouettes and unconventional details, have solidified her reputation as a maverick in the fashion world.",
             "constructionDate": "1898-1899",
             "destructionDate": "21.03.2022",
             "type": "FASHION",
@@ -1000,8 +1000,8 @@
             "level": "NO_REGISTER",
             "ownership": "COMUN",
             "coordinates": {
-                "lat": 50.4501,
-                "lon": 30.5235
+                "lat": 46.4702,
+                "lon": 30.7306
             },
             "photos": [
                 {
@@ -1052,7 +1052,7 @@
             "level": "NO_REGISTER",
             "ownership": "COMUN",
             "coordinates": {
-                "lat": 48.464717,
+                "lat": 48.454717,
                 "lon": 35.046183
             },
             "photos": [
@@ -1104,8 +1104,8 @@
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 50.4501,
-                "lon": 30.5234
+                "lat": 48.5071,
+                "lon": 32.2642
             },
             "photos": [
                 {
@@ -1130,7 +1130,7 @@
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 49.8397,
+                "lat": 49.2397,
                 "lon": 24.0297
             },
             "photos": [
@@ -1365,7 +1365,7 @@
             "ownership": "PRIVATE",
             "coordinates": {
                 "lat": 50.4501,
-                "lon": 30.5234
+                "lon": 30.4234
             },
             "photos": [
                 {
@@ -1416,7 +1416,7 @@
             "level": "NATIONAL",
             "ownership": "PRIVATE",
             "coordinates": {
-                "lat": 49.8397,
+                "lat": 49.5397,
                 "lon": 24.0297
             },
             "photos": [
