@@ -469,32 +469,6 @@
             ]
         },
         {
-            "id": "a825c602-e4d2-4475-b8f3-65dc89bec7b9",
-            "name": "Ані Лорак",
-            "address": "Народилася 1978 у Кіцмані, заворожила аудиторію на Євробаченні 2008 своїм потужним голосом.",
-            "description": "Ані Лорак (нар. 1978) – відома українська поп-співачка, яка народилася у Кіцмані. Вона стала відомою після участі в Євробаченні 2008 року, де завоювала серця глядачів своїм потужним голосом.",
-            "constructionDate": "1899-1901",
-            "destructionDate": "02.03.2022",
-            "type": "MUSICIAN",
-            "status": "DAMAGED",
-            "level": "NO_REGISTER",
-            "ownership": "COMUN",
-            "coordinates": {
-                "lat": 48.4148,
-                "lon": 25.3549
-            },
-            "photos": [
-                {
-                    "id": "a192b71d-5d07-4d52-be88-dff6d47de44e",
-                    "monumentId": "a825c602-e4d2-4475-b8f3-65dc89bec7b9",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/lorak.jpg",
-                    "originalFileName": "29_1 (1).jpg",
-                    "createdAt": 1650966879368
-                }
-            ]
-        },
-        {
             "id": "b1f32289-06e5-4970-9cae-9ee9897bd5d6",
             "name": "Богдан Ступка",
             "address": "Народився 1941 у Куликівці, він був шанованим українським актором, залишивши значний слід у театрі, кіно та телебаченні",

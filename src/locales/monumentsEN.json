@@ -469,32 +469,6 @@
             ]
         },
         {
-            "id": "a825c602-e4d2-4475-b8f3-65dc89bec7b9",
-            "name": "Ani Lorak",
-            "address": "Born 1978 in Kitsman, she captivated audiences at Eurovision 2008 with her powerful voice",
-            "description": "Ani Lorak (born 1978) is a popular Ukrainian pop singer, born in Kitsman. She gained prominence after representing Ukraine in the Eurovision Song Contest 2008, captivating audiences with her powerful voice.",
-            "constructionDate": "1899-1901",
-            "destructionDate": "02.03.2022",
-            "type": "MUSICIAN",
-            "status": "DAMAGED",
-            "level": "NO_REGISTER",
-            "ownership": "COMUN",
-            "coordinates": {
-                "lat": 48.4148,
-                "lon": 25.3549
-            },
-            "photos": [
-                {
-                    "id": "a192b71d-5d07-4d52-be88-dff6d47de44e",
-                    "monumentId": "a825c602-e4d2-4475-b8f3-65dc89bec7b9",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/lorak.jpg",
-                    "originalFileName": "29_1 (1).jpg",
-                    "createdAt": 1650966879368
-                }
-            ]
-        },
-        {
             "id": "b1f32289-06e5-4970-9cae-9ee9897bd5d6",
             "name": "Bohdan Stupka",
             "address": " Born in 1941 in Kulykiv, he was a revered Ukrainian actor, leaving a lasting impact on theater, film, and television",
