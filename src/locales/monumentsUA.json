@@ -1041,32 +1041,6 @@
             ]
         },
         {
-            "id": "90f57cdf-0cad-4930-ae8d-00cf206c64f9",
-            "name": "Олег Трофім",
-            "address": "Народився 1960 у Харкові, відомий за фільми про соціальні теми",
-            "description": "Народився 1960 у Харкові, Трофім славиться своїми фільмами, що досліджують складні соціальні питання, зображаючи складнощі українського суспільства з глибиною та чутливістю, що принесли йому критичне визнання як національно, так і міжнародно.",
-            "constructionDate": "1968-1973 ",
-            "destructionDate": "01.03.2022",
-            "type": "FILMMAKER",
-            "status": "DAMAGED",
-            "level": "NO_REGISTER",
-            "ownership": "PRIVATE",
-            "coordinates": {
-                "lat": 50.003731,
-                "lon": 36.250187
-            },
-            "photos": [
-                {
-                    "id": "e386d1de-5fb0-432a-b77e-1391772e7495",
-                    "monumentId": "90f57cdf-0cad-4930-ae8d-00cf206c64f9",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/trofim.jpg",
-                    "originalFileName": "7-1.jpg",
-                    "createdAt": 1650220333672
-                }
-            ]
-        },
-        {
             "id": "2114f53c-0e24-49c9-a22f-b9d9cdcbbf39",
             "name": "Віктор Лисак",
             "address": "Народився 1981 у Києві, режисер соціальних фільмів",

@@ -1041,32 +1041,6 @@
             ]
         },
         {
-            "id": "90f57cdf-0cad-4930-ae8d-00cf206c64f9",
-            "name": "Oleg Trofim",
-            "address": "Born in 1960 in Kharkiv, known for films addressing social issues",
-            "description": "Born in 1960 in Kharkiv, Trofim is celebrated for his films that delve into complex social issues, portraying the intricacies of Ukrainian society with depth and sensitivity, earning him critical acclaim both nationally and internationally.",
-            "constructionDate": "1968-1973 ",
-            "destructionDate": "01.03.2022",
-            "type": "FILMMAKER",
-            "status": "DAMAGED",
-            "level": "NO_REGISTER",
-            "ownership": "PRIVATE",
-            "coordinates": {
-                "lat": 50.003731,
-                "lon": 36.250187
-            },
-            "photos": [
-                {
-                    "id": "e386d1de-5fb0-432a-b77e-1391772e7495",
-                    "monumentId": "90f57cdf-0cad-4930-ae8d-00cf206c64f9",
-                    "reportedMonumentId": null,
-                    "publicFileUrl": "https://storage.googleapis.com/saveartua-bucket/trofim.jpg",
-                    "originalFileName": "7-1.jpg",
-                    "createdAt": 1650220333672
-                }
-            ]
-        },
-        {
             "id": "2114f53c-0e24-49c9-a22f-b9d9cdcbbf39",
             "name": "Viktor Lysak",
             "address": "Born in 1981 in Kyiv, director of social films",

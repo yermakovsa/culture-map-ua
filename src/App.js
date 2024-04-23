@@ -76,11 +76,6 @@ function App() {
         <meta property="og:site_name" content="SaveArtUA" />
         <meta property="og:image" content="" />
         <meta property="og:url" content="" /> */}
-        <meta property="og:title" content="СЛАВА УКРАЇНІ" />
-        <meta
-          property="og:description"
-          content="Показуємо, як росія нищить українську культуру."
-        />
       </Helmet>
       {donated === 1 ? (
         <SuccessPopUp
@@ -100,6 +95,7 @@ function App() {
       ) : null}
       <Routes>
         <Route path={`/${i18n.language}/`} element={<MapBox />} />
+        <Route path={`/`} element={<MapBox />} />
         {/* <Route path={`/${i18n.language}/partners`} element={<Partners />} /> */}
         {/* <Route path={`/${i18n.language}/blog`} element={<Blog />} />
         <Route path={`/${i18n.language}/blog/:id/`} element={<Article />} /> */}
